@@ -1,0 +1,679 @@
+State,Level,Name,TRU,TOT_M,TOT_F,District_Key,Ratio
+0,india,india,Total,623270258,587584719,0_India,0.9427446785050988
+JK,state,jammu and kashmir,Total,6640662,5900640,JK_Jammu And Kashmir,0.8885620138474146
+JK,district,kupwara,Total,474190,396164,JK_Kupwara,0.8354541428541302
+JK,district,budgam,Total,398041,355704,JK_Budgam,0.893636585175899
+LA,district,leh,Total,78971,54516,LA_Leh,0.690329361411151
+LA,district,kargil,Total,77785,63017,LA_Kargil,0.8101433438323584
+JK,district,punch,Total,251899,224936,JK_Punch,0.8929610677295265
+JK,district,rajouri,Total,345351,297064,JK_Rajouri,0.8601799328798816
+JK,district,kathua,Total,326109,290326,JK_Kathua,0.8902728842196934
+JK,district,baramulla,Total,534733,473306,JK_Baramulla,0.8851258478530407
+JK,district,bandipora,Total,207680,184552,JK_Bandipora,0.8886363636363637
+JK,district,srinagar,Total,651124,585705,JK_Srinagar,0.8995291219491218
+JK,district,ganderbal,Total,158720,138726,JK_Ganderbal,0.8740297379032258
+JK,district,pulwama,Total,293064,267376,JK_Pulwama,0.9123467911445964
+JK,district,shopiyan,Total,136480,129735,JK_Shopiyan,0.9505788393903869
+JK,district,anantnag,Total,559767,518925,JK_Anantnag,0.9270374995310549
+JK,district,kulgam,Total,217620,206863,JK_Kulgam,0.9505698005698006
+JK,district,doda,Total,213641,196295,JK_Doda,0.9188077194920451
+JK,district,ramban,Total,149132,134581,JK_Ramban,0.9024287208647372
+JK,district,kishtwar,Total,120165,110531,JK_Kishtwar,0.9198269046727416
+JK,district,udhampur,Total,296784,258201,JK_Udhampur,0.8699963609898108
+JK,district,reasi,Total,166461,148206,JK_Reasi,0.8903346729864653
+JK,district,jammu,Total,813821,716137,JK_Jammu,0.8799686909037737
+JK,district,samba,Total,169124,149774,JK_Samba,0.8855869066483764
+HP,state,himachal pradesh,Total,3481873,3382729,HP_Himachal Pradesh,0.9715256702355313
+HP,district,chamba,Total,261320,257760,HP_Chamba,0.9863768559620388
+HP,district,kangra,Total,750591,759484,HP_Kangra,1.0118479971116094
+HP,district,lahaul and spiti,Total,16588,14976,HP_Lahaul and Spiti,0.9028213166144201
+HP,district,kullu,Total,225452,212451,HP_Kullu,0.9423336231215513
+HP,district,mandi,Total,498065,501712,HP_Mandi,1.0073223374459157
+HP,district,hamirpur,Total,217070,237698,HP_Hamirpur,1.0950292532362833
+HP,district,una,Total,263692,257481,HP_Una,0.9764460051878707
+HP,district,bilaspur,Total,192764,189192,HP_Bilaspur,0.981469569006661
+HP,district,solan,Total,308754,271566,HP_Solan,0.8795545968635224
+HP,district,sirmaur,Total,276289,253566,HP_Sirmaur,0.9177564072402448
+HP,district,shimla,Total,425039,388971,HP_Shimla,0.9151419046252226
+HP,district,kinnaur,Total,46249,37872,HP_Kinnaur,0.8188717593893922
+PB,state,punjab,Total,14639465,13103873,PB_Punjab,0.8951060028491479
+PB,district,gurdaspur,Total,1212617,1085706,PB_Gurdaspur,0.8953412330521509
+PB,district,kapurthala,Total,426311,388857,PB_Kapurthala,0.9121439512468597
+PB,district,jalandhar,Total,1145211,1048379,PB_Jalandhar,0.9154461492249026
+PB,district,hoshiarpur,Total,809057,777568,PB_Hoshiarpur,0.9610793800684007
+PB,district,shahid bhagat singh nagar,Total,313291,299019,PB_Shahid Bhagat Singh Nagar,0.9544449090462223
+PB,district,fatehgarh sahib,Total,320795,279368,PB_Fatehgarh Sahib,0.8708614535762714
+PB,district,ludhiana,Total,1867816,1630923,PB_Ludhiana,0.8731711260638093
+PB,district,moga,Total,525920,469826,PB_Moga,0.8933411925768178
+PB,district,ferozepur,Total,1071637,957437,PB_Ferozepur,0.893434063960091
+PB,district,sri muktsar sahib,Total,475622,426274,PB_Sri Muktsar Sahib,0.8962453376841273
+PB,district,faridkot,Total,326671,290837,PB_Faridkot,0.8903055367632878
+PB,district,bathinda,Total,743197,645328,PB_Bathinda,0.868313515797292
+PB,district,mansa,Total,408732,361019,PB_Mansa,0.8832658074239355
+PB,district,patiala,Total,1002522,893164,PB_Patiala,0.8909171070560048
+PB,district,amritsar,Total,1318408,1172248,PB_Amritsar,0.889139022214671
+PB,district,tarn taran,Total,589369,530258,PB_Tarn Taran,0.8997045993257196
+PB,district,rupnagar,Total,357485,327142,PB_Rupnagar,0.9151209141642307
+PB,district,s.a.s. nagar,Total,529253,465375,PB_S.A.S. Nagar,0.8793053605742434
+PB,district,sangrur,Total,878029,777140,PB_Sangrur,0.8850960503582456
+PB,district,barnala,Total,317522,278005,PB_Barnala,0.8755456314838027
+CH,state,chandigarh,Total,580663,474787,CH_Chandigarh,0.8176636017793454
+CH,district,chandigarh,Total,580663,474787,CH_Chandigarh,0.8176636017793454
+UT,state,uttarakhand,Total,5137773,4948519,UT_Uttarakhand,0.9631641958490575
+UT,district,uttarkashi,Total,168597,161489,UT_Uttarkashi,0.9578402937181563
+UT,district,chamoli,Total,193991,197614,UT_Chamoli,1.0186761241500895
+UT,district,rudraprayag,Total,114589,127696,UT_Rudraprayag,1.1143827068915864
+UT,district,tehri garhwal,Total,297986,320945,UT_Tehri Garhwal,1.077047243830247
+UT,district,dehradun,Total,892199,804495,UT_Dehradun,0.9016990604114105
+UT,district,pauri garhwal,Total,326829,360442,UT_Pauri Garhwal,1.1028458306943387
+UT,district,pithoragarh,Total,239306,244133,UT_Pithoragarh,1.0201708273089685
+UT,district,bageshwar,Total,124326,135572,UT_Bageshwar,1.0904557373357142
+UT,district,almora,Total,291081,331425,UT_Almora,1.1386005957104723
+UT,district,champawat,Total,131125,128523,UT_Champawat,0.9801563393708294
+UT,district,nainital,Total,493666,460939,UT_Nainital,0.9337061900151115
+UT,district,udham singh nagar,Total,858783,790119,UT_Udham Singh Nagar,0.9200449939041644
+UT,district,haridwar,Total,1005295,885127,UT_Haridwar,0.8804649381524826
+HR,state,haryana,Total,13494734,11856728,HR_Haryana,0.8786188745921186
+HR,district,panchkula,Total,299679,261614,HR_Panchkula,0.8729807560756676
+HR,district,ambala,Total,598703,529647,HR_Ambala,0.8846573342709156
+HR,district,yamunanagar,Total,646718,567487,HR_Yamunanagar,0.8774875602658345
+HR,district,kurukshetra,Total,510976,453679,HR_Kurukshetra,0.8878675319388778
+HR,district,kaithal,Total,571003,503301,HR_Kaithal,0.8814331973737441
+HR,district,karnal,Total,797712,707612,HR_Karnal,0.8870519686302826
+HR,district,panipat,Total,646857,558580,HR_Panipat,0.86352934265224
+HR,district,sonipat,Total,781299,668702,HR_Sonipat,0.8558848789003953
+HR,district,jind,Total,713006,621146,HR_Jind,0.8711651795356561
+HR,district,fatehabad,Total,495360,446651,HR_Fatehabad,0.9016694928940568
+HR,district,sirsa,Total,682582,612607,HR_Sirsa,0.8974848443117457
+HR,district,hisar,Total,931562,812369,HR_Hisar,0.87205038419343
+HR,district,bhiwani,Total,866672,767773,HR_Bhiwani,0.8858864714678679
+HR,district,rohtak,Total,568479,492725,HR_Rohtak,0.8667426589196786
+HR,district,jhajjar,Total,514667,443738,HR_Jhajjar,0.8621846747508584
+HR,district,mahendragarh,Total,486665,435423,HR_Mahendragarh,0.8947078585885568
+HR,district,rewari,Total,474335,425997,HR_Rewari,0.8980931198414622
+HR,district,gurugram,Total,816690,697742,HR_Gurugram,0.8543535490822711
+HR,district,nuh,Total,571162,518101,HR_Nuh,0.9070999121089989
+HR,district,faridabad,Total,966110,843623,HR_Faridabad,0.8732163004212771
+HR,district,palwal,Total,554497,488211,HR_Palwal,0.8804574235748795
+DL,state,delhi,Total,8987326,7800615,DL_Delhi,0.8679572767250237
+DL,district,north west delhi,Total,1960922,1695617,DL_North West Delhi,0.8647039504885967
+DL,district,north delhi,Total,475002,412976,DL_North Delhi,0.8694194971810645
+DL,district,north east delhi,Total,1188425,1053199,DL_North East Delhi,0.8862141069061994
+DL,district,east delhi,Total,907500,801846,DL_East Delhi,0.8835768595041322
+DL,district,new delhi,Total,77942,64062,DL_New Delhi,0.8219188627440918
+DL,district,central delhi,Total,307821,274499,DL_Central Delhi,0.8917487760744068
+DL,district,west delhi,Total,1356240,1187003,DL_West Delhi,0.8752160384592698
+DL,district,south west delhi,Total,1246046,1046912,DL_South West Delhi,0.8401872804053783
+DL,district,south delhi,Total,1467428,1264501,DL_South Delhi,0.861712465620119
+RJ,state,rajasthan,Total,35550997,32997440,RJ_Rajasthan,0.9281720003520576
+RJ,district,ganganagar,Total,1043340,925828,RJ_Ganganagar,0.8873694097801292
+RJ,district,hanumangarh,Total,931184,843508,RJ_Hanumangarh,0.9058446021409302
+RJ,district,bikaner,Total,1240801,1123136,RJ_Bikaner,0.9051701280060219
+RJ,district,churu,Total,1051446,988101,RJ_Churu,0.9397543953755114
+RJ,district,jhunjhunu,Total,1095896,1041149,RJ_Jhunjhunu,0.9500436172775519
+RJ,district,alwar,Total,1939026,1735153,RJ_Alwar,0.894858036973202
+RJ,district,bharatpur,Total,1355726,1192736,RJ_Bharatpur,0.8797765920252323
+RJ,district,dholpur,Total,653647,552869,RJ_Dholpur,0.845821980365549
+RJ,district,karauli,Total,783639,674609,RJ_Karauli,0.8608670574078116
+RJ,district,sawai madhopur,Total,704031,631520,RJ_Sawai Madhopur,0.897005955703655
+RJ,district,dausa,Total,857787,776622,RJ_Dausa,0.9053786079761059
+RJ,district,jaipur,Total,3468507,3157671,RJ_Jaipur,0.9103833436115308
+RJ,district,sikar,Total,1374990,1302343,RJ_Sikar,0.9471654339304286
+RJ,district,nagaur,Total,1696325,1611418,RJ_Nagaur,0.9499465019969641
+RJ,district,jodhpur,Total,1923928,1763237,RJ_Jodhpur,0.9164776436540245
+RJ,district,jaisalmer,Total,361708,308211,RJ_Jaisalmer,0.8520989306291262
+RJ,district,barmer,Total,1369022,1234729,RJ_Barmer,0.901905886099712
+RJ,district,jalore,Total,936634,892096,RJ_Jalore,0.9524488754412076
+RJ,district,sirohi,Total,534231,502115,RJ_Sirohi,0.9398836832755868
+RJ,district,pali,Total,1025422,1012151,RJ_Pali,0.9870580112383
+RJ,district,ajmer,Total,1324085,1258967,RJ_Ajmer,0.9508203778458332
+RJ,district,tonk,Total,728136,693190,RJ_Tonk,0.9520062186184999
+RJ,district,bundi,Total,577160,533746,RJ_Bundi,0.9247799570309793
+RJ,district,bhilwara,Total,1220736,1187787,RJ_Bhilwara,0.973008906102548
+RJ,district,rajsamand,Total,581339,575258,RJ_Rajsamand,0.9895396661844466
+RJ,district,dungarpur,Total,696532,692020,RJ_Dungarpur,0.9935221928066478
+RJ,district,banswara,Total,907754,889731,RJ_Banswara,0.9801455019752048
+RJ,district,chittorgarh,Total,783171,761167,RJ_Chittorgarh,0.971903964779084
+RJ,district,kota,Total,1021161,929853,RJ_Kota,0.9105841292411285
+RJ,district,baran,Total,633945,588810,RJ_Baran,0.9288029718666446
+RJ,district,jhalawar,Total,725143,685986,RJ_Jhalawar,0.9460009956656825
+RJ,district,udaipur,Total,1566801,1501619,RJ_Udaipur,0.9583980352322982
+RJ,district,pratapgarh,Total,437744,430104,RJ_Pratapgarh,0.9825468767133302
+UP,state,uttar pradesh,Total,104480510,95331831,UP_Uttar Pradesh,0.9124365013149343
+UP,district,saharanpur,Total,1834106,1632276,UP_Saharanpur,0.8899572870924581
+UP,district,muzaffarnagar,Total,2193434,1950078,UP_Muzaffarnagar,0.8890525085322831
+UP,district,bijnor,Total,1921215,1761498,UP_Bijnor,0.9168666703101943
+UP,district,moradabad,Total,2503186,2268820,UP_Moradabad,0.9063729183528512
+UP,district,rampur,Total,1223889,1111930,UP_Rampur,0.90852193295307
+UP,district,amroha,Total,963449,876772,UP_Amroha,0.9100346774972001
+UP,district,meerut,Total,1825743,1617946,UP_Meerut,0.8861849668874535
+UP,district,baghpat,Total,700070,602978,UP_Baghpat,0.8613110117559672
+UP,district,ghaziabad,Total,2488834,2192811,UP_Ghaziabad,0.8810595644386086
+UP,district,gautam buddha nagar,Total,890214,757901,UP_Gautam Buddha Nagar,0.8513694459983779
+UP,district,bulandshahr,Total,1845260,1653911,UP_Bulandshahr,0.896302418087424
+UP,district,aligarh,Total,1951996,1721893,UP_Aligarh,0.8821191231949246
+UP,district,hathras,Total,836127,728581,UP_Hathras,0.8713759991006151
+UP,district,mathura,Total,1367125,1180059,UP_Mathura,0.8631683276949803
+UP,district,agra,Total,2364953,2053844,UP_Agra,0.868450239814491
+UP,district,firozabad,Total,1332046,1166110,UP_Firozabad,0.8754277254689402
+UP,district,mainpuri,Total,993377,875152,UP_Mainpuri,0.8809867754135641
+UP,district,budaun,Total,1967759,1714137,UP_Budaun,0.8711112488876941
+UP,district,bareilly,Total,2357665,2090694,UP_Bareilly,0.8867646591012718
+UP,district,pilibhit,Total,1072002,959005,UP_Pilibhit,0.8945925474019638
+UP,district,shahjahanpur,Total,1606403,1400135,UP_Shahjahanpur,0.8715963553354917
+UP,district,lakhimpur kheri,Total,2123187,1898056,UP_Lakhimpur Kheri,0.8939655338884422
+UP,district,sitapur,Total,2375264,2108728,UP_Sitapur,0.8877867891737508
+UP,district,hardoi,Total,2191442,1901403,UP_Hardoi,0.8676492464778899
+UP,district,unnao,Total,1630087,1478280,UP_Unnao,0.9068718418096703
+UP,district,lucknow,Total,2394476,2195362,UP_Lucknow,0.9168444369457034
+UP,district,rae bareli,Total,1752542,1653017,UP_Rae Bareli,0.9432110614182142
+UP,district,farrukhabad,Total,1006240,878964,UP_Farrukhabad,0.8735132771505804
+UP,district,kannauj,Total,881776,774840,UP_Kannauj,0.878726570013246
+UP,district,etawah,Total,845856,735954,UP_Etawah,0.8700700828509818
+UP,district,auraiya,Total,740040,639505,UP_Auraiya,0.8641492351764769
+UP,district,kanpur dehat,Total,963255,832929,UP_Kanpur Dehat,0.8647024931093013
+UP,district,kanpur nagar,Total,2459806,2121462,UP_Kanpur Nagar,0.8624509412530907
+UP,district,jalaun,Total,906092,783882,UP_Jalaun,0.8651240712863595
+UP,district,jhansi,Total,1057436,941167,UP_Jhansi,0.8900463006744617
+UP,district,lalitpur,Total,641011,580581,UP_Lalitpur,0.905727046805749
+UP,district,hamirpur,Total,593537,510748,UP_Hamirpur,0.8605158566357278
+UP,district,mahoba,Total,466358,409600,UP_Mahoba,0.8782952152638102
+UP,district,banda,Total,965876,833534,UP_Banda,0.8629824118209791
+UP,district,chitrakoot,Total,527721,464009,UP_Chitrakoot,0.8792695382598001
+UP,district,fatehpur,Total,1384722,1248011,UP_Fatehpur,0.9012718798430298
+UP,district,pratapgarh,Total,1606085,1603056,UP_Pratapgarh,0.9981140475130519
+UP,district,kaushambi,Total,838485,761111,UP_Kaushambi,0.9077216646690162
+UP,district,prayagraj,Total,3131807,2822584,UP_Prayagraj,0.9012637113334251
+UP,district,barabanki,Total,1707073,1553626,UP_Barabanki,0.9101110497324953
+UP,district,ayodhya,Total,1259628,1211368,UP_Ayodhya,0.961687101271169
+UP,district,ambedkar nagar,Total,1212410,1185478,UP_Ambedkar Nagar,0.9777863923920126
+UP,district,sultanpur,Total,1914586,1882531,UP_Sultanpur,0.9832574770733725
+UP,district,bahraich,Total,1843884,1643847,UP_Bahraich,0.8915132405292306
+UP,district,shrawasti,Total,593897,523464,UP_Shrawasti,0.8814053615357546
+UP,district,balrampur,Total,1114721,1033944,UP_Balrampur,0.9275361278741496
+UP,district,gonda,Total,1787146,1646773,UP_Gonda,0.921454094964821
+UP,district,siddharthnagar,Total,1295095,1264202,UP_Siddharthnagar,0.9761461514406279
+UP,district,basti,Total,1255272,1209192,UP_Basti,0.9632908246180908
+UP,district,sant kabir nagar,Total,869656,845527,UP_Sant Kabir Nagar,0.9722545466253323
+UP,district,maharajganj,Total,1381754,1302949,UP_Maharajganj,0.9429674167760687
+UP,district,gorakhpur,Total,2277777,2163118,UP_Gorakhpur,0.9496618852503999
+UP,district,kushinagar,Total,1818055,1746489,UP_Kushinagar,0.9606359543578165
+UP,district,deoria,Total,1537436,1563510,UP_Deoria,1.016959405139466
+UP,district,azamgarh,Total,2285004,2328909,UP_Azamgarh,1.0192144083774033
+UP,district,mau,Total,1114709,1091259,UP_Mau,0.9789631195226737
+UP,district,ballia,Total,1672902,1566872,UP_Ballia,0.9366191205462125
+UP,district,jaunpur,Total,2220465,2273739,UP_Jaunpur,1.0239922718889962
+UP,district,ghazipur,Total,1855075,1765193,UP_Ghazipur,0.9515480506178996
+UP,district,chandauli,Total,1017905,934851,UP_Chandauli,0.9184069240253265
+UP,district,varanasi,Total,1921857,1754984,UP_Varanasi,0.9131709591296334
+UP,district,bhadohi,Total,807099,771114,UP_Bhadohi,0.9554143915430449
+UP,district,mirzapur,Total,1312302,1184668,UP_Mirzapur,0.9027403753099515
+UP,district,sonbhadra,Total,971344,891215,UP_Sonbhadra,0.9175070829695762
+UP,district,etah,Total,947339,827141,UP_Etah,0.8731203930166498
+UP,district,kasganj,Total,764165,672554,UP_Kasganj,0.8801162052698043
+BR,state,bihar,Total,54278157,49821295,BR_Bihar,0.9178884795222505
+BR,district,west champaran,Total,2061110,1873932,BR_West Champaran,0.9091858270543542
+BR,district,east champaran,Total,2681209,2418162,BR_East Champaran,0.9018923925736487
+BR,district,sheohar,Total,346673,309573,BR_Sheohar,0.8929827243540743
+BR,district,sitamarhi,Total,1803252,1620322,BR_Sitamarhi,0.8985554986213796
+BR,district,madhubani,Total,2329313,2158066,BR_Madhubani,0.926481756638116
+BR,district,supaul,Total,1155283,1073793,BR_Supaul,0.9294631704958871
+BR,district,araria,Total,1463333,1348236,BR_Araria,0.9213459957507963
+BR,district,kishanganj,Total,866970,823430,BR_Kishanganj,0.9497791157710186
+BR,district,purnia,Total,1699370,1565249,BR_Purnia,0.9210760458287482
+BR,district,katihar,Total,1600430,1470599,BR_Katihar,0.9188774266915767
+BR,district,madhepura,Total,1047559,954203,BR_Madhepura,0.9108823464835871
+BR,district,saharsa,Total,997174,903487,BR_Saharsa,0.9060474902073259
+BR,district,darbhanga,Total,2059949,1877436,BR_Darbhanga,0.9113992627972829
+BR,district,muzaffarpur,Total,2527497,2273565,BR_Muzaffarpur,0.8995322249640653
+DN,state,dadra and nagar haveli and daman and diu,Total,344061,242895,DN_Dadra And Nagar Haveli And Daman And Diu,0.7059649306372998
+BR,district,siwan,Total,1675090,1655374,BR_Siwan,0.9882298861553708
+BR,district,saran,Total,2022821,1929041,BR_Saran,0.9536390021657872
+BR,district,vaishali,Total,1844535,1650486,BR_Vaishali,0.8947978758874188
+BR,district,samastipur,Total,2230003,2031563,BR_Samastipur,0.9110135726274807
+BR,district,begusarai,Total,1567660,1402881,BR_Begusarai,0.894888560019392
+BR,district,khagaria,Total,883786,783100,BR_Khagaria,0.8860742306395439
+BR,district,bhagalpur,Total,1615663,1422103,BR_Bhagalpur,0.8801977887715445
+BR,district,banka,Total,1067140,967623,BR_Banka,0.9067441947635737
+BR,district,munger,Total,729041,638724,BR_Munger,0.8761153350771768
+BR,district,lakhisarai,Total,526345,474567,BR_Lakhisarai,0.9016272596870873
+BR,district,sheikhpura,Total,329743,306599,BR_Sheikhpura,0.9298120051070076
+BR,district,nalanda,Total,1497060,1380593,BR_Nalanda,0.9222028509211387
+BR,district,patna,Total,3078512,2759953,BR_Patna,0.8965217611625357
+BR,district,bhojpur,Total,1430380,1298027,BR_Bhojpur,0.9074700429256561
+BR,district,buxar,Total,887977,818375,BR_Buxar,0.9216173391878393
+BR,district,kaimur,Total,847006,779378,BR_Kaimur,0.920156409753886
+BR,district,rohtas,Total,1543546,1416372,BR_Rohtas,0.917609193376809
+BR,district,aurangabad,Total,1318684,1221389,BR_Aurangabad,0.926218108356513
+BR,district,gaya,Total,2266566,2124852,BR_Gaya,0.9374763408610206
+BR,district,nawada,Total,1144668,1074478,BR_Nawada,0.9386809100979498
+BR,district,jamui,Total,916064,844341,BR_Jamui,0.9217052520347924
+BR,district,jehanabad,Total,585582,539731,BR_Jehanabad,0.9217001205638151
+BR,district,arwal,Total,363497,337346,BR_Arwal,0.9280571779134353
+SK,state,sikkim,Total,323070,287507,SK_Sikkim,0.8899216887980933
+SK,district,north  district,Total,24730,18979,SK_North  District,0.7674484431864133
+SK,district,west district,Total,70238,66197,SK_West District,0.9424670406332755
+SK,district,south district,Total,76670,70180,SK_South District,0.9153515064562411
+SK,district,east district,Total,151432,132151,SK_East District,0.8726755243277511
+AR,state,arunachal pradesh,Total,713912,669815,AR_Arunachal Pradesh,0.9382318829211443
+AR,district,tawang,Total,29151,20826,AR_Tawang,0.714418030256252
+AR,district,west kameng,Total,46155,37792,AR_West Kameng,0.8188061965117539
+AR,district,east kameng,Total,38775,39915,AR_East Kameng,1.0294003868471953
+AR,district,papum pare,Total,89182,87391,AR_Papum Pare,0.9799174721356327
+AR,district,upper subansiri,Total,41758,41690,AR_Upper Subansiri,0.998371569519613
+AR,district,west siang,Total,58168,54106,AR_West Siang,0.9301677898500894
+AR,district,east siang,Total,50116,49098,AR_East Siang,0.9796871258679862
+AR,district,upper siang,Total,18699,16621,AR_Upper Siang,0.8888710626236697
+AR,district,changlang,Total,76948,71278,AR_Changlang,0.9263138743047252
+AR,district,tirap,Total,57604,54371,AR_Tirap,0.9438754253176863
+AR,district,lower subansiri,Total,41843,41187,AR_Lower Subansiri,0.9843223478240088
+AR,district,kurung kumey,Total,45318,46758,AR_Kurung Kumey,1.0317754534622003
+AR,district,upper dibang valley,Total,4414,3590,AR_Upper Dibang Valley,0.8133212505663797
+AR,district,lower dibang valley,Total,28053,26027,AR_Lower Dibang Valley,0.9277795601183474
+AR,district,lohit,Total,76221,69505,AR_Lohit,0.911887799950145
+AR,district,anjaw,Total,11507,9660,AR_Anjaw,0.839489006691579
+NL,state,nagaland,Total,1024649,953853,NL_Nagaland,0.9309070715923209
+NL,district,mon,Total,131753,118507,NL_Mon,0.8994633898279356
+NL,district,mokokchung,Total,101092,93530,NL_Mokokchung,0.9251968503937008
+NL,district,zunheboto,Total,71217,69540,NL_Zunheboto,0.9764522515691478
+NL,district,wokha,Total,84505,81838,NL_Wokha,0.9684397372936513
+NL,district,dimapur,Total,197394,181417,NL_Dimapur,0.9190603564444715
+NL,district,phek,Total,83743,79675,NL_Phek,0.9514228054882199
+NL,district,tuensang,Total,101933,94663,NL_Tuensang,0.9286786418529819
+NL,district,longleng,Total,26502,23982,NL_Longleng,0.9049128367670365
+NL,district,kiphire,Total,37830,36174,NL_Kiphire,0.9562252180808882
+NL,district,kohima,Total,138966,129022,NL_Kohima,0.9284429284861045
+NL,district,peren,Total,49714,45505,NL_Peren,0.9153357203202317
+MN,state,manipur,Total,1438586,1417208,MN_Manipur,0.9851395745544583
+MN,district,senapati,Total,247323,231825,MN_Senapati,0.9373370046457467
+MN,district,tamenglong,Total,72371,68280,MN_Tamenglong,0.9434718326401459
+MN,district,churachandpur,Total,138820,135323,MN_Churachandpur,0.9748091053162369
+MN,district,bishnupur,Total,118782,118617,MN_Bishnupur,0.9986109006415114
+MN,district,thoubal,Total,210845,211323,MN_Thoubal,1.0022670682254737
+MN,district,imphal west,Total,255054,262938,MN_Imphal West,1.0309111011785739
+MN,district,imphal east,Total,226094,230019,MN_Imphal East,1.0173600360911834
+MN,district,ukhrul,Total,94718,89280,MN_Ukhrul,0.9425874701746236
+MN,district,chandel,Total,74579,69603,MN_Chandel,0.9332788050255434
+MZ,state,mizoram,Total,555339,541867,MZ_Mizoram,0.975740943819901
+MZ,district,mamit,Total,44828,41536,MZ_Mamit,0.9265637547961095
+MZ,district,kolasib,Total,42918,41037,MZ_Kolasib,0.9561722354256955
+MZ,district,aizawl,Total,199270,201039,MZ_Aizawl,1.008877402519195
+MZ,district,champhai,Total,63388,62357,MZ_Champhai,0.9837350918154856
+MZ,district,serchhip,Total,32851,32086,MZ_Serchhip,0.976713037654866
+MZ,district,lunglei,Total,82891,78537,MZ_Lunglei,0.9474731876802065
+MZ,district,lawngtlai,Total,60599,57295,MZ_Lawngtlai,0.945477648146009
+MZ,district,saiha,Total,28594,27980,MZ_Saiha,0.9785269636986781
+TR,state,tripura,Total,1874376,1799541,TR_Tripura,0.9600747128644412
+TR,district,west tripura,Total,879428,846311,TR_West Tripura,0.9623425681238259
+TR,district,south tripura,Total,447544,428457,TR_South Tripura,0.9573516793879484
+TR,district,dhalai,Total,194544,183686,TR_Dhalai,0.9441874331770704
+TR,district,north tripura,Total,352860,341087,TR_North Tripura,0.9666354928300176
+ML,state,meghalaya,Total,1491832,1475057,ML_Meghalaya,0.9887554362689632
+ML,district,west garo hills,Total,324159,319132,ML_West Garo Hills,0.9844921782211816
+ML,district,east garo hills,Total,161223,156694,ML_East Garo Hills,0.9719084745972969
+ML,district,south garo hills,Total,73170,69164,ML_South Garo Hills,0.9452507858411917
+ML,district,west khasi hills,Total,193715,189746,ML_West Khasi Hills,0.9795111374958057
+ML,district,ribhoi,Total,132531,126309,ML_Ribhoi,0.9530524933789076
+ML,district,east khasi hills,Total,410749,415173,ML_East Khasi Hills,1.010770567913738
+ML,district,east jaintia hills,Total,196285,198839,ML_East Jaintia Hills,1.013011692182286
+AS,state,assam,Total,15939443,15266133,AS_Assam,0.9577582478885868
+AS,district,kokrajhar,Total,452905,434237,AS_Kokrajhar,0.9587816429494044
+AS,district,dhubri,Total,997848,951410,AS_Dhubri,0.9534618499009869
+AS,district,goalpara,Total,513292,494891,AS_Goalpara,0.9641510095618089
+AS,district,barpeta,Total,867004,826618,AS_Barpeta,0.9534189000281429
+AS,district,morigaon,Total,486651,470772,AS_Morigaon,0.9673708674183347
+AS,district,nagaon,Total,1439112,1384656,AS_Nagaon,0.9621599986658439
+AS,district,sonitpur,Total,983904,940206,AS_Sonitpur,0.9555871304517514
+AS,district,lakhimpur,Total,529674,512463,AS_Lakhimpur,0.9675064284824251
+AS,district,dhemaji,Total,351249,334884,AS_Dhemaji,0.9534091200259645
+AS,district,tinsukia,Total,680231,647698,AS_Tinsukia,0.952173599850639
+AS,district,dibrugarh,Total,676434,649901,AS_Dibrugarh,0.9607751827968435
+AS,district,sivasagar,Total,589216,561834,AS_Sivasagar,0.9535280779883778
+AS,district,jorhat,Total,556805,535451,AS_Jorhat,0.9616490512836631
+AS,district,golaghat,Total,543161,523727,AS_Golaghat,0.964220553390247
+AS,district,karbi anglong,Total,490167,466146,AS_Karbi Anglong,0.9509942529790867
+AS,district,dima hasao,Total,110802,103300,AS_Dima Hasao,0.9322936409090089
+AS,district,cachar,Total,886284,850333,AS_Cachar,0.9594362529392384
+AS,district,karimganj,Total,625864,602822,AS_Karimganj,0.9631836948602253
+AS,district,hailakandi,Total,337890,321406,AS_Hailakandi,0.9512148924206103
+AS,district,bongaigaon,Total,375818,362986,AS_Bongaigaon,0.9658558131861699
+AS,district,chirang,Total,244860,237302,AS_Chirang,0.9691333823409295
+AS,district,kamrup,Total,778461,739081,AS_Kamrup,0.9494130084872588
+AS,district,kamrup metropolitan,Total,647585,606353,AS_Kamrup Metropolitan,0.9363295937984975
+AS,district,nalbari,Total,396006,375633,AS_Nalbari,0.9485538097907608
+AS,district,baksa,Total,481330,468745,AS_Baksa,0.9738536970477635
+AS,district,darrang,Total,475273,453227,AS_Darrang,0.9536140281480329
+AS,district,udalguri,Total,421617,410051,AS_Udalguri,0.9725675198106338
+WB,state,west bengal,Total,46809027,44467088,WB_West Bengal,0.9499682187369543
+WB,district,darjeeling,Total,937259,909564,WB_Darjeeling,0.9704510706218878
+WB,district,jalpaiguri,Total,1983064,1889782,WB_Jalpaiguri,0.9529606709617037
+WB,district,cooch behar,Total,1451542,1367544,WB_Cooch Behar,0.9421318845751622
+WB,district,uttar dinajpur,Total,1551066,1456068,WB_Uttar Dinajpur,0.9387530898104917
+WB,district,dakshin dinajpur,Total,857199,819077,WB_Dakshin Dinajpur,0.9555272462987008
+WB,district,malda,Total,2051541,1937304,WB_Malda,0.9443164918468605
+WB,district,murshidabad,Total,3627564,3476243,WB_Murshidabad,0.9582857807608632
+WB,district,birbhum,Total,1790920,1711484,WB_Birbhum,0.9556451432783151
+WB,district,paschim bardhaman,Total,3966889,3750674,WB_Paschim Bardhaman,0.9454950718308478
+WB,district,nadia,Total,2653768,2513832,WB_Nadia,0.947268939862113
+WB,district,north 24 parganas,Total,5119389,4890392,WB_North 24 Parganas,0.9552686853841347
+WB,district,hooghly,Total,2814653,2704492,WB_Hooghly,0.9608616053204427
+WB,district,bankura,Total,1838095,1758579,WB_Bankura,0.9567399943963724
+WB,district,purulia,Total,1496996,1433119,WB_Purulia,0.9573298793049547
+WB,district,howrah,Total,2500819,2349210,WB_Howrah,0.9393762603371135
+WB,district,kolkata,Total,2356766,2139928,WB_Kolkata,0.9079934113102446
+WB,district,south 24 parganas,Total,4173778,3988183,WB_South 24 Parganas,0.9555330925602655
+WB,district,paschim medinipur,Total,3007885,2905572,WB_Paschim Medinipur,0.9659850692430063
+WB,district,purba medinipur,Total,2629834,2466041,WB_Purba Medinipur,0.9377173616281483
+JH,state,jharkhand,Total,16930315,16057819,JH_Jharkhand,0.9484654597389357
+JH,district,garhwa,Total,683575,639209,JH_Garhwa,0.9350970998061661
+JH,district,chatra,Total,533935,508951,JH_Chatra,0.9532077874647663
+JH,district,koderma,Total,367222,349037,JH_Koderma,0.9504795464324033
+JH,district,giridih,Total,1258098,1187376,JH_Giridih,0.9437865730650553
+JH,district,deoghar,Total,775022,717051,JH_Deoghar,0.9252008330086113
+JH,district,godda,Total,677927,635624,JH_Godda,0.9375994760497812
+JH,district,sahibganj,Total,589391,561176,JH_Sahibganj,0.9521285530318583
+JH,district,pakur,Total,452661,447761,JH_Pakur,0.9891751222217068
+JH,district,dhanbad,Total,1405956,1278531,JH_Dhanbad,0.9093677184776764
+JH,district,bokaro,Total,1072807,989523,JH_Bokaro,0.9223681426388903
+JH,district,lohardaga,Total,232629,229161,JH_Lohardaga,0.9850921424242034
+JH,district,east singhbhum,Total,1176902,1117017,JH_East Singhbhum,0.949116409012815
+JH,district,palamu,Total,1006302,933567,JH_Palamu,0.927720505375126
+JH,district,latehar,Total,369666,357312,JH_Latehar,0.9665806430669848
+JH,district,hazaribagh,Total,890881,843614,JH_Hazaribagh,0.9469435311786871
+JH,district,ramgarh,Total,494230,455213,JH_Ramgarh,0.9210549744046295
+JH,district,dumka,Total,668514,652928,JH_Dumka,0.9766856041907873
+JH,district,jamtara,Total,404830,386212,JH_Jamtara,0.95401032532174
+JH,district,ranchi,Total,1494937,1419316,JH_Ranchi,0.9494152596397039
+JH,district,khunti,Total,266335,265550,JH_Khunti,0.9970525841515385
+JH,district,gumla,Total,514390,510823,JH_Gumla,0.9930655728144016
+JH,district,simdega,Total,300309,299269,JH_Simdega,0.9965369003259975
+JH,district,west singhbhum,Total,749385,752953,JH_West Singhbhum,1.0047612375481227
+JH,district,saraikela-kharsawan,Total,544411,520645,JH_Saraikela-Kharsawan,0.9563454816306063
+OR,state,odisha,Total,21212136,20762082,OR_Odisha,0.9787831833625807
+OR,district,bargarh,Total,749161,732094,OR_Bargarh,0.9772185151122389
+OR,district,jharsuguda,Total,296690,282815,OR_Jharsuguda,0.9532340153021672
+OR,district,sambalpur,Total,526877,514222,OR_Sambalpur,0.9759811113409771
+OR,district,deogarh,Total,158230,154290,OR_Deogarh,0.9750995386462744
+OR,district,sundargarh,Total,1061147,1032290,OR_Sundargarh,0.9728058412265219
+OR,district,kendujhar,Total,906487,895246,OR_Kendujhar,0.9875993809067312
+OR,district,mayurbhanj,Total,1256213,1263525,OR_Mayurbhanj,1.0058206689470655
+OR,district,balasore,Total,1185787,1134742,OR_Balasore,0.9569526398923247
+OR,district,bhadrak,Total,760260,746077,OR_Bhadrak,0.9813445400257806
+OR,district,kendrapara,Total,717814,722547,OR_Kendrapara,1.0065936301047347
+OR,district,jagatsinghpur,Total,577865,559106,OR_Jagatsinghpur,0.9675374006039473
+OR,district,cuttack,Total,1352760,1271710,OR_Cuttack,0.9400854549217895
+OR,district,jajpur,Total,926034,901158,OR_Jajpur,0.9731370554428888
+OR,district,dhenkanal,Total,612593,580218,OR_Dhenkanal,0.9471508815804294
+OR,district,angul,Total,655718,618103,OR_Angul,0.9426354011938058
+OR,district,nayagarh,Total,502636,460153,OR_Nayagarh,0.9154795915931211
+OR,district,khordha,Total,1167137,1084536,OR_Khordha,0.9292276742147666
+OR,district,puri,Total,865380,833350,OR_Puri,0.9629873581547991
+OR,district,ganjam,Total,1779218,1749813,OR_Ganjam,0.9834730763740025
+OR,district,gajapati,Total,282882,294935,OR_Gajapati,1.0426078718334852
+OR,district,kandhamal,Total,359945,373165,OR_Kandhamal,1.0367278334189947
+OR,district,boudh,Total,221625,219537,OR_Boudh,0.9905786802030457
+OR,district,subarnapur,Total,311312,298871,OR_Subarnapur,0.9600368761885183
+OR,district,balangir,Total,830097,818900,OR_Balangir,0.9865112149543969
+OR,district,nuapada,Total,301962,308420,OR_Nuapada,1.0213867970141939
+OR,district,kalahandi,Total,787101,789768,OR_Kalahandi,1.0033883834476134
+OR,district,rayagada,Total,471960,495951,OR_Rayagada,1.0508326976862445
+OR,district,nabarangapur,Total,604812,616134,OR_Nabarangapur,1.018719866669312
+OR,district,koraput,Total,678809,700838,OR_Koraput,1.0324524277079414
+OR,district,malkangiri,Total,303624,309568,OR_Malkangiri,1.0195768450451874
+CT,state,chhattisgarh,Total,12832895,12712303,CT_Chhattisgarh,0.9906028998133313
+CT,district,koriya,Total,334737,324180,CT_Koriya,0.9684618073293362
+CT,district,surguja,Total,1193129,1166757,CT_Surguja,0.9778967739448123
+CT,district,jashpur,Total,424747,426922,CT_Jashpur,1.0051206953786607
+CT,district,raigad,Total,750278,743706,CT_Raigad,0.991240580158288
+CT,district,korba,Total,612915,593725,CT_Korba,0.9686906014700244
+CT,district,janjgir champa,Total,815717,803990,CT_Janjgir Champa,0.9856236905691558
+CT,district,bilaspur,Total,1351574,1312055,CT_Bilaspur,0.9707607574576013
+CT,district,kabeerdham,Total,412058,410468,CT_Kabeerdham,0.9961413199112746
+CT,district,rajnandgaon,Total,762855,774278,CT_Rajnandgaon,1.014974012099285
+CT,district,durg,Total,1682101,1661771,CT_Durg,0.9879139243125116
+CT,district,raipur,Total,2048186,2015686,CT_Raipur,0.9841323004844287
+CT,district,mahasamund,Total,511967,520787,CT_Mahasamund,1.0172276728773535
+CT,district,dhamtari,Total,397897,401884,CT_Dhamtari,1.0100201811021445
+CT,district,uttar bastar kanker,Total,373338,375603,CT_Uttar Bastar Kanker,1.0060668884496087
+CT,district,bastar,Total,698487,714712,CT_Bastar,1.0232287787746945
+CT,district,narayanpur,Total,70104,69716,CT_Narayanpur,0.9944653657423257
+CT,district,dakshin bastar dantewada,Total,264142,269496,CT_Dakshin Bastar Dantewada,1.0202694005497044
+CT,district,bijapur,Total,128663,126567,CT_Bijapur,0.9837093803191282
+MP,state,madhya pradesh,Total,37612306,35014503,MP_Madhya Pradesh,0.9309320997228939
+MP,district,sheopur,Total,361784,326077,MP_Sheopur,0.9013029874179068
+MP,district,morena,Total,1068417,897553,MP_Morena,0.8400774229537717
+MP,district,bhind,Total,926843,776162,MP_Bhind,0.8374255402479168
+MP,district,gwalior,Total,1090327,941709,MP_Gwalior,0.8636941027783408
+MP,district,datia,Total,420157,366597,MP_Datia,0.8725238422780056
+MP,district,shivpuri,Total,919795,806255,MP_Shivpuri,0.8765594507471773
+MP,district,tikamgarh,Total,760355,684811,MP_Tikamgarh,0.9006464085854634
+MP,district,chhatarpur,Total,936121,826254,MP_Chhatarpur,0.882635898564395
+MP,district,panna,Total,533480,483040,MP_Panna,0.905451000974732
+MP,district,sagar,Total,1256257,1122201,MP_Sagar,0.8932893508255079
+MP,district,damoh,Total,661873,602346,MP_Damoh,0.910062806610936
+MP,district,satna,Total,1157495,1071440,MP_Satna,0.9256541064972202
+MP,district,rewa,Total,1225100,1140006,MP_Rewa,0.9305411803118113
+MP,district,umaria,Total,330674,314084,MP_Umaria,0.9498297416791159
+MP,district,neemuch,Total,422653,403414,MP_Neemuch,0.9544803893501288
+MP,district,mandsaur,Total,682851,657560,MP_Mandsaur,0.9629626375300029
+MP,district,ratlam,Total,738241,716828,MP_Ratlam,0.9709945668149019
+MP,district,ujjain,Total,1016289,970575,MP_Ujjain,0.9550187003893578
+MP,district,shajapur,Total,780520,732161,MP_Shajapur,0.9380425869932866
+MP,district,dewas,Total,805359,758356,MP_Dewas,0.9416372077545542
+MP,district,dhar,Total,1112725,1073068,MP_Dhar,0.9643604664225213
+MP,district,indore,Total,1699627,1577070,MP_Indore,0.9278918256770456
+MP,district,khargone,Total,953121,919925,MP_Khargone,0.9651712636695655
+MP,district,barwani,Total,699340,686541,MP_Barwani,0.9816984585466296
+MP,district,rajgarh,Total,790212,755602,MP_Rajgarh,0.956201626905185
+MP,district,vidisha,Total,769568,689307,MP_Vidisha,0.8957064223044617
+MP,district,bhopal,Total,1236130,1134931,MP_Bhopal,0.9181323970779772
+MP,district,sehore,Total,683743,627589,MP_Sehore,0.917872650981436
+MP,district,raisen,Total,700358,631239,MP_Raisen,0.9013090448028008
+MP,district,betul,Total,799236,776126,MP_Betul,0.9710848860661933
+MP,district,harda,Total,294838,275627,MP_Harda,0.9348421845216696
+MP,district,hoshangabad,Total,648725,592625,MP_Hoshangabad,0.9135226791013141
+MP,district,katni,Total,662013,630029,MP_Katni,0.9516867493538647
+MP,district,jabalpur,Total,1277278,1186011,MP_Jabalpur,0.9285457042241392
+MP,district,narsinghpur,Total,568810,523044,MP_Narsinghpur,0.9195407956962782
+MP,district,dindori,Total,351913,352611,MP_Dindori,1.0019834447718612
+MP,district,mandla,Total,525272,529633,MP_Mandla,1.0083023652507652
+MP,district,chhindwara,Total,1064468,1026454,MP_Chhindwara,0.9642882641845504
+MP,district,seoni,Total,695879,683252,MP_Seoni,0.9818546040331725
+MP,district,balaghat,Total,842178,859520,MP_Balaghat,1.020591846379269
+MP,district,guna,Total,649362,592157,MP_Guna,0.9119058398859188
+MP,district,ashoknagar,Total,443837,401234,MP_Ashoknagar,0.9040120584809288
+MP,district,shahdol,Total,540021,526042,MP_Shahdol,0.9741139696419213
+MP,district,anuppur,Total,379114,370123,MP_Anuppur,0.9762841783737873
+MP,district,sidhi,Total,575912,551121,MP_Sidhi,0.9569534928947478
+MP,district,singrauli,Total,613637,564636,MP_Singrauli,0.9201466013294505
+MP,district,jhabua,Total,515023,510025,MP_Jhabua,0.9902955790323927
+MP,district,alirajpur,Total,362542,366457,MP_Alirajpur,1.0107987488346177
+MP,district,khandwa,Total,674329,635732,MP_Khandwa,0.9427623608060753
+MP,district,burhanpur,Total,388504,369343,MP_Burhanpur,0.9506800444783066
+GJ,state,gujarat,Total,31491260,28948432,GJ_Gujarat,0.9192528974705998
+GJ,district,kutch,Total,1096737,995634,GJ_Kutch,0.9078147267758816
+GJ,district,banaskantha,Total,1610379,1510127,GJ_Banaskantha,0.9377463317641375
+GJ,district,patan,Total,694397,649337,GJ_Patan,0.935109166658266
+GJ,district,mehsana,Total,1056520,978544,GJ_Mehsana,0.9261954340665581
+GJ,district,sabarkantha,Total,1244231,1184358,GJ_Sabarkantha,0.9518795143345569
+GJ,district,gandhinagar,Total,723864,667889,GJ_Gandhinagar,0.9226719383751644
+GJ,district,ahmedabad,Total,3788051,3426174,GJ_Ahmedabad,0.9044688152297844
+GJ,district,surendranagar,Total,909917,846351,GJ_Surendranagar,0.9301408809814522
+GJ,district,rajkot,Total,1974445,1830113,GJ_Rajkot,0.9268999642937635
+GJ,district,jamnagar,Total,1114192,1045927,GJ_Jamnagar,0.9387313856139696
+GJ,district,porbandar,Total,300209,285240,GJ_Porbandar,0.9501380704775673
+GJ,district,junagadh,Total,1404356,1338726,GJ_Junagadh,0.9532668354747657
+GJ,district,amreli,Total,771049,743141,GJ_Amreli,0.9638051537580621
+GJ,district,bhavnagar,Total,1490201,1390164,GJ_Bhavnagar,0.9328701295999667
+GJ,district,anand,Total,1087224,1005521,GJ_Anand,0.9248517324856699
+GJ,district,kheda,Total,1185727,1114158,GJ_Kheda,0.9396412496299739
+GJ,district,panchmahal,Total,1226961,1163815,GJ_Panchmahal,0.9485346315001048
+GJ,district,dahod,Total,1068651,1058435,GJ_Dahod,0.9904402840590614
+GJ,district,vadodara,Total,2153736,2011890,GJ_Vadodara,0.9341395602803686
+GJ,district,narmada,Total,301086,289211,GJ_Narmada,0.9605594414884784
+GJ,district,bharuch,Total,805707,745312,GJ_Bharuch,0.9250409888458211
+GJ,district,dang,Total,113821,114470,GJ_Dang,1.0057019354952075
+GJ,district,navsari,Total,678165,651507,GJ_Navsari,0.9606909822830727
+GJ,district,valsad,Total,887222,818456,GJ_Valsad,0.9224929048197633
+GJ,district,surat,Total,3402224,2679098,GJ_Surat,0.7874549118458984
+GJ,district,tapi,Total,402188,404834,GJ_Tapi,1.006579012799984
+25,state,daman and diu,Total,150301,92946,25_Daman And Diu,0.6183990791811099
+DN,district,diu,Total,25642,26432,DN_Diu,1.030808829264488
+DN,district,daman,Total,124659,66514,DN_Daman,0.5335675723373362
+DN,state,dadra and nagar haveli,Total,193760,149949,DN_Dadra and Nagar Haveli,0.7738903798513626
+DN,district,dadra and nagar haveli,Total,193760,149949,DN_Dadra and Nagar Haveli,0.7738903798513626
+MH,state,maharashtra,Total,58243056,54131277,MH_Maharashtra,0.9294031034360559
+MH,district,nandurbar,Total,833170,815125,MH_Nandurbar,0.9783417549839769
+MH,district,dhule,Total,1054031,996831,MH_Dhule,0.9457321463979712
+MH,district,jalgaon,Total,2197365,2032552,MH_Jalgaon,0.9249951646631306
+MH,district,buldhana,Total,1337560,1248698,MH_Buldhana,0.9335641017973025
+MH,district,akola,Total,932334,881572,MH_Akola,0.945553846582877
+MH,district,washim,Total,620302,576858,MH_Washim,0.9299631469832437
+MH,district,amravati,Total,1480768,1407677,MH_Amravati,0.950639803129187
+MH,district,wardha,Total,668385,632389,MH_Wardha,0.9461448117477202
+MH,district,nagpur,Total,2384975,2268595,MH_Nagpur,0.9512028427970943
+MH,district,bhandara,Total,605520,594814,MH_Bhandara,0.9823193288413264
+MH,district,gondia,Total,661554,660953,MH_Gondia,0.9990915329663187
+MH,district,gadchiroli,Total,541328,531614,MH_Gadchiroli,0.9820552419235657
+MH,district,chandrapur,Total,1123834,1080473,MH_Chandrapur,0.9614168996488806
+MH,district,yavatmal,Total,1419965,1352383,MH_Yavatmal,0.9524058691587469
+MH,district,nanded,Total,1730075,1631217,MH_Nanded,0.9428591246044247
+MH,district,hingoli,Total,606294,571051,MH_Hingoli,0.9418714353102621
+MH,district,parbhani,Total,942870,893216,MH_Parbhani,0.9473373847932377
+MH,district,jalna,Total,1011473,947573,MH_Jalna,0.9368248089667248
+MH,district,aurangabad,Total,1924469,1776813,MH_Aurangabad,0.9232744201127687
+MH,district,nashik,Total,3157186,2950001,MH_Nashik,0.9343766886081466
+MH,district,thane,Total,5865078,5195070,MH_Thane,0.8857631560910187
+MH,district,mumbai suburban,Total,5031323,4325639,MH_Mumbai Suburban,0.8597418611367229
+MH,district,mumbai,Total,1684608,1400803,MH_Mumbai,0.83153054004255
+MH,district,raigad,Total,1344345,1289855,MH_Raigad,0.9594672498502989
+MH,district,pune,Total,4924105,4505303,MH_Pune,0.9149486048733729
+MH,district,ahmednagar,Total,2342825,2200334,MH_Ahmednagar,0.9391798363087298
+MH,district,beed,Total,1349106,1235943,MH_Beed,0.9161200083610924
+MH,district,latur,Total,1273140,1181056,MH_Latur,0.9276717407355043
+MH,district,osmanabad,Total,861535,796041,MH_Osmanabad,0.9239798731334189
+MH,district,solapur,Total,2227852,2089904,MH_Solapur,0.938080267450441
+MH,district,satara,Total,1510842,1492899,MH_Satara,0.9881238408781329
+MH,district,ratnagiri,Total,761121,853948,MH_Ratnagiri,1.1219608971503874
+MH,district,sindhudurg,Total,417332,432319,MH_Sindhudurg,1.0359114565861234
+MH,district,kolhapur,Total,1980658,1895343,MH_Kolhapur,0.9569259306755634
+MH,district,sangli,Total,1435728,1386415,MH_Sangli,0.9656529649070019
+TG,district,adilabad,Total,1369597,1371642,TG_Adilabad,1.0014931399528475
+TG,district,nizamabad,Total,1250641,1300694,TG_Nizamabad,1.0400218767815863
+TG,district,karimnagar,Total,1880800,1895469,TG_Karimnagar,1.0077993407060826
+TG,district,medak,Total,1523030,1510258,TG_Medak,0.9916140850803989
+TG,district,hyderabad,Total,2018575,1924748,TG_Hyderabad,0.9535181997200995
+TG,district,sangareddy,Total,2701008,2595733,TG_Sangareddy,0.9610238103700545
+TG,district,mahabubnagar,Total,2050386,2002642,TG_Mahabubnagar,0.9767146283675366
+TG,district,nalgonda,Total,1759772,1729037,TG_Nalgonda,0.9825346692639728
+TG,district,warangal urban,Total,1759281,1753295,TG_Warangal Urban,0.9965974736270101
+TG,district,khammam,Total,1390988,1406382,TG_Khammam,1.0110669538486314
+AP,district,srikakulam,Total,1341738,1361376,AP_Srikakulam,1.0146362404582714
+AP,district,vizianagaram,Total,1161477,1182997,AP_Vizianagaram,1.0185281327137774
+AP,district,visakhapatnam,Total,2138910,2151679,AP_Visakhapatnam,1.0059698631545975
+AP,district,east godavari,Total,2569688,2584608,AP_East Godavari,1.00580615234223
+AP,district,west godavari,Total,1964918,1972048,AP_West Godavari,1.003628650152322
+AP,district,krishna,Total,2267375,2250023,AP_Krishna,0.992347097414411
+AP,district,guntur,Total,2440521,2447292,AP_Guntur,1.0027744075957552
+AP,district,prakasam,Total,1714764,1682684,AP_Prakasam,0.9812918862304084
+AP,district,s.p.s. nellore,Total,1492974,1470583,AP_S.P.S. Nellore,0.9850024179925437
+AP,district,y.s.r. kadapa,Total,1451777,1430692,AP_Y.S.R. Kadapa,0.9854764195878568
+AP,district,kurnool,Total,2039227,2014236,AP_Kurnool,0.9877448660693489
+AP,district,anantapur,Total,2064495,2016653,AP_Anantapur,0.9768262940816035
+AP,district,chittoor,Total,2090204,2083860,AP_Chittoor,0.9969648895514505
+KA,state,karnataka,Total,30966657,30128640,KA_Karnataka,0.9729380862777665
+KA,district,belagavi,Total,2423063,2356598,KA_Belagavi,0.9725698423854435
+KA,district,bagalkote,Total,950111,939641,KA_Bagalkote,0.9889802349409701
+KA,district,bijapur,Total,1111022,1066309,KA_Bijapur,0.959755072356803
+KA,district,bidar,Total,870665,832635,KA_Bidar,0.956320743339861
+KA,district,raichur,Total,964511,964301,KA_Raichur,0.9997822730896796
+KA,district,koppal,Total,699926,689994,KA_Koppal,0.9858099284781534
+KA,district,gadag,Total,537147,527423,KA_Gadag,0.9818969481352404
+KA,district,dharwad,Total,937206,909817,KA_Dharwad,0.9707759019895306
+KA,district,uttara kannada,Total,726256,710913,KA_Uttara Kannada,0.9788738406291996
+KA,district,haveri,Total,819128,778540,KA_Haveri,0.9504497465597562
+KA,district,ballari,Total,1236954,1215641,KA_Ballari,0.9827697715517311
+KA,district,chitradurga,Total,840843,818613,KA_Chitradurga,0.9735622464598028
+KA,district,davanagere,Total,986400,959097,KA_Davanagere,0.9723205596107056
+KA,district,shivamogga,Total,877415,875338,KA_Shivamogga,0.9976328191334773
+KA,district,udupi,Total,562131,615230,KA_Udupi,1.0944601881056195
+KA,district,chikkamagaluru,Total,566622,571339,KA_Chikkamagaluru,1.008324773835114
+KA,district,tumakuru,Total,1350594,1328386,KA_Tumakuru,0.9835568646092016
+KA,district,bengaluru urban,Total,5022661,4598890,KA_Bengaluru Urban,0.9156281899176552
+KA,district,mandya,Total,905085,900684,KA_Mandya,0.9951374732759907
+KA,district,hassan,Total,883667,892754,KA_Hassan,1.0102832854457617
+KA,district,dakshina kannada,Total,1034714,1054935,KA_Dakshina Kannada,1.019542598244539
+KA,district,kodagu,Total,274608,279911,KA_Kodagu,1.019311163549496
+KA,district,mysuru,Total,1511600,1489527,KA_Mysuru,0.9853975919555438
+KA,district,chamarajanagara,Total,512231,508560,KA_Chamarajanagara,0.992833311533273
+KA,district,kalaburagi,Total,1301755,1264571,KA_Kalaburagi,0.971435485171941
+KA,district,yadgir,Total,590329,583942,KA_Yadgir,0.9891806094567606
+KA,district,kolar,Total,776396,760005,KA_Kolar,0.9788883507900608
+KA,district,chikkaballapura,Total,636437,618667,KA_Chikkaballapura,0.9720789331858456
+KA,district,bengaluru rural,Total,509172,481751,KA_Bengaluru Rural,0.9461458996174181
+KA,district,ramanagara,Total,548008,534628,KA_Ramanagara,0.9755842980394447
+GA,state,goa,Total,739140,719405,GA_Goa,0.9733000514110994
+GA,district,north goa,Total,416677,401331,GA_North Goa,0.9631705133712684
+GA,district,south goa,Total,322463,318074,GA_South Goa,0.9863891361179422
+LD,state,lakshadweep,Total,33123,31350,LD_Lakshadweep,0.9464722398333484
+LD,district,lakshadweep,Total,33123,31350,LD_Lakshadweep,0.9464722398333484
+KL,state,kerala,Total,16027412,17378649,KL_Kerala,1.0843078720382304
+KL,district,kasaragod,Total,628613,678762,KL_Kasaragod,1.0797772238245154
+KL,district,kannur,Total,1181446,1341557,KL_Kannur,1.1355212172202538
+KL,district,wayanad,Total,401684,415736,KL_Wayanad,1.034982722737276
+KL,district,kozhikode,Total,1470942,1615351,KL_Kozhikode,1.0981745031415242
+KL,district,malappuram,Total,1960328,2152592,KL_Malappuram,1.0980774645875588
+KL,district,palakkad,Total,1359478,1450456,KL_Palakkad,1.0669212741949483
+KL,district,thrissur,Total,1480763,1640437,KL_Thrissur,1.1078322459434764
+KL,district,ernakulam,Total,1619557,1662831,KL_Ernakulam,1.0267196523493771
+KL,district,idukki,Total,552808,556166,KL_Idukki,1.006074441759164
+KL,district,kottayam,Total,968289,1006262,KL_Kottayam,1.0392165975240863
+KL,district,alappuzha,Total,1013142,1114647,KL_Alappuzha,1.1001883250324238
+KL,district,pathanamthitta,Total,561716,635696,KL_Pathanamthitta,1.131703565502852
+KL,district,kollam,Total,1246968,1388407,KL_Kollam,1.1134263268985252
+KL,district,thiruvananthapuram,Total,1581678,1719749,KL_Thiruvananthapuram,1.0872940004223364
+TN,state,tamil nadu,Total,36137975,36009055,TN_Tamil Nadu,0.9964325615920648
+TN,district,thiruvallur,Total,1876062,1852042,TN_Thiruvallur,0.9871965851874831
+TN,district,chennai,Total,2335844,2310888,TN_Chennai,0.9893160673401135
+TN,district,kancheepuram,Total,2012958,1985294,TN_Kancheepuram,0.986257040633734
+TN,district,vellore,Total,1961688,1974643,TN_Vellore,1.0066040063455555
+TN,district,tiruvannamalai,Total,1235889,1228986,TN_Tiruvannamalai,0.9944145469374677
+TN,district,viluppuram,Total,1740819,1718054,TN_Viluppuram,0.9869228219590894
+TN,district,salem,Total,1781571,1700485,TN_Salem,0.9544862371468776
+TN,district,namakkal,Total,869280,857321,TN_Namakkal,0.9862426375851279
+TN,district,erode,Total,1129868,1121876,TN_Erode,0.9929266073559035
+TN,district,nilgiris,Total,360143,375251,TN_Nilgiris,1.041950003193176
+TN,district,dindigul,Total,1080938,1078837,TN_Dindigul,0.9980563177536547
+TN,district,karur,Total,528184,536309,TN_Karur,1.0153828968692729
+TN,district,tiruchirappalli,Total,1352284,1370006,TN_Tiruchirappalli,1.0131052352908116
+TN,district,perambalur,Total,282157,283066,TN_Perambalur,1.0032216106635667
+TN,district,ariyalur,Total,374703,380191,TN_Ariyalur,1.0146462665097424
+TN,district,cuddalore,Total,1311697,1294217,TN_Cuddalore,0.9866737516362392
+TN,district,nagapattinam,Total,798127,818323,TN_Nagapattinam,1.0253042435602353
+TN,district,thiruvarur,Total,626693,637584,TN_Thiruvarur,1.017378525051341
+TN,district,thanjavur,Total,1182416,1223474,TN_Thanjavur,1.0347238197047401
+TN,district,pudukkottai,Total,803188,815157,TN_Pudukkottai,1.0149018660637361
+TN,district,sivaganga,Total,668672,670429,TN_Sivaganga,1.0026275961906586
+TN,district,madurai,Total,1526475,1511777,TN_Madurai,0.9903712802371477
+TN,district,theni,Total,625683,620216,TN_Theni,0.9912623485055532
+TN,district,virudhunagar,Total,967709,974579,TN_Virudhunagar,1.0070992416108562
+TN,district,ramanathapuram,Total,682658,670787,TN_Ramanathapuram,0.982610619080125
+TN,district,thoothukkudi,Total,865021,885155,TN_Thoothukkudi,1.0232757355023752
+TN,district,tirunelveli,Total,1520912,1556321,TN_Tirunelveli,1.0232814258813132
+TN,district,kanyakumari,Total,926345,944029,TN_Kanyakumari,1.019090079829869
+TN,district,dharmapuri,Total,774303,732540,TN_Dharmapuri,0.9460637502373102
+TN,district,krishnagiri,Total,960232,919577,TN_Krishnagiri,0.9576612735255646
+TN,district,coimbatore,Total,1729297,1728748,TN_Coimbatore,0.9996825299529231
+TN,district,tiruppur,Total,1246159,1232893,TN_Tiruppur,0.9893544884721773
+PY,state,puducherry,Total,612511,635442,PY_Puducherry,1.037437694996498
+PY,district,yanam,Total,27301,28325,PY_Yanam,1.0375077835976705
+PY,district,puducherry,Total,468258,482031,PY_Puducherry,1.02941327217047
+PY,district,mahe,Total,19143,22673,PY_Mahe,1.1844016089432168
+PY,district,karaikal,Total,97809,102413,PY_Karaikal,1.047071332903925
+AN,state,andaman and nicobar islands,Total,202871,177710,AN_Andaman And Nicobar Islands,0.8759753735132177
+AN,district,nicobars,Total,20727,16115,AN_Nicobars,0.7774883002846529
+AN,district,north and middle andaman,Total,54861,50736,AN_North and Middle Andaman,0.9248099742986822
+AN,district,south andaman,Total,127283,110859,AN_South Andaman,0.8709647007063002
+TG,state,telangana,Total,17704078,17489900,TG_Telangana,0.987902335269874
+AP,state,andhra pradesh,Total,24738068,24648731,AP_Andhra Pradesh,0.9963886832229583
+LA,state,ladakh,Total,156756,117533,LA_Ladakh,0.749783102401184

@@ -1,0 +1,3243 @@
+,District_Key_1,District_Key_2
+0,AP_Anantapur,AP_Chittoor
+1,AP_Anantapur,AP_Kurnool
+2,AP_Anantapur,AP_Y.S.R. Kadapa
+3,AP_Anantapur,KA_Ballari
+4,AP_Anantapur,KA_Chikkaballapura
+5,AP_Anantapur,KA_Chitradurga
+6,AP_Anantapur,KA_Tumakuru
+7,AP_Chittoor,AP_Anantapur
+8,AP_Chittoor,AP_S.P.S. Nellore
+9,AP_Chittoor,AP_Y.S.R. Kadapa
+10,AP_Chittoor,KA_Chikkaballapura
+11,AP_Chittoor,KA_Kolar
+12,AP_Chittoor,TN_Krishnagiri
+13,AP_Chittoor,TN_Thiruvallur
+14,AP_Chittoor,TN_Vellore
+15,AP_East Godavari,AP_Visakhapatnam
+16,AP_East Godavari,AP_West Godavari
+17,AP_East Godavari,CT_Sukma
+18,AP_East Godavari,OR_Malkangiri
+19,AP_Guntur,AP_Krishna
+20,AP_Guntur,AP_Prakasam
+21,AP_Krishna,AP_Guntur
+22,AP_Krishna,AP_West Godavari
+23,AP_Kurnool,AP_Anantapur
+24,AP_Kurnool,AP_Prakasam
+25,AP_Kurnool,AP_Y.S.R. Kadapa
+26,AP_Kurnool,KA_Ballari
+27,AP_Kurnool,KA_Raichur
+28,AP_Prakasam,AP_Guntur
+29,AP_Prakasam,AP_Kurnool
+30,AP_Prakasam,AP_S.P.S. Nellore
+31,AP_Prakasam,AP_Y.S.R. Kadapa
+32,AP_S.P.S. Nellore,AP_Chittoor
+33,AP_S.P.S. Nellore,AP_Prakasam
+34,AP_S.P.S. Nellore,AP_Y.S.R. Kadapa
+35,AP_S.P.S. Nellore,TN_Thiruvallur
+36,AP_Srikakulam,AP_Vizianagaram
+37,AP_Srikakulam,OR_Gajapati
+38,AP_Srikakulam,OR_Ganjam
+39,AP_Srikakulam,OR_Rayagada
+40,AP_Visakhapatnam,AP_East Godavari
+41,AP_Visakhapatnam,AP_Vizianagaram
+42,AP_Visakhapatnam,OR_Koraput
+43,AP_Visakhapatnam,OR_Malkangiri
+44,AP_Vizianagaram,AP_Srikakulam
+45,AP_Vizianagaram,AP_Visakhapatnam
+46,AP_Vizianagaram,OR_Koraput
+47,AP_Vizianagaram,OR_Rayagada
+48,AP_West Godavari,AP_East Godavari
+49,AP_West Godavari,AP_Krishna
+50,AP_Y.S.R. Kadapa,AP_Anantapur
+51,AP_Y.S.R. Kadapa,AP_Chittoor
+52,AP_Y.S.R. Kadapa,AP_Kurnool
+53,AP_Y.S.R. Kadapa,AP_Prakasam
+54,AP_Y.S.R. Kadapa,AP_S.P.S. Nellore
+55,AR_Anjaw,AR_Changlang
+56,AR_Anjaw,AR_Lohit
+57,AR_Changlang,AR_Anjaw
+58,AR_Changlang,AR_Lohit
+59,AR_Changlang,AR_Namsai
+60,AR_Changlang,AR_Tirap
+61,AR_East Kameng,AR_Kurung Kumey
+62,AR_East Kameng,AR_Pakke Kessang
+63,AR_East Kameng,AR_Papum Pare
+64,AR_East Kameng,AR_Tawang
+65,AR_East Kameng,AR_West Kameng
+66,AR_East Siang,AR_Lower Dibang Valley
+67,AR_East Siang,AR_Lower Siang
+68,AR_East Siang,AR_Siang
+69,AR_East Siang,AR_Upper Siang
+70,AR_Kamle,AR_Kra Daadi
+71,AR_Kamle,AR_Lower Siang
+72,AR_Kamle,AR_Lower Subansiri
+73,AR_Kamle,AR_Papum Pare
+74,AR_Kamle,AR_Upper Subansiri
+75,AR_Kra Daadi,AR_Kamle
+76,AR_Kra Daadi,AR_Kurung Kumey
+77,AR_Kra Daadi,AR_Lower Subansiri
+78,AR_Kra Daadi,AR_Papum Pare
+79,AR_Kra Daadi,AR_Upper Subansiri
+80,AR_Kurung Kumey,AR_East Kameng
+81,AR_Kurung Kumey,AR_Kra Daadi
+82,AR_Kurung Kumey,AR_Papum Pare
+83,AR_Kurung Kumey,AR_Upper Subansiri
+84,AR_Lepa Rada,AR_Lower Siang
+85,AR_Lepa Rada,AR_Upper Subansiri
+86,AR_Lepa Rada,AR_West Siang
+87,AR_Lohit,AR_Anjaw
+88,AR_Lohit,AR_Changlang
+89,AR_Lohit,AR_Lower Dibang Valley
+90,AR_Lohit,AR_Namsai
+91,AR_Longding,AR_Tirap
+92,AR_Longding,AS_Dibrugarh
+93,AR_Longding,NL_Mon
+94,AR_Lower Dibang Valley,AR_East Siang
+95,AR_Lower Dibang Valley,AR_Lohit
+96,AR_Lower Dibang Valley,AR_Upper Dibang Valley
+97,AR_Lower Dibang Valley,AR_Upper Siang
+98,AR_Lower Siang,AR_East Siang
+99,AR_Lower Siang,AR_Kamle
+100,AR_Lower Siang,AR_Lepa Rada
+101,AR_Lower Siang,AR_Siang
+102,AR_Lower Siang,AR_Upper Subansiri
+103,AR_Lower Siang,AR_West Siang
+104,AR_Lower Subansiri,AR_Kamle
+105,AR_Lower Subansiri,AR_Kra Daadi
+106,AR_Lower Subansiri,AR_Papum Pare
+107,AR_Namsai,AR_Changlang
+108,AR_Namsai,AR_Lohit
+109,AR_Pakke Kessang,AR_East Kameng
+110,AR_Pakke Kessang,AR_Papum Pare
+111,AR_Pakke Kessang,AR_West Kameng
+112,AR_Papum Pare,AR_East Kameng
+113,AR_Papum Pare,AR_Kamle
+114,AR_Papum Pare,AR_Kra Daadi
+115,AR_Papum Pare,AR_Kurung Kumey
+116,AR_Papum Pare,AR_Lower Subansiri
+117,AR_Papum Pare,AR_Pakke Kessang
+118,AR_Shi Yomi,AR_Siang
+119,AR_Shi Yomi,AR_Upper Siang
+120,AR_Shi Yomi,AR_Upper Subansiri
+121,AR_Shi Yomi,AR_West Siang
+122,AR_Siang,AR_East Siang
+123,AR_Siang,AR_Lower Siang
+124,AR_Siang,AR_Shi Yomi
+125,AR_Siang,AR_Upper Siang
+126,AR_Siang,AR_West Siang
+127,AR_Tawang,AR_East Kameng
+128,AR_Tawang,AR_West Kameng
+129,AR_Tirap,AR_Changlang
+130,AR_Tirap,AR_Longding
+131,AR_Tirap,AS_Dibrugarh
+132,AR_Upper Dibang Valley,AR_Lower Dibang Valley
+133,AR_Upper Dibang Valley,AR_Upper Siang
+134,AR_Upper Siang,AR_East Siang
+135,AR_Upper Siang,AR_Lower Dibang Valley
+136,AR_Upper Siang,AR_Shi Yomi
+137,AR_Upper Siang,AR_Siang
+138,AR_Upper Siang,AR_Upper Dibang Valley
+139,AR_Upper Subansiri,AR_Kamle
+140,AR_Upper Subansiri,AR_Kra Daadi
+141,AR_Upper Subansiri,AR_Kurung Kumey
+142,AR_Upper Subansiri,AR_Lepa Rada
+143,AR_Upper Subansiri,AR_Lower Siang
+144,AR_Upper Subansiri,AR_Shi Yomi
+145,AR_Upper Subansiri,AR_West Siang
+146,AR_West Kameng,AR_East Kameng
+147,AR_West Kameng,AR_Pakke Kessang
+148,AR_West Kameng,AR_Tawang
+149,AR_West Kameng,AS_Udalguri
+150,AR_West Siang,AR_Lepa Rada
+151,AR_West Siang,AR_Lower Siang
+152,AR_West Siang,AR_Shi Yomi
+153,AR_West Siang,AR_Siang
+154,AR_West Siang,AR_Upper Subansiri
+155,AS_Dibrugarh,AR_Longding
+156,AS_Dibrugarh,AR_Tirap
+157,AS_Udalguri,AR_West Kameng
+158,BR_Araria,BR_Kishanganj
+159,BR_Araria,BR_Madhepura
+160,BR_Araria,BR_Purnia
+161,BR_Araria,BR_Supaul
+162,BR_Arwal,BR_Bhojpur
+163,BR_Arwal,BR_Gaya
+164,BR_Arwal,BR_Jehanabad
+165,BR_Arwal,BR_Patna
+166,BR_Arwal,BR_Rohtas
+167,BR_Arwal,MH_Aurangabad
+168,BR_Banka,BR_Bhagalpur
+169,BR_Banka,BR_Jamui
+170,BR_Banka,BR_Munger
+171,BR_Banka,JH_Deoghar
+172,BR_Banka,JH_Dumka
+173,BR_Banka,JH_Godda
+174,BR_Begusarai,BR_Khagaria
+175,BR_Begusarai,BR_Lakhisarai
+176,BR_Begusarai,BR_Munger
+177,BR_Begusarai,BR_Patna
+178,BR_Begusarai,BR_Samastipur
+179,BR_Bhagalpur,BR_Banka
+180,BR_Bhagalpur,BR_Katihar
+181,BR_Bhagalpur,BR_Khagaria
+182,BR_Bhagalpur,BR_Madhepura
+183,BR_Bhagalpur,BR_Munger
+184,BR_Bhagalpur,BR_Purnia
+185,BR_Bhagalpur,JH_Godda
+186,BR_Bhagalpur,JH_Sahibganj
+187,BR_Bhojpur,BR_Arwal
+188,BR_Bhojpur,BR_Buxar
+189,BR_Bhojpur,BR_Patna
+190,BR_Bhojpur,BR_Rohtas
+191,BR_Bhojpur,BR_Saran
+192,BR_Bhojpur,UP_Ballia
+193,BR_Buxar,BR_Bhojpur
+194,BR_Buxar,BR_Kaimur
+195,BR_Buxar,BR_Rohtas
+196,BR_Buxar,UP_Ballia
+197,BR_Buxar,UP_Ghazipur
+198,BR_Darbhanga,BR_Madhubani
+199,BR_Darbhanga,BR_Muzaffarpur
+200,BR_Darbhanga,BR_Saharsa
+201,BR_Darbhanga,BR_Samastipur
+202,BR_Darbhanga,BR_Sitamarhi
+203,BR_East Champaran,BR_Gopalganj
+204,BR_East Champaran,BR_Muzaffarpur
+205,BR_East Champaran,BR_Sheohar
+206,BR_East Champaran,BR_Sitamarhi
+207,BR_East Champaran,BR_West Champaran
+208,BR_Gaya,BR_Arwal
+209,BR_Gaya,BR_Jehanabad
+210,BR_Gaya,BR_Nalanda
+211,BR_Gaya,BR_Nawada
+212,BR_Gaya,JH_Chatra
+213,BR_Gaya,JH_Hazaribagh
+214,BR_Gaya,JH_Koderma
+215,BR_Gaya,JH_Palamu
+216,BR_Gaya,MH_Aurangabad
+217,BR_Gopalganj,BR_East Champaran
+218,BR_Gopalganj,BR_Muzaffarpur
+219,BR_Gopalganj,BR_Saran
+220,BR_Gopalganj,BR_Siwan
+221,BR_Gopalganj,BR_West Champaran
+222,BR_Gopalganj,UP_Deoria
+223,BR_Gopalganj,UP_Kushinagar
+224,BR_Jamui,BR_Banka
+225,BR_Jamui,BR_Lakhisarai
+226,BR_Jamui,BR_Munger
+227,BR_Jamui,BR_Nawada
+228,BR_Jamui,BR_Sheikhpura
+229,BR_Jamui,JH_Deoghar
+230,BR_Jamui,JH_Giridih
+231,BR_Jehanabad,BR_Arwal
+232,BR_Jehanabad,BR_Gaya
+233,BR_Jehanabad,BR_Nalanda
+234,BR_Jehanabad,BR_Patna
+235,BR_Kaimur,BR_Buxar
+236,BR_Kaimur,BR_Rohtas
+237,BR_Kaimur,UP_Chandauli
+238,BR_Kaimur,UP_Ghazipur
+239,BR_Kaimur,UP_Sonbhadra
+240,BR_Katihar,BR_Bhagalpur
+241,BR_Katihar,BR_Purnia
+242,BR_Katihar,JH_Sahibganj
+243,BR_Katihar,WB_Malda
+244,BR_Katihar,WB_Uttar Dinajpur
+245,BR_Khagaria,BR_Begusarai
+246,BR_Khagaria,BR_Bhagalpur
+247,BR_Khagaria,BR_Madhepura
+248,BR_Khagaria,BR_Munger
+249,BR_Khagaria,BR_Saharsa
+250,BR_Khagaria,BR_Samastipur
+251,BR_Kishanganj,BR_Araria
+252,BR_Kishanganj,BR_Purnia
+253,BR_Kishanganj,WB_Darjeeling
+254,BR_Kishanganj,WB_Uttar Dinajpur
+255,BR_Lakhisarai,BR_Begusarai
+256,BR_Lakhisarai,BR_Jamui
+257,BR_Lakhisarai,BR_Munger
+258,BR_Lakhisarai,BR_Nalanda
+259,BR_Lakhisarai,BR_Patna
+260,BR_Lakhisarai,BR_Sheikhpura
+261,BR_Madhepura,BR_Araria
+262,BR_Madhepura,BR_Bhagalpur
+263,BR_Madhepura,BR_Khagaria
+264,BR_Madhepura,BR_Purnia
+265,BR_Madhepura,BR_Saharsa
+266,BR_Madhepura,BR_Supaul
+267,BR_Madhubani,BR_Darbhanga
+268,BR_Madhubani,BR_Saharsa
+269,BR_Madhubani,BR_Sitamarhi
+270,BR_Madhubani,BR_Supaul
+271,BR_Munger,BR_Banka
+272,BR_Munger,BR_Begusarai
+273,BR_Munger,BR_Bhagalpur
+274,BR_Munger,BR_Jamui
+275,BR_Munger,BR_Khagaria
+276,BR_Munger,BR_Lakhisarai
+277,BR_Muzaffarpur,BR_Darbhanga
+278,BR_Muzaffarpur,BR_East Champaran
+279,BR_Muzaffarpur,BR_Gopalganj
+280,BR_Muzaffarpur,BR_Samastipur
+281,BR_Muzaffarpur,BR_Saran
+282,BR_Muzaffarpur,BR_Sheohar
+283,BR_Muzaffarpur,BR_Sitamarhi
+284,BR_Muzaffarpur,BR_Vaishali
+285,BR_Nalanda,BR_Gaya
+286,BR_Nalanda,BR_Jehanabad
+287,BR_Nalanda,BR_Lakhisarai
+288,BR_Nalanda,BR_Nawada
+289,BR_Nalanda,BR_Patna
+290,BR_Nalanda,BR_Sheikhpura
+291,BR_Nawada,BR_Gaya
+292,BR_Nawada,BR_Jamui
+293,BR_Nawada,BR_Nalanda
+294,BR_Nawada,BR_Sheikhpura
+295,BR_Nawada,JH_Giridih
+296,BR_Nawada,JH_Koderma
+297,BR_Patna,BR_Arwal
+298,BR_Patna,BR_Begusarai
+299,BR_Patna,BR_Bhojpur
+300,BR_Patna,BR_Jehanabad
+301,BR_Patna,BR_Lakhisarai
+302,BR_Patna,BR_Nalanda
+303,BR_Patna,BR_Samastipur
+304,BR_Patna,BR_Saran
+305,BR_Patna,BR_Vaishali
+306,BR_Purnia,BR_Araria
+307,BR_Purnia,BR_Bhagalpur
+308,BR_Purnia,BR_Katihar
+309,BR_Purnia,BR_Kishanganj
+310,BR_Purnia,BR_Madhepura
+311,BR_Purnia,WB_Uttar Dinajpur
+312,BR_Rohtas,BR_Arwal
+313,BR_Rohtas,BR_Bhojpur
+314,BR_Rohtas,BR_Buxar
+315,BR_Rohtas,BR_Kaimur
+316,BR_Rohtas,JH_Garhwa
+317,BR_Rohtas,JH_Palamu
+318,BR_Rohtas,MH_Aurangabad
+319,BR_Rohtas,UP_Sonbhadra
+320,BR_Saharsa,BR_Darbhanga
+321,BR_Saharsa,BR_Khagaria
+322,BR_Saharsa,BR_Madhepura
+323,BR_Saharsa,BR_Madhubani
+324,BR_Saharsa,BR_Samastipur
+325,BR_Saharsa,BR_Supaul
+326,BR_Samastipur,BR_Begusarai
+327,BR_Samastipur,BR_Darbhanga
+328,BR_Samastipur,BR_Khagaria
+329,BR_Samastipur,BR_Muzaffarpur
+330,BR_Samastipur,BR_Patna
+331,BR_Samastipur,BR_Saharsa
+332,BR_Samastipur,BR_Vaishali
+333,BR_Saran,BR_Bhojpur
+334,BR_Saran,BR_Gopalganj
+335,BR_Saran,BR_Muzaffarpur
+336,BR_Saran,BR_Patna
+337,BR_Saran,BR_Siwan
+338,BR_Saran,BR_Vaishali
+339,BR_Saran,UP_Ballia
+340,BR_Sheikhpura,BR_Jamui
+341,BR_Sheikhpura,BR_Lakhisarai
+342,BR_Sheikhpura,BR_Nalanda
+343,BR_Sheikhpura,BR_Nawada
+344,BR_Sheohar,BR_East Champaran
+345,BR_Sheohar,BR_Muzaffarpur
+346,BR_Sheohar,BR_Sitamarhi
+347,BR_Sitamarhi,BR_Darbhanga
+348,BR_Sitamarhi,BR_East Champaran
+349,BR_Sitamarhi,BR_Madhubani
+350,BR_Sitamarhi,BR_Muzaffarpur
+351,BR_Sitamarhi,BR_Sheohar
+352,BR_Siwan,BR_Gopalganj
+353,BR_Siwan,BR_Saran
+354,BR_Siwan,UP_Ballia
+355,BR_Siwan,UP_Deoria
+356,BR_Supaul,BR_Araria
+357,BR_Supaul,BR_Madhepura
+358,BR_Supaul,BR_Madhubani
+359,BR_Supaul,BR_Saharsa
+360,BR_Vaishali,BR_Muzaffarpur
+361,BR_Vaishali,BR_Patna
+362,BR_Vaishali,BR_Samastipur
+363,BR_Vaishali,BR_Saran
+364,BR_West Champaran,BR_East Champaran
+365,BR_West Champaran,BR_Gopalganj
+366,BR_West Champaran,UP_Kushinagar
+367,BR_West Champaran,UP_Maharajganj
+368,CH_Chandigarh,HR_Panchkula
+369,CH_Chandigarh,PB_S.A.S. Nagar
+370,CT_Balod,CT_Dhamtari
+371,CT_Balod,CT_Durg
+372,CT_Balod,CT_Rajnandgaon
+373,CT_Balod,CT_Uttar Bastar Kanker
+374,CT_Baloda Bazar,CT_Bametara
+375,CT_Baloda Bazar,CT_Janjgir Champa
+376,CT_Baloda Bazar,CT_Mahasamund
+377,CT_Baloda Bazar,CT_Mungeli
+378,CT_Baloda Bazar,CT_Raigarh
+379,CT_Baloda Bazar,CT_Raipur
+380,CT_Baloda Bazar,HP_Bilaspur
+381,CT_Bametara,CT_Baloda Bazar
+382,CT_Bametara,CT_Durg
+383,CT_Bametara,CT_Kabeerdham
+384,CT_Bametara,CT_Mungeli
+385,CT_Bametara,CT_Raipur
+386,CT_Bametara,CT_Rajnandgaon
+387,CT_Bastar,CT_Dakshin Bastar Dantewada
+388,CT_Bastar,CT_Kondagaon
+389,CT_Bastar,CT_Sukma
+390,CT_Bastar,OR_Koraput
+391,CT_Bastar,OR_Malkangiri
+392,CT_Bastar,OR_Nabarangapur
+393,CT_Bijapur,CT_Dakshin Bastar Dantewada
+394,CT_Bijapur,CT_Narayanpur
+395,CT_Bijapur,CT_Sukma
+396,CT_Bijapur,MH_Gadchiroli
+397,CT_Dakshin Bastar Dantewada,CT_Bastar
+398,CT_Dakshin Bastar Dantewada,CT_Bijapur
+399,CT_Dakshin Bastar Dantewada,CT_Kondagaon
+400,CT_Dakshin Bastar Dantewada,CT_Narayanpur
+401,CT_Dakshin Bastar Dantewada,CT_Sukma
+402,CT_Dhamtari,CT_Balod
+403,CT_Dhamtari,CT_Durg
+404,CT_Dhamtari,CT_Gariaband
+405,CT_Dhamtari,CT_Kondagaon
+406,CT_Dhamtari,CT_Raipur
+407,CT_Dhamtari,CT_Uttar Bastar Kanker
+408,CT_Dhamtari,OR_Nabarangapur
+409,CT_Durg,CT_Balod
+410,CT_Durg,CT_Bametara
+411,CT_Durg,CT_Dhamtari
+412,CT_Durg,CT_Raipur
+413,CT_Durg,CT_Rajnandgaon
+414,CT_Gariaband,CT_Dhamtari
+415,CT_Gariaband,CT_Mahasamund
+416,CT_Gariaband,CT_Raipur
+417,CT_Gariaband,OR_Kalahandi
+418,CT_Gariaband,OR_Nabarangapur
+419,CT_Gariaband,OR_Nuapada
+420,CT_Janjgir Champa,CT_Baloda Bazar
+421,CT_Janjgir Champa,CT_Korba
+422,CT_Janjgir Champa,CT_Raigarh
+423,CT_Janjgir Champa,HP_Bilaspur
+424,CT_Jashpur,CT_Raigarh
+425,CT_Jashpur,CT_Surguja
+426,CT_Jashpur,JH_Gumla
+427,CT_Jashpur,JH_Simdega
+428,CT_Jashpur,OR_Sundargarh
+429,CT_Jashpur,UP_Balrampur
+430,CT_Kabeerdham,CT_Bametara
+431,CT_Kabeerdham,CT_Mungeli
+432,CT_Kabeerdham,CT_Rajnandgaon
+433,CT_Kabeerdham,MP_Balaghat
+434,CT_Kabeerdham,MP_Dindori
+435,CT_Kabeerdham,MP_Mandla
+436,CT_Kondagaon,CT_Bastar
+437,CT_Kondagaon,CT_Dakshin Bastar Dantewada
+438,CT_Kondagaon,CT_Dhamtari
+439,CT_Kondagaon,CT_Narayanpur
+440,CT_Kondagaon,CT_Uttar Bastar Kanker
+441,CT_Kondagaon,OR_Nabarangapur
+442,CT_Korba,CT_Janjgir Champa
+443,CT_Korba,CT_Koriya
+444,CT_Korba,CT_Raigarh
+445,CT_Korba,CT_Surajpur
+446,CT_Korba,CT_Surguja
+447,CT_Korba,HP_Bilaspur
+448,CT_Koriya,CT_Korba
+449,CT_Koriya,CT_Surajpur
+450,CT_Koriya,HP_Bilaspur
+451,CT_Koriya,MP_Anuppur
+452,CT_Koriya,MP_Shahdol
+453,CT_Koriya,MP_Sidhi
+454,CT_Koriya,MP_Singrauli
+455,CT_Mahasamund,CT_Baloda Bazar
+456,CT_Mahasamund,CT_Gariaband
+457,CT_Mahasamund,CT_Raigarh
+458,CT_Mahasamund,CT_Raipur
+459,CT_Mahasamund,OR_Bargarh
+460,CT_Mahasamund,OR_Nuapada
+461,CT_Mungeli,CT_Baloda Bazar
+462,CT_Mungeli,CT_Bametara
+463,CT_Mungeli,CT_Kabeerdham
+464,CT_Mungeli,HP_Bilaspur
+465,CT_Mungeli,MP_Anuppur
+466,CT_Mungeli,MP_Dindori
+467,CT_Narayanpur,CT_Bijapur
+468,CT_Narayanpur,CT_Dakshin Bastar Dantewada
+469,CT_Narayanpur,CT_Kondagaon
+470,CT_Narayanpur,CT_Uttar Bastar Kanker
+471,CT_Narayanpur,MH_Gadchiroli
+472,CT_Raigarh,CT_Baloda Bazar
+473,CT_Raigarh,CT_Janjgir Champa
+474,CT_Raigarh,CT_Jashpur
+475,CT_Raigarh,CT_Korba
+476,CT_Raigarh,CT_Mahasamund
+477,CT_Raigarh,CT_Surguja
+478,CT_Raigarh,OR_Bargarh
+479,CT_Raigarh,OR_Jharsuguda
+480,CT_Raigarh,OR_Sundargarh
+481,CT_Raipur,CT_Baloda Bazar
+482,CT_Raipur,CT_Bametara
+483,CT_Raipur,CT_Dhamtari
+484,CT_Raipur,CT_Durg
+485,CT_Raipur,CT_Gariaband
+486,CT_Raipur,CT_Mahasamund
+487,CT_Rajnandgaon,CT_Balod
+488,CT_Rajnandgaon,CT_Bametara
+489,CT_Rajnandgaon,CT_Durg
+490,CT_Rajnandgaon,CT_Kabeerdham
+491,CT_Rajnandgaon,CT_Uttar Bastar Kanker
+492,CT_Rajnandgaon,MH_Gadchiroli
+493,CT_Rajnandgaon,MH_Gondia
+494,CT_Rajnandgaon,MP_Balaghat
+495,CT_Sukma,AP_East Godavari
+496,CT_Sukma,CT_Bastar
+497,CT_Sukma,CT_Bijapur
+498,CT_Sukma,CT_Dakshin Bastar Dantewada
+499,CT_Sukma,OR_Malkangiri
+500,CT_Surajpur,CT_Korba
+501,CT_Surajpur,CT_Koriya
+502,CT_Surajpur,CT_Surguja
+503,CT_Surajpur,MP_Singrauli
+504,CT_Surajpur,UP_Balrampur
+505,CT_Surguja,CT_Jashpur
+506,CT_Surguja,CT_Korba
+507,CT_Surguja,CT_Raigarh
+508,CT_Surguja,CT_Surajpur
+509,CT_Surguja,UP_Balrampur
+510,CT_Uttar Bastar Kanker,CT_Balod
+511,CT_Uttar Bastar Kanker,CT_Dhamtari
+512,CT_Uttar Bastar Kanker,CT_Kondagaon
+513,CT_Uttar Bastar Kanker,CT_Narayanpur
+514,CT_Uttar Bastar Kanker,CT_Rajnandgaon
+515,CT_Uttar Bastar Kanker,MH_Gadchiroli
+516,DL_Delhi,HR_Faridabad
+517,DL_Delhi,HR_Gurugram
+518,DL_Delhi,HR_Jhajjar
+519,DL_Delhi,HR_Sonipat
+520,DL_Delhi,UP_Baghpat
+521,DL_Delhi,UP_Gautam Buddha Nagar
+522,DL_Delhi,UP_Ghaziabad
+523,DN_Dadra and Nagar Haveli,GJ_Valsad
+524,DN_Dadra and Nagar Haveli,MH_Palghar
+525,DN_Daman,GJ_Valsad
+526,DN_Diu,GJ_Gir Somnath
+527,GJ_Ahmedabad,GJ_Anand
+528,GJ_Ahmedabad,GJ_Bhavnagar
+529,GJ_Ahmedabad,GJ_Botad
+530,GJ_Ahmedabad,GJ_Gandhinagar
+531,GJ_Ahmedabad,GJ_Kheda
+532,GJ_Ahmedabad,GJ_Mehsana
+533,GJ_Ahmedabad,GJ_Surendranagar
+534,GJ_Amreli,GJ_Bhavnagar
+535,GJ_Amreli,GJ_Botad
+536,GJ_Amreli,GJ_Gir Somnath
+537,GJ_Amreli,GJ_Junagadh
+538,GJ_Amreli,GJ_Rajkot
+539,GJ_Anand,GJ_Ahmedabad
+540,GJ_Anand,GJ_Bharuch
+541,GJ_Anand,GJ_Kheda
+542,GJ_Anand,GJ_Vadodara
+543,GJ_Aravalli,GJ_Gandhinagar
+544,GJ_Aravalli,GJ_Kheda
+545,GJ_Aravalli,GJ_Mahisagar
+546,GJ_Aravalli,GJ_Sabarkantha
+547,GJ_Aravalli,RJ_Dungarpur
+548,GJ_Aravalli,RJ_Udaipur
+549,GJ_Banaskantha,GJ_Kutch
+550,GJ_Banaskantha,GJ_Mehsana
+551,GJ_Banaskantha,GJ_Patan
+552,GJ_Banaskantha,GJ_Sabarkantha
+553,GJ_Banaskantha,RJ_Jalore
+554,GJ_Banaskantha,RJ_Sirohi
+555,GJ_Bharuch,GJ_Anand
+556,GJ_Bharuch,GJ_Narmada
+557,GJ_Bharuch,GJ_Surat
+558,GJ_Bharuch,GJ_Vadodara
+559,GJ_Bhavnagar,GJ_Ahmedabad
+560,GJ_Bhavnagar,GJ_Amreli
+561,GJ_Bhavnagar,GJ_Botad
+562,GJ_Botad,GJ_Ahmedabad
+563,GJ_Botad,GJ_Amreli
+564,GJ_Botad,GJ_Bhavnagar
+565,GJ_Botad,GJ_Rajkot
+566,GJ_Botad,GJ_Surendranagar
+567,GJ_Chhota Udaipur,GJ_Dahod
+568,GJ_Chhota Udaipur,GJ_Narmada
+569,GJ_Chhota Udaipur,GJ_Panchmahal
+570,GJ_Chhota Udaipur,GJ_Vadodara
+571,GJ_Chhota Udaipur,MH_Nandurbar
+572,GJ_Chhota Udaipur,MP_Alirajpur
+573,GJ_Dahod,GJ_Chhota Udaipur
+574,GJ_Dahod,GJ_Mahisagar
+575,GJ_Dahod,GJ_Panchmahal
+576,GJ_Dahod,MP_Alirajpur
+577,GJ_Dahod,MP_Jhabua
+578,GJ_Dahod,RJ_Banswara
+579,GJ_Dang,GJ_Navsari
+580,GJ_Dang,GJ_Tapi
+581,GJ_Dang,MH_Dhule
+582,GJ_Dang,MH_Nashik
+583,GJ_Devbhumi Dwarka,GJ_Jamnagar
+584,GJ_Devbhumi Dwarka,GJ_Porbandar
+585,GJ_Gandhinagar,GJ_Ahmedabad
+586,GJ_Gandhinagar,GJ_Aravalli
+587,GJ_Gandhinagar,GJ_Kheda
+588,GJ_Gandhinagar,GJ_Mehsana
+589,GJ_Gandhinagar,GJ_Sabarkantha
+590,GJ_Gir Somnath,DN_Diu
+591,GJ_Gir Somnath,GJ_Amreli
+592,GJ_Gir Somnath,GJ_Junagadh
+593,GJ_Jamnagar,GJ_Devbhumi Dwarka
+594,GJ_Jamnagar,GJ_Morbi
+595,GJ_Jamnagar,GJ_Porbandar
+596,GJ_Jamnagar,GJ_Rajkot
+597,GJ_Junagadh,GJ_Amreli
+598,GJ_Junagadh,GJ_Gir Somnath
+599,GJ_Junagadh,GJ_Porbandar
+600,GJ_Junagadh,GJ_Rajkot
+601,GJ_Kheda,GJ_Ahmedabad
+602,GJ_Kheda,GJ_Anand
+603,GJ_Kheda,GJ_Aravalli
+604,GJ_Kheda,GJ_Gandhinagar
+605,GJ_Kheda,GJ_Mahisagar
+606,GJ_Kheda,GJ_Panchmahal
+607,GJ_Kheda,GJ_Vadodara
+608,GJ_Kutch,GJ_Banaskantha
+609,GJ_Kutch,GJ_Morbi
+610,GJ_Kutch,GJ_Patan
+611,GJ_Kutch,GJ_Surendranagar
+612,GJ_Kutch,RJ_Barmer
+613,GJ_Kutch,RJ_Jalore
+614,GJ_Mahisagar,GJ_Aravalli
+615,GJ_Mahisagar,GJ_Dahod
+616,GJ_Mahisagar,GJ_Kheda
+617,GJ_Mahisagar,GJ_Panchmahal
+618,GJ_Mahisagar,RJ_Banswara
+619,GJ_Mahisagar,RJ_Dungarpur
+620,GJ_Mehsana,GJ_Ahmedabad
+621,GJ_Mehsana,GJ_Banaskantha
+622,GJ_Mehsana,GJ_Gandhinagar
+623,GJ_Mehsana,GJ_Patan
+624,GJ_Mehsana,GJ_Sabarkantha
+625,GJ_Mehsana,GJ_Surendranagar
+626,GJ_Morbi,GJ_Jamnagar
+627,GJ_Morbi,GJ_Kutch
+628,GJ_Morbi,GJ_Rajkot
+629,GJ_Morbi,GJ_Surendranagar
+630,GJ_Narmada,GJ_Bharuch
+631,GJ_Narmada,GJ_Chhota Udaipur
+632,GJ_Narmada,GJ_Surat
+633,GJ_Narmada,GJ_Tapi
+634,GJ_Narmada,GJ_Vadodara
+635,GJ_Narmada,MH_Nandurbar
+636,GJ_Navsari,GJ_Dang
+637,GJ_Navsari,GJ_Surat
+638,GJ_Navsari,GJ_Tapi
+639,GJ_Navsari,GJ_Valsad
+640,GJ_Navsari,MH_Nashik
+641,GJ_Panchmahal,GJ_Chhota Udaipur
+642,GJ_Panchmahal,GJ_Dahod
+643,GJ_Panchmahal,GJ_Kheda
+644,GJ_Panchmahal,GJ_Mahisagar
+645,GJ_Panchmahal,GJ_Vadodara
+646,GJ_Patan,GJ_Banaskantha
+647,GJ_Patan,GJ_Kutch
+648,GJ_Patan,GJ_Mehsana
+649,GJ_Patan,GJ_Surendranagar
+650,GJ_Porbandar,GJ_Devbhumi Dwarka
+651,GJ_Porbandar,GJ_Jamnagar
+652,GJ_Porbandar,GJ_Junagadh
+653,GJ_Porbandar,GJ_Rajkot
+654,GJ_Rajkot,GJ_Amreli
+655,GJ_Rajkot,GJ_Botad
+656,GJ_Rajkot,GJ_Jamnagar
+657,GJ_Rajkot,GJ_Junagadh
+658,GJ_Rajkot,GJ_Morbi
+659,GJ_Rajkot,GJ_Porbandar
+660,GJ_Rajkot,GJ_Surendranagar
+661,GJ_Sabarkantha,GJ_Aravalli
+662,GJ_Sabarkantha,GJ_Banaskantha
+663,GJ_Sabarkantha,GJ_Gandhinagar
+664,GJ_Sabarkantha,GJ_Mehsana
+665,GJ_Sabarkantha,RJ_Sirohi
+666,GJ_Sabarkantha,RJ_Udaipur
+667,GJ_Surat,GJ_Bharuch
+668,GJ_Surat,GJ_Narmada
+669,GJ_Surat,GJ_Navsari
+670,GJ_Surat,GJ_Tapi
+671,GJ_Surendranagar,GJ_Ahmedabad
+672,GJ_Surendranagar,GJ_Botad
+673,GJ_Surendranagar,GJ_Kutch
+674,GJ_Surendranagar,GJ_Mehsana
+675,GJ_Surendranagar,GJ_Morbi
+676,GJ_Surendranagar,GJ_Patan
+677,GJ_Surendranagar,GJ_Rajkot
+678,GJ_Tapi,GJ_Dang
+679,GJ_Tapi,GJ_Narmada
+680,GJ_Tapi,GJ_Navsari
+681,GJ_Tapi,GJ_Surat
+682,GJ_Tapi,MH_Dhule
+683,GJ_Tapi,MH_Nandurbar
+684,GJ_Vadodara,GJ_Anand
+685,GJ_Vadodara,GJ_Bharuch
+686,GJ_Vadodara,GJ_Chhota Udaipur
+687,GJ_Vadodara,GJ_Kheda
+688,GJ_Vadodara,GJ_Narmada
+689,GJ_Vadodara,GJ_Panchmahal
+690,GJ_Valsad,DN_Dadra and Nagar Haveli
+691,GJ_Valsad,DN_Daman
+692,GJ_Valsad,GJ_Navsari
+693,GJ_Valsad,MH_Nashik
+694,GJ_Valsad,MH_Palghar
+695,HP_Bilaspur,CT_Baloda Bazar
+696,HP_Bilaspur,CT_Janjgir Champa
+697,HP_Bilaspur,CT_Korba
+698,HP_Bilaspur,CT_Koriya
+699,HP_Bilaspur,CT_Mungeli
+700,HP_Bilaspur,MP_Anuppur
+701,HP_Chamba,HP_Kangra
+702,HP_Chamba,HP_Lahaul and Spiti
+703,HP_Chamba,JK_Doda
+704,HP_Chamba,JK_Kathua
+705,HP_Chamba,JK_Kishtwar
+706,HP_Chamba,PB_Pathankot
+707,HP_Kangra,HP_Chamba
+708,HP_Kangra,HP_Kullu
+709,HP_Kangra,HP_Lahaul and Spiti
+710,HP_Kangra,HP_Mandi
+711,HP_Kangra,HP_Una
+712,HP_Kangra,PB_Gurdaspur
+713,HP_Kangra,PB_Hoshiarpur
+714,HP_Kangra,PB_Pathankot
+715,HP_Kangra,UP_Hamirpur
+716,HP_Kinnaur,HP_Kullu
+717,HP_Kinnaur,HP_Lahaul and Spiti
+718,HP_Kinnaur,HP_Shimla
+719,HP_Kinnaur,UT_Uttarkashi
+720,HP_Kullu,HP_Kangra
+721,HP_Kullu,HP_Kinnaur
+722,HP_Kullu,HP_Lahaul and Spiti
+723,HP_Kullu,HP_Mandi
+724,HP_Kullu,HP_Shimla
+725,HP_Lahaul and Spiti,HP_Chamba
+726,HP_Lahaul and Spiti,HP_Kangra
+727,HP_Lahaul and Spiti,HP_Kinnaur
+728,HP_Lahaul and Spiti,HP_Kullu
+729,HP_Lahaul and Spiti,JK_Kishtwar
+730,HP_Lahaul and Spiti,LA_Kargil
+731,HP_Lahaul and Spiti,LA_Leh
+732,HP_Mandi,HP_Bilaspur
+733,HP_Mandi,HP_Kangra
+734,HP_Mandi,HP_Kullu
+735,HP_Mandi,HP_Shimla
+736,HP_Mandi,HP_Solan
+737,HP_Mandi,UP_Hamirpur
+738,HP_Shimla,HP_Kinnaur
+739,HP_Shimla,HP_Kullu
+740,HP_Shimla,HP_Mandi
+741,HP_Shimla,HP_Sirmaur
+742,HP_Shimla,HP_Solan
+743,HP_Shimla,UT_Dehradun
+744,HP_Shimla,UT_Uttarkashi
+745,HP_Sirmaur,HP_Shimla
+746,HP_Sirmaur,HP_Solan
+747,HP_Sirmaur,HR_Ambala
+748,HP_Sirmaur,HR_Panchkula
+749,HP_Sirmaur,HR_Yamunanagar
+750,HP_Sirmaur,UP_Saharanpur
+751,HP_Sirmaur,UT_Dehradun
+752,HP_Solan,HP_Bilaspur
+753,HP_Solan,HP_Mandi
+754,HP_Solan,HP_Shimla
+755,HP_Solan,HP_Sirmaur
+756,HP_Solan,HR_Panchkula
+757,HP_Solan,PB_Rupnagar
+758,HP_Solan,PB_S.A.S. Nagar
+759,HP_Una,HP_Bilaspur
+760,HP_Una,HP_Kangra
+761,HP_Una,PB_Hoshiarpur
+762,HP_Una,PB_Rupnagar
+763,HP_Una,UP_Hamirpur
+764,HR_Ambala,HP_Sirmaur
+765,HR_Ambala,HR_Kurukshetra
+766,HR_Ambala,HR_Panchkula
+767,HR_Ambala,HR_Yamunanagar
+768,HR_Ambala,PB_Patiala
+769,HR_Ambala,PB_S.A.S. Nagar
+770,HR_Bhiwani,HR_Charkhi Dadri
+771,HR_Bhiwani,HR_Hisar
+772,HR_Bhiwani,HR_Mahendragarh
+773,HR_Bhiwani,HR_Rohtak
+774,HR_Bhiwani,RJ_Churu
+775,HR_Bhiwani,RJ_Hanumangarh
+776,HR_Bhiwani,RJ_Jhunjhunu
+777,HR_Charkhi Dadri,HR_Bhiwani
+778,HR_Charkhi Dadri,HR_Jhajjar
+779,HR_Charkhi Dadri,HR_Mahendragarh
+780,HR_Charkhi Dadri,HR_Rohtak
+781,HR_Faridabad,HR_Gurugram
+782,HR_Faridabad,HR_Palwal
+783,HR_Faridabad,UP_Gautam Buddha Nagar
+784,HR_Fatehabad,HR_Hisar
+785,HR_Fatehabad,HR_Jind
+786,HR_Fatehabad,HR_Sirsa
+787,HR_Fatehabad,PB_Mansa
+788,HR_Fatehabad,PB_Sangrur
+789,HR_Fatehabad,RJ_Hanumangarh
+790,HR_Gurugram,HR_Faridabad
+791,HR_Gurugram,HR_Jhajjar
+792,HR_Gurugram,HR_Nuh
+793,HR_Gurugram,HR_Palwal
+794,HR_Gurugram,HR_Rewari
+795,HR_Hisar,HR_Bhiwani
+796,HR_Hisar,HR_Fatehabad
+797,HR_Hisar,HR_Jind
+798,HR_Hisar,HR_Rohtak
+799,HR_Hisar,RJ_Hanumangarh
+800,HR_Jhajjar,HR_Charkhi Dadri
+801,HR_Jhajjar,HR_Gurugram
+802,HR_Jhajjar,HR_Mahendragarh
+803,HR_Jhajjar,HR_Rewari
+804,HR_Jhajjar,HR_Rohtak
+805,HR_Jhajjar,HR_Sonipat
+806,HR_Jind,HR_Fatehabad
+807,HR_Jind,HR_Hisar
+808,HR_Jind,HR_Kaithal
+809,HR_Jind,HR_Karnal
+810,HR_Jind,HR_Panipat
+811,HR_Jind,HR_Rohtak
+812,HR_Jind,HR_Sonipat
+813,HR_Jind,PB_Patiala
+814,HR_Jind,PB_Sangrur
+815,HR_Kaithal,HR_Jind
+816,HR_Kaithal,HR_Karnal
+817,HR_Kaithal,HR_Kurukshetra
+818,HR_Kaithal,PB_Patiala
+819,HR_Karnal,HR_Jind
+820,HR_Karnal,HR_Kaithal
+821,HR_Karnal,HR_Kurukshetra
+822,HR_Karnal,HR_Panipat
+823,HR_Karnal,HR_Yamunanagar
+824,HR_Karnal,UP_Saharanpur
+825,HR_Karnal,UP_Shamli
+826,HR_Kurukshetra,HR_Ambala
+827,HR_Kurukshetra,HR_Kaithal
+828,HR_Kurukshetra,HR_Karnal
+829,HR_Kurukshetra,HR_Yamunanagar
+830,HR_Kurukshetra,PB_Patiala
+831,HR_Mahendragarh,HR_Bhiwani
+832,HR_Mahendragarh,HR_Charkhi Dadri
+833,HR_Mahendragarh,HR_Jhajjar
+834,HR_Mahendragarh,HR_Rewari
+835,HR_Mahendragarh,RJ_Alwar
+836,HR_Mahendragarh,RJ_Jaipur
+837,HR_Mahendragarh,RJ_Jhunjhunu
+838,HR_Mahendragarh,RJ_Sikar
+839,HR_Nuh,HR_Gurugram
+840,HR_Nuh,HR_Palwal
+841,HR_Nuh,HR_Rewari
+842,HR_Nuh,RJ_Alwar
+843,HR_Nuh,RJ_Bharatpur
+844,HR_Nuh,UP_Mathura
+845,HR_Palwal,HR_Faridabad
+846,HR_Palwal,HR_Gurugram
+847,HR_Palwal,HR_Nuh
+848,HR_Palwal,UP_Aligarh
+849,HR_Palwal,UP_Gautam Buddha Nagar
+850,HR_Palwal,UP_Mathura
+851,HR_Panchkula,CH_Chandigarh
+852,HR_Panchkula,HP_Sirmaur
+853,HR_Panchkula,HP_Solan
+854,HR_Panchkula,HR_Ambala
+855,HR_Panchkula,PB_S.A.S. Nagar
+856,HR_Panipat,HR_Jind
+857,HR_Panipat,HR_Karnal
+858,HR_Panipat,HR_Sonipat
+859,HR_Panipat,UP_Baghpat
+860,HR_Panipat,UP_Shamli
+861,HR_Rewari,HR_Gurugram
+862,HR_Rewari,HR_Jhajjar
+863,HR_Rewari,HR_Mahendragarh
+864,HR_Rewari,HR_Nuh
+865,HR_Rewari,RJ_Alwar
+866,HR_Rohtak,HR_Bhiwani
+867,HR_Rohtak,HR_Charkhi Dadri
+868,HR_Rohtak,HR_Hisar
+869,HR_Rohtak,HR_Jhajjar
+870,HR_Rohtak,HR_Jind
+871,HR_Rohtak,HR_Sonipat
+872,HR_Sirsa,HR_Fatehabad
+873,HR_Sirsa,PB_Bathinda
+874,HR_Sirsa,PB_Mansa
+875,HR_Sirsa,PB_Sri Muktsar Sahib
+876,HR_Sirsa,RJ_Hanumangarh
+877,HR_Sonipat,HR_Jhajjar
+878,HR_Sonipat,HR_Jind
+879,HR_Sonipat,HR_Panipat
+880,HR_Sonipat,HR_Rohtak
+881,HR_Sonipat,UP_Baghpat
+882,HR_Yamunanagar,HP_Sirmaur
+883,HR_Yamunanagar,HR_Ambala
+884,HR_Yamunanagar,HR_Karnal
+885,HR_Yamunanagar,HR_Kurukshetra
+886,HR_Yamunanagar,UP_Saharanpur
+887,JH_Bokaro,JH_Dhanbad
+888,JH_Bokaro,JH_Giridih
+889,JH_Bokaro,JH_Hazaribagh
+890,JH_Bokaro,JH_Ramgarh
+891,JH_Bokaro,WB_Purulia
+892,JH_Chatra,BR_Gaya
+893,JH_Chatra,JH_Hazaribagh
+894,JH_Chatra,JH_Latehar
+895,JH_Chatra,JH_Palamu
+896,JH_Chatra,JH_Ranchi
+897,JH_Deoghar,BR_Banka
+898,JH_Deoghar,BR_Jamui
+899,JH_Deoghar,JH_Dumka
+900,JH_Deoghar,JH_Giridih
+901,JH_Deoghar,JH_Jamtara
+902,JH_Dhanbad,JH_Bokaro
+903,JH_Dhanbad,JH_Giridih
+904,JH_Dhanbad,JH_Jamtara
+905,JH_Dhanbad,WB_Paschim Bardhaman
+906,JH_Dhanbad,WB_Purulia
+907,JH_Dumka,BR_Banka
+908,JH_Dumka,JH_Deoghar
+909,JH_Dumka,JH_Godda
+910,JH_Dumka,JH_Jamtara
+911,JH_Dumka,JH_Pakur
+912,JH_Dumka,WB_Birbhum
+913,JH_East Singhbhum,OR_Mayurbhanj
+914,JH_East Singhbhum,WB_Jhargram
+915,JH_East Singhbhum,WB_Purulia
+916,JH_Garhwa,BR_Rohtas
+917,JH_Garhwa,JH_Latehar
+918,JH_Garhwa,JH_Palamu
+919,JH_Garhwa,UP_Balrampur
+920,JH_Garhwa,UP_Sonbhadra
+921,JH_Giridih,BR_Jamui
+922,JH_Giridih,BR_Nawada
+923,JH_Giridih,JH_Bokaro
+924,JH_Giridih,JH_Deoghar
+925,JH_Giridih,JH_Dhanbad
+926,JH_Giridih,JH_Hazaribagh
+927,JH_Giridih,JH_Jamtara
+928,JH_Giridih,JH_Koderma
+929,JH_Godda,BR_Banka
+930,JH_Godda,BR_Bhagalpur
+931,JH_Godda,JH_Dumka
+932,JH_Godda,JH_Pakur
+933,JH_Godda,JH_Sahibganj
+934,JH_Gumla,CT_Jashpur
+935,JH_Gumla,JH_Khunti
+936,JH_Gumla,JH_Latehar
+937,JH_Gumla,JH_Lohardaga
+938,JH_Gumla,JH_Ranchi
+939,JH_Gumla,JH_Simdega
+940,JH_Gumla,UP_Balrampur
+941,JH_Hazaribagh,BR_Gaya
+942,JH_Hazaribagh,JH_Bokaro
+943,JH_Hazaribagh,JH_Chatra
+944,JH_Hazaribagh,JH_Giridih
+945,JH_Hazaribagh,JH_Koderma
+946,JH_Hazaribagh,JH_Ramgarh
+947,JH_Hazaribagh,JH_Ranchi
+948,JH_Jamtara,JH_Deoghar
+949,JH_Jamtara,JH_Dhanbad
+950,JH_Jamtara,JH_Dumka
+951,JH_Jamtara,JH_Giridih
+952,JH_Jamtara,WB_Birbhum
+953,JH_Jamtara,WB_Paschim Bardhaman
+954,JH_Khunti,JH_Gumla
+955,JH_Khunti,JH_Ranchi
+956,JH_Khunti,JH_Simdega
+957,JH_Khunti,JH_West Singhbhum
+958,JH_Koderma,BR_Gaya
+959,JH_Koderma,BR_Nawada
+960,JH_Koderma,JH_Giridih
+961,JH_Koderma,JH_Hazaribagh
+962,JH_Latehar,JH_Chatra
+963,JH_Latehar,JH_Garhwa
+964,JH_Latehar,JH_Gumla
+965,JH_Latehar,JH_Lohardaga
+966,JH_Latehar,JH_Palamu
+967,JH_Latehar,JH_Ranchi
+968,JH_Latehar,UP_Balrampur
+969,JH_Lohardaga,JH_Gumla
+970,JH_Lohardaga,JH_Latehar
+971,JH_Lohardaga,JH_Ranchi
+972,JH_Pakur,JH_Dumka
+973,JH_Pakur,JH_Godda
+974,JH_Pakur,JH_Sahibganj
+975,JH_Pakur,WB_Birbhum
+976,JH_Pakur,WB_Murshidabad
+977,JH_Palamu,BR_Gaya
+978,JH_Palamu,BR_Rohtas
+979,JH_Palamu,JH_Chatra
+980,JH_Palamu,JH_Garhwa
+981,JH_Palamu,JH_Latehar
+982,JH_Palamu,MH_Aurangabad
+983,JH_Ramgarh,JH_Bokaro
+984,JH_Ramgarh,JH_Hazaribagh
+985,JH_Ramgarh,JH_Ranchi
+986,JH_Ramgarh,WB_Purulia
+987,JH_Ranchi,JH_Chatra
+988,JH_Ranchi,JH_Gumla
+989,JH_Ranchi,JH_Hazaribagh
+990,JH_Ranchi,JH_Khunti
+991,JH_Ranchi,JH_Latehar
+992,JH_Ranchi,JH_Lohardaga
+993,JH_Ranchi,JH_Ramgarh
+994,JH_Ranchi,WB_Purulia
+995,JH_Sahibganj,BR_Bhagalpur
+996,JH_Sahibganj,BR_Katihar
+997,JH_Sahibganj,JH_Godda
+998,JH_Sahibganj,JH_Pakur
+999,JH_Sahibganj,WB_Malda
+1000,JH_Sahibganj,WB_Murshidabad
+1001,JH_Simdega,CT_Jashpur
+1002,JH_Simdega,JH_Gumla
+1003,JH_Simdega,JH_Khunti
+1004,JH_Simdega,JH_West Singhbhum
+1005,JH_Simdega,OR_Sundargarh
+1006,JH_West Singhbhum,JH_Khunti
+1007,JH_West Singhbhum,JH_Simdega
+1008,JH_West Singhbhum,OR_Kendujhar
+1009,JH_West Singhbhum,OR_Mayurbhanj
+1010,JH_West Singhbhum,OR_Sundargarh
+1011,JK_Anantnag,JK_Doda
+1012,JK_Anantnag,JK_Ganderbal
+1013,JK_Anantnag,JK_Kishtwar
+1014,JK_Anantnag,JK_Kulgam
+1015,JK_Anantnag,JK_Pulwama
+1016,JK_Anantnag,JK_Ramban
+1017,JK_Anantnag,JK_Shopiyan
+1018,JK_Anantnag,JK_Srinagar
+1019,JK_Anantnag,LA_Kargil
+1020,JK_Bandipora,JK_Baramulla
+1021,JK_Bandipora,JK_Ganderbal
+1022,JK_Bandipora,JK_Kupwara
+1023,JK_Bandipora,JK_Srinagar
+1024,JK_Bandipora,LA_Kargil
+1025,JK_Baramulla,JK_Bandipora
+1026,JK_Baramulla,JK_Budgam
+1027,JK_Baramulla,JK_Kupwara
+1028,JK_Baramulla,JK_Punch
+1029,JK_Baramulla,JK_Srinagar
+1030,JK_Budgam,JK_Baramulla
+1031,JK_Budgam,JK_Kulgam
+1032,JK_Budgam,JK_Pulwama
+1033,JK_Budgam,JK_Punch
+1034,JK_Budgam,JK_Shopiyan
+1035,JK_Budgam,JK_Srinagar
+1036,JK_Doda,HP_Chamba
+1037,JK_Doda,JK_Anantnag
+1038,JK_Doda,JK_Kathua
+1039,JK_Doda,JK_Kishtwar
+1040,JK_Doda,JK_Ramban
+1041,JK_Doda,JK_Udhampur
+1042,JK_Ganderbal,JK_Anantnag
+1043,JK_Ganderbal,JK_Bandipora
+1044,JK_Ganderbal,JK_Srinagar
+1045,JK_Ganderbal,LA_Kargil
+1046,JK_Jammu,JK_Rajouri
+1047,JK_Jammu,JK_Reasi
+1048,JK_Jammu,JK_Samba
+1049,JK_Jammu,JK_Udhampur
+1050,JK_Kathua,HP_Chamba
+1051,JK_Kathua,JK_Doda
+1052,JK_Kathua,JK_Samba
+1053,JK_Kathua,JK_Udhampur
+1054,JK_Kathua,PB_Pathankot
+1055,JK_Kishtwar,HP_Chamba
+1056,JK_Kishtwar,HP_Lahaul and Spiti
+1057,JK_Kishtwar,JK_Anantnag
+1058,JK_Kishtwar,JK_Doda
+1059,JK_Kishtwar,LA_Kargil
+1060,JK_Kulgam,JK_Anantnag
+1061,JK_Kulgam,JK_Budgam
+1062,JK_Kulgam,JK_Punch
+1063,JK_Kulgam,JK_Rajouri
+1064,JK_Kulgam,JK_Ramban
+1065,JK_Kulgam,JK_Reasi
+1066,JK_Kulgam,JK_Shopiyan
+1067,JK_Kupwara,JK_Bandipora
+1068,JK_Kupwara,JK_Baramulla
+1069,JK_Pulwama,JK_Anantnag
+1070,JK_Pulwama,JK_Budgam
+1071,JK_Pulwama,JK_Shopiyan
+1072,JK_Pulwama,JK_Srinagar
+1073,JK_Punch,JK_Baramulla
+1074,JK_Punch,JK_Budgam
+1075,JK_Punch,JK_Kulgam
+1076,JK_Punch,JK_Rajouri
+1077,JK_Punch,JK_Reasi
+1078,JK_Rajouri,JK_Jammu
+1079,JK_Rajouri,JK_Kulgam
+1080,JK_Rajouri,JK_Punch
+1081,JK_Rajouri,JK_Reasi
+1082,JK_Ramban,JK_Anantnag
+1083,JK_Ramban,JK_Doda
+1084,JK_Ramban,JK_Kulgam
+1085,JK_Ramban,JK_Reasi
+1086,JK_Ramban,JK_Udhampur
+1087,JK_Reasi,JK_Jammu
+1088,JK_Reasi,JK_Kulgam
+1089,JK_Reasi,JK_Punch
+1090,JK_Reasi,JK_Rajouri
+1091,JK_Reasi,JK_Ramban
+1092,JK_Reasi,JK_Udhampur
+1093,JK_Samba,JK_Jammu
+1094,JK_Samba,JK_Kathua
+1095,JK_Samba,JK_Udhampur
+1096,JK_Shopiyan,JK_Anantnag
+1097,JK_Shopiyan,JK_Budgam
+1098,JK_Shopiyan,JK_Kulgam
+1099,JK_Shopiyan,JK_Pulwama
+1100,JK_Srinagar,JK_Anantnag
+1101,JK_Srinagar,JK_Bandipora
+1102,JK_Srinagar,JK_Baramulla
+1103,JK_Srinagar,JK_Budgam
+1104,JK_Srinagar,JK_Ganderbal
+1105,JK_Srinagar,JK_Pulwama
+1106,JK_Udhampur,JK_Doda
+1107,JK_Udhampur,JK_Jammu
+1108,JK_Udhampur,JK_Kathua
+1109,JK_Udhampur,JK_Ramban
+1110,JK_Udhampur,JK_Reasi
+1111,JK_Udhampur,JK_Samba
+1112,KA_Bagalkote,CT_Bijapur
+1113,KA_Bagalkote,KA_Belagavi
+1114,KA_Bagalkote,KA_Gadag
+1115,KA_Bagalkote,KA_Koppal
+1116,KA_Bagalkote,KA_Raichur
+1117,KA_Ballari,AP_Anantapur
+1118,KA_Ballari,AP_Kurnool
+1119,KA_Ballari,KA_Chitradurga
+1120,KA_Ballari,KA_Davanagere
+1121,KA_Ballari,KA_Gadag
+1122,KA_Ballari,KA_Haveri
+1123,KA_Ballari,KA_Koppal
+1124,KA_Ballari,KA_Raichur
+1125,KA_Belagavi,CT_Bijapur
+1126,KA_Belagavi,KA_Bagalkote
+1127,KA_Belagavi,KA_Dharwad
+1128,KA_Belagavi,KA_Gadag
+1129,KA_Belagavi,KA_Uttara Kannada
+1130,KA_Belagavi,MH_Kolhapur
+1131,KA_Belagavi,MH_Sangli
+1132,KA_Belagavi,MH_Sindhudurg
+1133,KA_Bengaluru Rural,KA_Bengaluru Urban
+1134,KA_Bengaluru Rural,KA_Chikkaballapura
+1135,KA_Bengaluru Rural,KA_Kolar
+1136,KA_Bengaluru Rural,KA_Ramanagara
+1137,KA_Bengaluru Rural,KA_Tumakuru
+1138,KA_Bengaluru Rural,TN_Krishnagiri
+1139,KA_Bengaluru Urban,KA_Bengaluru Rural
+1140,KA_Bengaluru Urban,KA_Ramanagara
+1141,KA_Bengaluru Urban,TN_Krishnagiri
+1142,KA_Bidar,KA_Kalaburagi
+1143,KA_Bidar,MH_Latur
+1144,KA_Bidar,MH_Nanded
+1145,KA_Bidar,MH_Osmanabad
+1146,KA_Chamarajanagara,KA_Mandya
+1147,KA_Chamarajanagara,KA_Mysuru
+1148,KA_Chamarajanagara,KA_Ramanagara
+1149,KA_Chamarajanagara,KL_Wayanad
+1150,KA_Chamarajanagara,TN_Dharmapuri
+1151,KA_Chamarajanagara,TN_Erode
+1152,KA_Chamarajanagara,TN_Krishnagiri
+1153,KA_Chamarajanagara,TN_Nilgiris
+1154,KA_Chamarajanagara,TN_Salem
+1155,KA_Chikkaballapura,AP_Anantapur
+1156,KA_Chikkaballapura,AP_Chittoor
+1157,KA_Chikkaballapura,KA_Bengaluru Rural
+1158,KA_Chikkaballapura,KA_Kolar
+1159,KA_Chikkaballapura,KA_Tumakuru
+1160,KA_Chikkamagaluru,KA_Chitradurga
+1161,KA_Chikkamagaluru,KA_Dakshina Kannada
+1162,KA_Chikkamagaluru,KA_Davanagere
+1163,KA_Chikkamagaluru,KA_Hassan
+1164,KA_Chikkamagaluru,KA_Shivamogga
+1165,KA_Chikkamagaluru,KA_Tumakuru
+1166,KA_Chikkamagaluru,KA_Udupi
+1167,KA_Chitradurga,AP_Anantapur
+1168,KA_Chitradurga,KA_Ballari
+1169,KA_Chitradurga,KA_Chikkamagaluru
+1170,KA_Chitradurga,KA_Davanagere
+1171,KA_Chitradurga,KA_Tumakuru
+1172,KA_Dakshina Kannada,KA_Chikkamagaluru
+1173,KA_Dakshina Kannada,KA_Hassan
+1174,KA_Dakshina Kannada,KA_Kodagu
+1175,KA_Dakshina Kannada,KA_Udupi
+1176,KA_Dakshina Kannada,KL_Kasaragod
+1177,KA_Davanagere,KA_Ballari
+1178,KA_Davanagere,KA_Chikkamagaluru
+1179,KA_Davanagere,KA_Chitradurga
+1180,KA_Davanagere,KA_Haveri
+1181,KA_Davanagere,KA_Shivamogga
+1182,KA_Dharwad,KA_Belagavi
+1183,KA_Dharwad,KA_Gadag
+1184,KA_Dharwad,KA_Haveri
+1185,KA_Dharwad,KA_Uttara Kannada
+1186,KA_Gadag,KA_Bagalkote
+1187,KA_Gadag,KA_Ballari
+1188,KA_Gadag,KA_Belagavi
+1189,KA_Gadag,KA_Dharwad
+1190,KA_Gadag,KA_Haveri
+1191,KA_Gadag,KA_Koppal
+1192,KA_Hassan,KA_Chikkamagaluru
+1193,KA_Hassan,KA_Dakshina Kannada
+1194,KA_Hassan,KA_Kodagu
+1195,KA_Hassan,KA_Mandya
+1196,KA_Hassan,KA_Mysuru
+1197,KA_Hassan,KA_Tumakuru
+1198,KA_Haveri,KA_Ballari
+1199,KA_Haveri,KA_Davanagere
+1200,KA_Haveri,KA_Dharwad
+1201,KA_Haveri,KA_Gadag
+1202,KA_Haveri,KA_Shivamogga
+1203,KA_Haveri,KA_Uttara Kannada
+1204,KA_Kalaburagi,CT_Bijapur
+1205,KA_Kalaburagi,KA_Bidar
+1206,KA_Kalaburagi,KA_Yadgir
+1207,KA_Kalaburagi,MH_Osmanabad
+1208,KA_Kalaburagi,MH_Solapur
+1209,KA_Kodagu,KA_Dakshina Kannada
+1210,KA_Kodagu,KA_Hassan
+1211,KA_Kodagu,KA_Mysuru
+1212,KA_Kodagu,KL_Kannur
+1213,KA_Kodagu,KL_Kasaragod
+1214,KA_Kodagu,KL_Wayanad
+1215,KA_Kolar,AP_Chittoor
+1216,KA_Kolar,KA_Bengaluru Rural
+1217,KA_Kolar,KA_Chikkaballapura
+1218,KA_Kolar,TN_Krishnagiri
+1219,KA_Koppal,KA_Bagalkote
+1220,KA_Koppal,KA_Ballari
+1221,KA_Koppal,KA_Gadag
+1222,KA_Koppal,KA_Raichur
+1223,KA_Mandya,KA_Chamarajanagara
+1224,KA_Mandya,KA_Hassan
+1225,KA_Mandya,KA_Mysuru
+1226,KA_Mandya,KA_Ramanagara
+1227,KA_Mandya,KA_Tumakuru
+1228,KA_Mysuru,KA_Chamarajanagara
+1229,KA_Mysuru,KA_Hassan
+1230,KA_Mysuru,KA_Kodagu
+1231,KA_Mysuru,KA_Mandya
+1232,KA_Mysuru,KL_Wayanad
+1233,KA_Raichur,AP_Kurnool
+1234,KA_Raichur,CT_Bijapur
+1235,KA_Raichur,KA_Bagalkote
+1236,KA_Raichur,KA_Ballari
+1237,KA_Raichur,KA_Koppal
+1238,KA_Raichur,KA_Yadgir
+1239,KA_Ramanagara,KA_Bengaluru Rural
+1240,KA_Ramanagara,KA_Bengaluru Urban
+1241,KA_Ramanagara,KA_Chamarajanagara
+1242,KA_Ramanagara,KA_Mandya
+1243,KA_Ramanagara,KA_Tumakuru
+1244,KA_Ramanagara,TN_Krishnagiri
+1245,KA_Shivamogga,KA_Chikkamagaluru
+1246,KA_Shivamogga,KA_Davanagere
+1247,KA_Shivamogga,KA_Haveri
+1248,KA_Shivamogga,KA_Udupi
+1249,KA_Shivamogga,KA_Uttara Kannada
+1250,KA_Tumakuru,AP_Anantapur
+1251,KA_Tumakuru,KA_Bengaluru Rural
+1252,KA_Tumakuru,KA_Chikkaballapura
+1253,KA_Tumakuru,KA_Chikkamagaluru
+1254,KA_Tumakuru,KA_Chitradurga
+1255,KA_Tumakuru,KA_Hassan
+1256,KA_Tumakuru,KA_Mandya
+1257,KA_Tumakuru,KA_Ramanagara
+1258,KA_Udupi,KA_Chikkamagaluru
+1259,KA_Udupi,KA_Dakshina Kannada
+1260,KA_Udupi,KA_Shivamogga
+1261,KA_Udupi,KA_Uttara Kannada
+1262,KA_Uttara Kannada,KA_Belagavi
+1263,KA_Uttara Kannada,KA_Dharwad
+1264,KA_Uttara Kannada,KA_Haveri
+1265,KA_Uttara Kannada,KA_Shivamogga
+1266,KA_Uttara Kannada,KA_Udupi
+1267,KA_Yadgir,CT_Bijapur
+1268,KA_Yadgir,KA_Kalaburagi
+1269,KA_Yadgir,KA_Raichur
+1270,KL_Alappuzha,KL_Ernakulam
+1271,KL_Alappuzha,KL_Kollam
+1272,KL_Alappuzha,KL_Kottayam
+1273,KL_Alappuzha,KL_Pathanamthitta
+1274,KL_Ernakulam,KL_Alappuzha
+1275,KL_Ernakulam,KL_Idukki
+1276,KL_Ernakulam,KL_Kottayam
+1277,KL_Ernakulam,KL_Thrissur
+1278,KL_Ernakulam,TN_Coimbatore
+1279,KL_Idukki,KL_Ernakulam
+1280,KL_Idukki,KL_Kottayam
+1281,KL_Idukki,KL_Pathanamthitta
+1282,KL_Idukki,TN_Coimbatore
+1283,KL_Idukki,TN_Dindigul
+1284,KL_Idukki,TN_Theni
+1285,KL_Idukki,TN_Tirunelveli
+1286,KL_Idukki,TN_Tiruppur
+1287,KL_Idukki,TN_Virudhunagar
+1288,KL_Kannur,KA_Kodagu
+1289,KL_Kannur,KL_Kasaragod
+1290,KL_Kannur,KL_Kozhikode
+1291,KL_Kannur,KL_Wayanad
+1292,KL_Kannur,PY_Mahe
+1293,KL_Kasaragod,KA_Dakshina Kannada
+1294,KL_Kasaragod,KA_Kodagu
+1295,KL_Kasaragod,KL_Kannur
+1296,KL_Kollam,KL_Alappuzha
+1297,KL_Kollam,KL_Pathanamthitta
+1298,KL_Kollam,KL_Thiruvananthapuram
+1299,KL_Kollam,TN_Tirunelveli
+1300,KL_Kottayam,KL_Alappuzha
+1301,KL_Kottayam,KL_Ernakulam
+1302,KL_Kottayam,KL_Idukki
+1303,KL_Kottayam,KL_Pathanamthitta
+1304,KL_Kozhikode,KL_Kannur
+1305,KL_Kozhikode,KL_Malappuram
+1306,KL_Kozhikode,KL_Wayanad
+1307,KL_Kozhikode,PY_Mahe
+1308,KL_Malappuram,KL_Kozhikode
+1309,KL_Malappuram,KL_Palakkad
+1310,KL_Malappuram,KL_Thrissur
+1311,KL_Malappuram,KL_Wayanad
+1312,KL_Malappuram,TN_Nilgiris
+1313,KL_Palakkad,KL_Malappuram
+1314,KL_Palakkad,KL_Thrissur
+1315,KL_Palakkad,TN_Coimbatore
+1316,KL_Palakkad,TN_Nilgiris
+1317,KL_Pathanamthitta,KL_Alappuzha
+1318,KL_Pathanamthitta,KL_Idukki
+1319,KL_Pathanamthitta,KL_Kollam
+1320,KL_Pathanamthitta,KL_Kottayam
+1321,KL_Pathanamthitta,TN_Tirunelveli
+1322,KL_Thiruvananthapuram,KL_Kollam
+1323,KL_Thiruvananthapuram,TN_Kanyakumari
+1324,KL_Thiruvananthapuram,TN_Tirunelveli
+1325,KL_Thrissur,KL_Ernakulam
+1326,KL_Thrissur,KL_Malappuram
+1327,KL_Thrissur,KL_Palakkad
+1328,KL_Thrissur,TN_Coimbatore
+1329,KL_Wayanad,KA_Chamarajanagara
+1330,KL_Wayanad,KA_Kodagu
+1331,KL_Wayanad,KA_Mysuru
+1332,KL_Wayanad,KL_Kannur
+1333,KL_Wayanad,KL_Kozhikode
+1334,KL_Wayanad,KL_Malappuram
+1335,KL_Wayanad,TN_Nilgiris
+1336,LA_Kargil,HP_Lahaul and Spiti
+1337,LA_Kargil,JK_Anantnag
+1338,LA_Kargil,JK_Bandipora
+1339,LA_Kargil,JK_Ganderbal
+1340,LA_Kargil,JK_Kishtwar
+1341,LA_Kargil,LA_Leh
+1342,LA_Leh,HP_Lahaul and Spiti
+1343,LA_Leh,LA_Kargil
+1344,MH_Ahmednagar,MH_Aurangabad
+1345,MH_Ahmednagar,MH_Beed
+1346,MH_Ahmednagar,MH_Nashik
+1347,MH_Ahmednagar,MH_Osmanabad
+1348,MH_Ahmednagar,MH_Pune
+1349,MH_Ahmednagar,MH_Solapur
+1350,MH_Ahmednagar,MH_Thane
+1351,MH_Akola,MH_Amravati
+1352,MH_Akola,MH_Buldhana
+1353,MH_Akola,MH_Washim
+1354,MH_Amravati,MH_Akola
+1355,MH_Amravati,MH_Buldhana
+1356,MH_Amravati,MH_Nagpur
+1357,MH_Amravati,MH_Wardha
+1358,MH_Amravati,MH_Washim
+1359,MH_Amravati,MH_Yavatmal
+1360,MH_Amravati,MP_Betul
+1361,MH_Amravati,MP_Burhanpur
+1362,MH_Amravati,MP_Chhindwara
+1363,MH_Amravati,MP_Khandwa
+1364,MH_Aurangabad,MH_Ahmednagar
+1365,MH_Aurangabad,MH_Beed
+1366,MH_Aurangabad,MH_Jalgaon
+1367,MH_Aurangabad,MH_Jalna
+1368,MH_Aurangabad,MH_Nashik
+1369,MH_Beed,MH_Ahmednagar
+1370,MH_Beed,MH_Aurangabad
+1371,MH_Beed,MH_Jalna
+1372,MH_Beed,MH_Latur
+1373,MH_Beed,MH_Osmanabad
+1374,MH_Beed,MH_Parbhani
+1375,MH_Bhandara,MH_Chandrapur
+1376,MH_Bhandara,MH_Gadchiroli
+1377,MH_Bhandara,MH_Gondia
+1378,MH_Bhandara,MH_Nagpur
+1379,MH_Bhandara,MP_Balaghat
+1380,MH_Buldhana,MH_Akola
+1381,MH_Buldhana,MH_Amravati
+1382,MH_Buldhana,MH_Jalgaon
+1383,MH_Buldhana,MH_Jalna
+1384,MH_Buldhana,MH_Parbhani
+1385,MH_Buldhana,MH_Washim
+1386,MH_Buldhana,MP_Burhanpur
+1387,MH_Chandrapur,MH_Bhandara
+1388,MH_Chandrapur,MH_Gadchiroli
+1389,MH_Chandrapur,MH_Nagpur
+1390,MH_Chandrapur,MH_Wardha
+1391,MH_Chandrapur,MH_Yavatmal
+1392,MH_Dhule,GJ_Dang
+1393,MH_Dhule,GJ_Tapi
+1394,MH_Dhule,MH_Jalgaon
+1395,MH_Dhule,MH_Nandurbar
+1396,MH_Dhule,MH_Nashik
+1397,MH_Dhule,MP_Barwani
+1398,MH_Gadchiroli,CT_Bijapur
+1399,MH_Gadchiroli,CT_Narayanpur
+1400,MH_Gadchiroli,CT_Rajnandgaon
+1401,MH_Gadchiroli,CT_Uttar Bastar Kanker
+1402,MH_Gadchiroli,MH_Bhandara
+1403,MH_Gadchiroli,MH_Chandrapur
+1404,MH_Gadchiroli,MH_Gondia
+1405,MH_Gondia,CT_Rajnandgaon
+1406,MH_Gondia,MH_Bhandara
+1407,MH_Gondia,MH_Gadchiroli
+1408,MH_Gondia,MP_Balaghat
+1409,MH_Hingoli,MH_Nanded
+1410,MH_Hingoli,MH_Parbhani
+1411,MH_Hingoli,MH_Washim
+1412,MH_Hingoli,MH_Yavatmal
+1413,MH_Jalgaon,MH_Aurangabad
+1414,MH_Jalgaon,MH_Buldhana
+1415,MH_Jalgaon,MH_Dhule
+1416,MH_Jalgaon,MH_Jalna
+1417,MH_Jalgaon,MH_Nashik
+1418,MH_Jalgaon,MP_Barwani
+1419,MH_Jalgaon,MP_Burhanpur
+1420,MH_Jalgaon,MP_Khargone
+1421,MH_Jalna,MH_Aurangabad
+1422,MH_Jalna,MH_Beed
+1423,MH_Jalna,MH_Buldhana
+1424,MH_Jalna,MH_Jalgaon
+1425,MH_Jalna,MH_Parbhani
+1426,MH_Kolhapur,KA_Belagavi
+1427,MH_Kolhapur,MH_Ratnagiri
+1428,MH_Kolhapur,MH_Sangli
+1429,MH_Kolhapur,MH_Sindhudurg
+1430,MH_Latur,KA_Bidar
+1431,MH_Latur,MH_Beed
+1432,MH_Latur,MH_Nanded
+1433,MH_Latur,MH_Osmanabad
+1434,MH_Latur,MH_Parbhani
+1435,MH_Nagpur,MH_Amravati
+1436,MH_Nagpur,MH_Bhandara
+1437,MH_Nagpur,MH_Chandrapur
+1438,MH_Nagpur,MH_Wardha
+1439,MH_Nagpur,MP_Balaghat
+1440,MH_Nagpur,MP_Chhindwara
+1441,MH_Nagpur,MP_Seoni
+1442,MH_Nanded,KA_Bidar
+1443,MH_Nanded,MH_Hingoli
+1444,MH_Nanded,MH_Latur
+1445,MH_Nanded,MH_Parbhani
+1446,MH_Nanded,MH_Yavatmal
+1447,MH_Nandurbar,GJ_Chhota Udaipur
+1448,MH_Nandurbar,GJ_Narmada
+1449,MH_Nandurbar,GJ_Tapi
+1450,MH_Nandurbar,MH_Dhule
+1451,MH_Nandurbar,MP_Alirajpur
+1452,MH_Nandurbar,MP_Barwani
+1453,MH_Nashik,GJ_Dang
+1454,MH_Nashik,GJ_Navsari
+1455,MH_Nashik,GJ_Valsad
+1456,MH_Nashik,MH_Ahmednagar
+1457,MH_Nashik,MH_Aurangabad
+1458,MH_Nashik,MH_Dhule
+1459,MH_Nashik,MH_Jalgaon
+1460,MH_Nashik,MH_Palghar
+1461,MH_Nashik,MH_Thane
+1462,MH_Osmanabad,KA_Bidar
+1463,MH_Osmanabad,KA_Kalaburagi
+1464,MH_Osmanabad,MH_Ahmednagar
+1465,MH_Osmanabad,MH_Beed
+1466,MH_Osmanabad,MH_Latur
+1467,MH_Osmanabad,MH_Solapur
+1468,MH_Palghar,DN_Dadra and Nagar Haveli
+1469,MH_Palghar,GJ_Valsad
+1470,MH_Palghar,MH_Nashik
+1471,MH_Palghar,MH_Thane
+1472,MH_Parbhani,MH_Beed
+1473,MH_Parbhani,MH_Buldhana
+1474,MH_Parbhani,MH_Hingoli
+1475,MH_Parbhani,MH_Jalna
+1476,MH_Parbhani,MH_Latur
+1477,MH_Parbhani,MH_Nanded
+1478,MH_Parbhani,MH_Washim
+1479,MH_Pune,MH_Ahmednagar
+1480,MH_Pune,MH_Raigad
+1481,MH_Pune,MH_Satara
+1482,MH_Pune,MH_Solapur
+1483,MH_Pune,MH_Thane
+1484,MH_Raigad,MH_Pune
+1485,MH_Raigad,MH_Ratnagiri
+1486,MH_Raigad,MH_Satara
+1487,MH_Raigad,MH_Thane
+1488,MH_Ratnagiri,MH_Kolhapur
+1489,MH_Ratnagiri,MH_Raigad
+1490,MH_Ratnagiri,MH_Sangli
+1491,MH_Ratnagiri,MH_Satara
+1492,MH_Ratnagiri,MH_Sindhudurg
+1493,MH_Sangli,CT_Bijapur
+1494,MH_Sangli,KA_Belagavi
+1495,MH_Sangli,MH_Kolhapur
+1496,MH_Sangli,MH_Ratnagiri
+1497,MH_Sangli,MH_Satara
+1498,MH_Sangli,MH_Solapur
+1499,MH_Satara,MH_Pune
+1500,MH_Satara,MH_Raigad
+1501,MH_Satara,MH_Ratnagiri
+1502,MH_Satara,MH_Sangli
+1503,MH_Satara,MH_Solapur
+1504,MH_Sindhudurg,KA_Belagavi
+1505,MH_Sindhudurg,MH_Kolhapur
+1506,MH_Sindhudurg,MH_Ratnagiri
+1507,MH_Solapur,CT_Bijapur
+1508,MH_Solapur,KA_Kalaburagi
+1509,MH_Solapur,MH_Ahmednagar
+1510,MH_Solapur,MH_Osmanabad
+1511,MH_Solapur,MH_Pune
+1512,MH_Solapur,MH_Sangli
+1513,MH_Solapur,MH_Satara
+1514,MH_Thane,MH_Ahmednagar
+1515,MH_Thane,MH_Nashik
+1516,MH_Thane,MH_Palghar
+1517,MH_Thane,MH_Pune
+1518,MH_Thane,MH_Raigad
+1519,MH_Wardha,MH_Amravati
+1520,MH_Wardha,MH_Chandrapur
+1521,MH_Wardha,MH_Nagpur
+1522,MH_Wardha,MH_Yavatmal
+1523,MH_Washim,MH_Akola
+1524,MH_Washim,MH_Amravati
+1525,MH_Washim,MH_Buldhana
+1526,MH_Washim,MH_Hingoli
+1527,MH_Washim,MH_Parbhani
+1528,MH_Washim,MH_Yavatmal
+1529,MH_Yavatmal,MH_Amravati
+1530,MH_Yavatmal,MH_Chandrapur
+1531,MH_Yavatmal,MH_Hingoli
+1532,MH_Yavatmal,MH_Nanded
+1533,MH_Yavatmal,MH_Wardha
+1534,MH_Yavatmal,MH_Washim
+1535,ML_East Garo Hills,ML_North Garo Hills
+1536,ML_East Garo Hills,ML_South Garo Hills
+1537,ML_East Garo Hills,ML_West Garo Hills
+1538,ML_East Garo Hills,ML_West Khasi Hills
+1539,ML_East Jaintia Hills,ML_West Jaintia Hills
+1540,ML_East Khasi Hills,ML_Ribhoi
+1541,ML_East Khasi Hills,ML_South West Khasi Hills
+1542,ML_East Khasi Hills,ML_West Jaintia Hills
+1543,ML_East Khasi Hills,ML_West Khasi Hills
+1544,ML_North Garo Hills,ML_East Garo Hills
+1545,ML_North Garo Hills,ML_West Garo Hills
+1546,ML_North Garo Hills,ML_West Khasi Hills
+1547,ML_Ribhoi,ML_East Khasi Hills
+1548,ML_Ribhoi,ML_West Jaintia Hills
+1549,ML_Ribhoi,ML_West Khasi Hills
+1550,ML_South Garo Hills,ML_East Garo Hills
+1551,ML_South Garo Hills,ML_South West Khasi Hills
+1552,ML_South Garo Hills,ML_West Garo Hills
+1553,ML_South Garo Hills,ML_West Khasi Hills
+1554,ML_South West Garo Hills,ML_West Garo Hills
+1555,ML_South West Khasi Hills,ML_East Khasi Hills
+1556,ML_South West Khasi Hills,ML_South Garo Hills
+1557,ML_South West Khasi Hills,ML_West Khasi Hills
+1558,ML_West Garo Hills,ML_East Garo Hills
+1559,ML_West Garo Hills,ML_North Garo Hills
+1560,ML_West Garo Hills,ML_South Garo Hills
+1561,ML_West Garo Hills,ML_South West Garo Hills
+1562,ML_West Jaintia Hills,ML_East Jaintia Hills
+1563,ML_West Jaintia Hills,ML_East Khasi Hills
+1564,ML_West Jaintia Hills,ML_Ribhoi
+1565,ML_West Khasi Hills,ML_East Garo Hills
+1566,ML_West Khasi Hills,ML_East Khasi Hills
+1567,ML_West Khasi Hills,ML_North Garo Hills
+1568,ML_West Khasi Hills,ML_Ribhoi
+1569,ML_West Khasi Hills,ML_South Garo Hills
+1570,ML_West Khasi Hills,ML_South West Khasi Hills
+1571,MP_Agar Malwa,MP_Rajgarh
+1572,MP_Agar Malwa,MP_Ratlam
+1573,MP_Agar Malwa,MP_Shajapur
+1574,MP_Agar Malwa,MP_Ujjain
+1575,MP_Agar Malwa,RJ_Jhalawar
+1576,MP_Alirajpur,GJ_Chhota Udaipur
+1577,MP_Alirajpur,GJ_Dahod
+1578,MP_Alirajpur,MH_Nandurbar
+1579,MP_Alirajpur,MP_Barwani
+1580,MP_Alirajpur,MP_Dhar
+1581,MP_Alirajpur,MP_Jhabua
+1582,MP_Anuppur,CT_Koriya
+1583,MP_Anuppur,CT_Mungeli
+1584,MP_Anuppur,HP_Bilaspur
+1585,MP_Anuppur,MP_Dindori
+1586,MP_Anuppur,MP_Shahdol
+1587,MP_Anuppur,MP_Umaria
+1588,MP_Ashoknagar,MP_Guna
+1589,MP_Ashoknagar,MP_Sagar
+1590,MP_Ashoknagar,MP_Shivpuri
+1591,MP_Ashoknagar,MP_Vidisha
+1592,MP_Ashoknagar,UP_Lalitpur
+1593,MP_Balaghat,CT_Kabeerdham
+1594,MP_Balaghat,CT_Rajnandgaon
+1595,MP_Balaghat,MH_Bhandara
+1596,MP_Balaghat,MH_Gondia
+1597,MP_Balaghat,MH_Nagpur
+1598,MP_Balaghat,MP_Mandla
+1599,MP_Balaghat,MP_Seoni
+1600,MP_Barwani,MH_Dhule
+1601,MP_Barwani,MH_Jalgaon
+1602,MP_Barwani,MH_Nandurbar
+1603,MP_Barwani,MP_Alirajpur
+1604,MP_Barwani,MP_Dhar
+1605,MP_Barwani,MP_Khargone
+1606,MP_Betul,MH_Amravati
+1607,MP_Betul,MP_Chhindwara
+1608,MP_Betul,MP_Harda
+1609,MP_Betul,MP_Hoshangabad
+1610,MP_Betul,MP_Khandwa
+1611,MP_Bhind,MP_Datia
+1612,MP_Bhind,MP_Gwalior
+1613,MP_Bhind,MP_Morena
+1614,MP_Bhind,UP_Agra
+1615,MP_Bhind,UP_Etawah
+1616,MP_Bhind,UP_Jalaun
+1617,MP_Bhind,UP_Jhansi
+1618,MP_Bhopal,MP_Guna
+1619,MP_Bhopal,MP_Raisen
+1620,MP_Bhopal,MP_Rajgarh
+1621,MP_Bhopal,MP_Sehore
+1622,MP_Bhopal,MP_Vidisha
+1623,MP_Burhanpur,MH_Amravati
+1624,MP_Burhanpur,MH_Buldhana
+1625,MP_Burhanpur,MH_Jalgaon
+1626,MP_Burhanpur,MP_Khandwa
+1627,MP_Burhanpur,MP_Khargone
+1628,MP_Chhatarpur,MP_Damoh
+1629,MP_Chhatarpur,MP_Panna
+1630,MP_Chhatarpur,MP_Sagar
+1631,MP_Chhatarpur,MP_Tikamgarh
+1632,MP_Chhatarpur,UP_Banda
+1633,MP_Chhatarpur,UP_Jhansi
+1634,MP_Chhatarpur,UP_Lalitpur
+1635,MP_Chhatarpur,UP_Mahoba
+1636,MP_Chhindwara,MH_Amravati
+1637,MP_Chhindwara,MH_Nagpur
+1638,MP_Chhindwara,MP_Betul
+1639,MP_Chhindwara,MP_Hoshangabad
+1640,MP_Chhindwara,MP_Narsinghpur
+1641,MP_Chhindwara,MP_Seoni
+1642,MP_Damoh,MP_Chhatarpur
+1643,MP_Damoh,MP_Jabalpur
+1644,MP_Damoh,MP_Katni
+1645,MP_Damoh,MP_Narsinghpur
+1646,MP_Damoh,MP_Panna
+1647,MP_Damoh,MP_Sagar
+1648,MP_Datia,MP_Bhind
+1649,MP_Datia,MP_Gwalior
+1650,MP_Datia,MP_Shivpuri
+1651,MP_Datia,UP_Jhansi
+1652,MP_Datia,UP_Lalitpur
+1653,MP_Dewas,MP_Harda
+1654,MP_Dewas,MP_Indore
+1655,MP_Dewas,MP_Khandwa
+1656,MP_Dewas,MP_Khargone
+1657,MP_Dewas,MP_Sehore
+1658,MP_Dewas,MP_Shajapur
+1659,MP_Dewas,MP_Ujjain
+1660,MP_Dhar,MP_Alirajpur
+1661,MP_Dhar,MP_Barwani
+1662,MP_Dhar,MP_Indore
+1663,MP_Dhar,MP_Jhabua
+1664,MP_Dhar,MP_Khargone
+1665,MP_Dhar,MP_Ratlam
+1666,MP_Dhar,MP_Ujjain
+1667,MP_Dindori,CT_Kabeerdham
+1668,MP_Dindori,CT_Mungeli
+1669,MP_Dindori,MP_Anuppur
+1670,MP_Dindori,MP_Jabalpur
+1671,MP_Dindori,MP_Mandla
+1672,MP_Dindori,MP_Umaria
+1673,MP_Guna,MP_Ashoknagar
+1674,MP_Guna,MP_Bhopal
+1675,MP_Guna,MP_Rajgarh
+1676,MP_Guna,MP_Shivpuri
+1677,MP_Guna,MP_Vidisha
+1678,MP_Guna,RJ_Baran
+1679,MP_Guna,RJ_Jhalawar
+1680,MP_Gwalior,MP_Bhind
+1681,MP_Gwalior,MP_Datia
+1682,MP_Gwalior,MP_Morena
+1683,MP_Gwalior,MP_Shivpuri
+1684,MP_Harda,MP_Betul
+1685,MP_Harda,MP_Dewas
+1686,MP_Harda,MP_Hoshangabad
+1687,MP_Harda,MP_Khandwa
+1688,MP_Harda,MP_Sehore
+1689,MP_Hoshangabad,MP_Betul
+1690,MP_Hoshangabad,MP_Chhindwara
+1691,MP_Hoshangabad,MP_Harda
+1692,MP_Hoshangabad,MP_Narsinghpur
+1693,MP_Hoshangabad,MP_Raisen
+1694,MP_Hoshangabad,MP_Sehore
+1695,MP_Indore,MP_Dewas
+1696,MP_Indore,MP_Dhar
+1697,MP_Indore,MP_Khargone
+1698,MP_Indore,MP_Ujjain
+1699,MP_Jabalpur,MP_Damoh
+1700,MP_Jabalpur,MP_Dindori
+1701,MP_Jabalpur,MP_Katni
+1702,MP_Jabalpur,MP_Mandla
+1703,MP_Jabalpur,MP_Narsinghpur
+1704,MP_Jabalpur,MP_Seoni
+1705,MP_Jabalpur,MP_Umaria
+1706,MP_Jhabua,GJ_Dahod
+1707,MP_Jhabua,MP_Alirajpur
+1708,MP_Jhabua,MP_Dhar
+1709,MP_Jhabua,MP_Ratlam
+1710,MP_Jhabua,RJ_Banswara
+1711,MP_Katni,MP_Damoh
+1712,MP_Katni,MP_Jabalpur
+1713,MP_Katni,MP_Panna
+1714,MP_Katni,MP_Satna
+1715,MP_Katni,MP_Umaria
+1716,MP_Khandwa,MH_Amravati
+1717,MP_Khandwa,MP_Betul
+1718,MP_Khandwa,MP_Burhanpur
+1719,MP_Khandwa,MP_Dewas
+1720,MP_Khandwa,MP_Harda
+1721,MP_Khandwa,MP_Khargone
+1722,MP_Khargone,MH_Jalgaon
+1723,MP_Khargone,MP_Barwani
+1724,MP_Khargone,MP_Burhanpur
+1725,MP_Khargone,MP_Dewas
+1726,MP_Khargone,MP_Dhar
+1727,MP_Khargone,MP_Indore
+1728,MP_Khargone,MP_Khandwa
+1729,MP_Mandla,CT_Kabeerdham
+1730,MP_Mandla,MP_Balaghat
+1731,MP_Mandla,MP_Dindori
+1732,MP_Mandla,MP_Jabalpur
+1733,MP_Mandla,MP_Seoni
+1734,MP_Mandsaur,MP_Neemuch
+1735,MP_Mandsaur,MP_Ratlam
+1736,MP_Mandsaur,RJ_Chittorgarh
+1737,MP_Mandsaur,RJ_Jhalawar
+1738,MP_Mandsaur,RJ_Kota
+1739,MP_Mandsaur,UP_Pratapgarh
+1740,MP_Morena,MP_Bhind
+1741,MP_Morena,MP_Gwalior
+1742,MP_Morena,MP_Sheopur
+1743,MP_Morena,MP_Shivpuri
+1744,MP_Morena,RJ_Dholpur
+1745,MP_Morena,RJ_Karauli
+1746,MP_Morena,UP_Agra
+1747,MP_Narsinghpur,MP_Chhindwara
+1748,MP_Narsinghpur,MP_Damoh
+1749,MP_Narsinghpur,MP_Hoshangabad
+1750,MP_Narsinghpur,MP_Jabalpur
+1751,MP_Narsinghpur,MP_Raisen
+1752,MP_Narsinghpur,MP_Sagar
+1753,MP_Narsinghpur,MP_Seoni
+1754,MP_Neemuch,MP_Mandsaur
+1755,MP_Neemuch,RJ_Bhilwara
+1756,MP_Neemuch,RJ_Chittorgarh
+1757,MP_Neemuch,UP_Pratapgarh
+1758,MP_Panna,MP_Chhatarpur
+1759,MP_Panna,MP_Damoh
+1760,MP_Panna,MP_Katni
+1761,MP_Panna,MP_Satna
+1762,MP_Panna,UP_Banda
+1763,MP_Raisen,MP_Bhopal
+1764,MP_Raisen,MP_Hoshangabad
+1765,MP_Raisen,MP_Narsinghpur
+1766,MP_Raisen,MP_Sagar
+1767,MP_Raisen,MP_Sehore
+1768,MP_Raisen,MP_Vidisha
+1769,MP_Rajgarh,MP_Agar Malwa
+1770,MP_Rajgarh,MP_Bhopal
+1771,MP_Rajgarh,MP_Guna
+1772,MP_Rajgarh,MP_Sehore
+1773,MP_Rajgarh,MP_Shajapur
+1774,MP_Rajgarh,RJ_Jhalawar
+1775,MP_Ratlam,MP_Agar Malwa
+1776,MP_Ratlam,MP_Dhar
+1777,MP_Ratlam,MP_Jhabua
+1778,MP_Ratlam,MP_Mandsaur
+1779,MP_Ratlam,MP_Ujjain
+1780,MP_Ratlam,RJ_Banswara
+1781,MP_Ratlam,RJ_Jhalawar
+1782,MP_Ratlam,UP_Pratapgarh
+1783,MP_Rewa,MP_Satna
+1784,MP_Rewa,MP_Sidhi
+1785,MP_Rewa,MP_Singrauli
+1786,MP_Rewa,UP_Chitrakoot
+1787,MP_Rewa,UP_Mirzapur
+1788,MP_Rewa,UP_Prayagraj
+1789,MP_Sagar,MP_Ashoknagar
+1790,MP_Sagar,MP_Chhatarpur
+1791,MP_Sagar,MP_Damoh
+1792,MP_Sagar,MP_Narsinghpur
+1793,MP_Sagar,MP_Raisen
+1794,MP_Sagar,MP_Vidisha
+1795,MP_Sagar,UP_Lalitpur
+1796,MP_Satna,MP_Katni
+1797,MP_Satna,MP_Panna
+1798,MP_Satna,MP_Rewa
+1799,MP_Satna,MP_Shahdol
+1800,MP_Satna,MP_Sidhi
+1801,MP_Satna,MP_Umaria
+1802,MP_Satna,UP_Banda
+1803,MP_Satna,UP_Chitrakoot
+1804,MP_Sehore,MP_Bhopal
+1805,MP_Sehore,MP_Dewas
+1806,MP_Sehore,MP_Harda
+1807,MP_Sehore,MP_Hoshangabad
+1808,MP_Sehore,MP_Raisen
+1809,MP_Sehore,MP_Rajgarh
+1810,MP_Sehore,MP_Shajapur
+1811,MP_Seoni,MH_Nagpur
+1812,MP_Seoni,MP_Balaghat
+1813,MP_Seoni,MP_Chhindwara
+1814,MP_Seoni,MP_Jabalpur
+1815,MP_Seoni,MP_Mandla
+1816,MP_Seoni,MP_Narsinghpur
+1817,MP_Shahdol,CT_Koriya
+1818,MP_Shahdol,MP_Anuppur
+1819,MP_Shahdol,MP_Satna
+1820,MP_Shahdol,MP_Sidhi
+1821,MP_Shahdol,MP_Umaria
+1822,MP_Shajapur,MP_Agar Malwa
+1823,MP_Shajapur,MP_Dewas
+1824,MP_Shajapur,MP_Rajgarh
+1825,MP_Shajapur,MP_Sehore
+1826,MP_Shajapur,MP_Ujjain
+1827,MP_Sheopur,MP_Morena
+1828,MP_Sheopur,MP_Shivpuri
+1829,MP_Sheopur,RJ_Baran
+1830,MP_Sheopur,RJ_Karauli
+1831,MP_Sheopur,RJ_Kota
+1832,MP_Sheopur,RJ_Sawai Madhopur
+1833,MP_Shivpuri,MP_Ashoknagar
+1834,MP_Shivpuri,MP_Datia
+1835,MP_Shivpuri,MP_Guna
+1836,MP_Shivpuri,MP_Gwalior
+1837,MP_Shivpuri,MP_Morena
+1838,MP_Shivpuri,MP_Sheopur
+1839,MP_Shivpuri,RJ_Baran
+1840,MP_Shivpuri,UP_Jhansi
+1841,MP_Shivpuri,UP_Lalitpur
+1842,MP_Sidhi,CT_Koriya
+1843,MP_Sidhi,MP_Rewa
+1844,MP_Sidhi,MP_Satna
+1845,MP_Sidhi,MP_Shahdol
+1846,MP_Sidhi,MP_Singrauli
+1847,MP_Singrauli,CT_Koriya
+1848,MP_Singrauli,CT_Surajpur
+1849,MP_Singrauli,MP_Rewa
+1850,MP_Singrauli,MP_Sidhi
+1851,MP_Singrauli,UP_Balrampur
+1852,MP_Singrauli,UP_Mirzapur
+1853,MP_Singrauli,UP_Sonbhadra
+1854,MP_Tikamgarh,MP_Chhatarpur
+1855,MP_Tikamgarh,UP_Jhansi
+1856,MP_Tikamgarh,UP_Lalitpur
+1857,MP_Ujjain,MP_Agar Malwa
+1858,MP_Ujjain,MP_Dewas
+1859,MP_Ujjain,MP_Dhar
+1860,MP_Ujjain,MP_Indore
+1861,MP_Ujjain,MP_Ratlam
+1862,MP_Ujjain,MP_Shajapur
+1863,MP_Umaria,MP_Anuppur
+1864,MP_Umaria,MP_Dindori
+1865,MP_Umaria,MP_Jabalpur
+1866,MP_Umaria,MP_Katni
+1867,MP_Umaria,MP_Satna
+1868,MP_Umaria,MP_Shahdol
+1869,MP_Vidisha,MP_Ashoknagar
+1870,MP_Vidisha,MP_Bhopal
+1871,MP_Vidisha,MP_Guna
+1872,MP_Vidisha,MP_Raisen
+1873,MP_Vidisha,MP_Sagar
+1874,MZ_Aizawl,MZ_Champhai
+1875,MZ_Aizawl,MZ_Kolasib
+1876,MZ_Aizawl,MZ_Lunglei
+1877,MZ_Aizawl,MZ_Mamit
+1878,MZ_Aizawl,MZ_Serchhip
+1879,MZ_Champhai,MZ_Aizawl
+1880,MZ_Champhai,MZ_Serchhip
+1881,MZ_Kolasib,MZ_Aizawl
+1882,MZ_Kolasib,MZ_Mamit
+1883,MZ_Lawngtlai,MZ_Lunglei
+1884,MZ_Lawngtlai,MZ_Saiha
+1885,MZ_Lunglei,MZ_Aizawl
+1886,MZ_Lunglei,MZ_Lawngtlai
+1887,MZ_Lunglei,MZ_Mamit
+1888,MZ_Lunglei,MZ_Serchhip
+1889,MZ_Mamit,MZ_Aizawl
+1890,MZ_Mamit,MZ_Kolasib
+1891,MZ_Mamit,MZ_Lunglei
+1892,MZ_Mamit,TR_North Tripura
+1893,MZ_Saiha,MZ_Lawngtlai
+1894,MZ_Serchhip,MZ_Aizawl
+1895,MZ_Serchhip,MZ_Champhai
+1896,MZ_Serchhip,MZ_Lunglei
+1897,NL_Dimapur,NL_Kohima
+1898,NL_Dimapur,NL_Peren
+1899,NL_Kiphire,NL_Phek
+1900,NL_Kiphire,NL_Tuensang
+1901,NL_Kiphire,NL_Zunheboto
+1902,NL_Kohima,NL_Dimapur
+1903,NL_Kohima,NL_Peren
+1904,NL_Kohima,NL_Phek
+1905,NL_Kohima,NL_Wokha
+1906,NL_Kohima,NL_Zunheboto
+1907,NL_Longleng,NL_Mokokchung
+1908,NL_Longleng,NL_Mon
+1909,NL_Longleng,NL_Tuensang
+1910,NL_Mokokchung,NL_Longleng
+1911,NL_Mokokchung,NL_Tuensang
+1912,NL_Mokokchung,NL_Wokha
+1913,NL_Mokokchung,NL_Zunheboto
+1914,NL_Mon,AR_Longding
+1915,NL_Mon,NL_Longleng
+1916,NL_Mon,NL_Tuensang
+1917,NL_Peren,NL_Dimapur
+1918,NL_Peren,NL_Kohima
+1919,NL_Phek,NL_Kiphire
+1920,NL_Phek,NL_Kohima
+1921,NL_Phek,NL_Zunheboto
+1922,NL_Tuensang,NL_Kiphire
+1923,NL_Tuensang,NL_Longleng
+1924,NL_Tuensang,NL_Mokokchung
+1925,NL_Tuensang,NL_Mon
+1926,NL_Tuensang,NL_Zunheboto
+1927,NL_Wokha,NL_Kohima
+1928,NL_Wokha,NL_Mokokchung
+1929,NL_Wokha,NL_Zunheboto
+1930,NL_Zunheboto,NL_Kiphire
+1931,NL_Zunheboto,NL_Kohima
+1932,NL_Zunheboto,NL_Mokokchung
+1933,NL_Zunheboto,NL_Phek
+1934,NL_Zunheboto,NL_Tuensang
+1935,NL_Zunheboto,NL_Wokha
+1936,OR_Angul,OR_Boudh
+1937,OR_Angul,OR_Cuttack
+1938,OR_Angul,OR_Deogarh
+1939,OR_Angul,OR_Dhenkanal
+1940,OR_Angul,OR_Kendujhar
+1941,OR_Angul,OR_Nayagarh
+1942,OR_Angul,OR_Sambalpur
+1943,OR_Angul,OR_Subarnapur
+1944,OR_Angul,OR_Sundargarh
+1945,OR_Balangir,OR_Bargarh
+1946,OR_Balangir,OR_Boudh
+1947,OR_Balangir,OR_Kalahandi
+1948,OR_Balangir,OR_Kandhamal
+1949,OR_Balangir,OR_Nuapada
+1950,OR_Balangir,OR_Subarnapur
+1951,OR_Balasore,OR_Bhadrak
+1952,OR_Balasore,OR_Kendujhar
+1953,OR_Balasore,OR_Mayurbhanj
+1954,OR_Balasore,WB_Jhargram
+1955,OR_Balasore,WB_Paschim Medinipur
+1956,OR_Balasore,WB_Purba Medinipur
+1957,OR_Bargarh,CT_Mahasamund
+1958,OR_Bargarh,CT_Raigarh
+1959,OR_Bargarh,OR_Balangir
+1960,OR_Bargarh,OR_Jharsuguda
+1961,OR_Bargarh,OR_Nuapada
+1962,OR_Bargarh,OR_Sambalpur
+1963,OR_Bargarh,OR_Subarnapur
+1964,OR_Bhadrak,OR_Balasore
+1965,OR_Bhadrak,OR_Jajpur
+1966,OR_Bhadrak,OR_Kendrapara
+1967,OR_Bhadrak,OR_Kendujhar
+1968,OR_Boudh,OR_Angul
+1969,OR_Boudh,OR_Balangir
+1970,OR_Boudh,OR_Kandhamal
+1971,OR_Boudh,OR_Nayagarh
+1972,OR_Boudh,OR_Subarnapur
+1973,OR_Cuttack,OR_Angul
+1974,OR_Cuttack,OR_Dhenkanal
+1975,OR_Cuttack,OR_Jagatsinghpur
+1976,OR_Cuttack,OR_Jajpur
+1977,OR_Cuttack,OR_Kendrapara
+1978,OR_Cuttack,OR_Khordha
+1979,OR_Cuttack,OR_Nayagarh
+1980,OR_Cuttack,OR_Puri
+1981,OR_Deogarh,OR_Angul
+1982,OR_Deogarh,OR_Sambalpur
+1983,OR_Deogarh,OR_Sundargarh
+1984,OR_Dhenkanal,OR_Angul
+1985,OR_Dhenkanal,OR_Cuttack
+1986,OR_Dhenkanal,OR_Jajpur
+1987,OR_Dhenkanal,OR_Kendujhar
+1988,OR_Gajapati,AP_Srikakulam
+1989,OR_Gajapati,OR_Ganjam
+1990,OR_Gajapati,OR_Kandhamal
+1991,OR_Gajapati,OR_Rayagada
+1992,OR_Ganjam,AP_Srikakulam
+1993,OR_Ganjam,OR_Gajapati
+1994,OR_Ganjam,OR_Kandhamal
+1995,OR_Ganjam,OR_Khordha
+1996,OR_Ganjam,OR_Nayagarh
+1997,OR_Ganjam,OR_Puri
+1998,OR_Jagatsinghpur,OR_Cuttack
+1999,OR_Jagatsinghpur,OR_Kendrapara
+2000,OR_Jagatsinghpur,OR_Puri
+2001,OR_Jajpur,OR_Bhadrak
+2002,OR_Jajpur,OR_Cuttack
+2003,OR_Jajpur,OR_Dhenkanal
+2004,OR_Jajpur,OR_Kendrapara
+2005,OR_Jajpur,OR_Kendujhar
+2006,OR_Jharsuguda,CT_Raigarh
+2007,OR_Jharsuguda,OR_Bargarh
+2008,OR_Jharsuguda,OR_Sambalpur
+2009,OR_Jharsuguda,OR_Sundargarh
+2010,OR_Kalahandi,CT_Gariaband
+2011,OR_Kalahandi,OR_Balangir
+2012,OR_Kalahandi,OR_Kandhamal
+2013,OR_Kalahandi,OR_Koraput
+2014,OR_Kalahandi,OR_Nabarangapur
+2015,OR_Kalahandi,OR_Nuapada
+2016,OR_Kalahandi,OR_Rayagada
+2017,OR_Kandhamal,OR_Balangir
+2018,OR_Kandhamal,OR_Boudh
+2019,OR_Kandhamal,OR_Gajapati
+2020,OR_Kandhamal,OR_Ganjam
+2021,OR_Kandhamal,OR_Kalahandi
+2022,OR_Kandhamal,OR_Nayagarh
+2023,OR_Kandhamal,OR_Rayagada
+2024,OR_Kendrapara,OR_Bhadrak
+2025,OR_Kendrapara,OR_Cuttack
+2026,OR_Kendrapara,OR_Jagatsinghpur
+2027,OR_Kendrapara,OR_Jajpur
+2028,OR_Kendujhar,JH_West Singhbhum
+2029,OR_Kendujhar,OR_Angul
+2030,OR_Kendujhar,OR_Balasore
+2031,OR_Kendujhar,OR_Bhadrak
+2032,OR_Kendujhar,OR_Dhenkanal
+2033,OR_Kendujhar,OR_Jajpur
+2034,OR_Kendujhar,OR_Mayurbhanj
+2035,OR_Kendujhar,OR_Sundargarh
+2036,OR_Khordha,OR_Cuttack
+2037,OR_Khordha,OR_Ganjam
+2038,OR_Khordha,OR_Nayagarh
+2039,OR_Khordha,OR_Puri
+2040,OR_Koraput,AP_Visakhapatnam
+2041,OR_Koraput,AP_Vizianagaram
+2042,OR_Koraput,CT_Bastar
+2043,OR_Koraput,OR_Kalahandi
+2044,OR_Koraput,OR_Malkangiri
+2045,OR_Koraput,OR_Nabarangapur
+2046,OR_Koraput,OR_Rayagada
+2047,OR_Malkangiri,AP_East Godavari
+2048,OR_Malkangiri,AP_Visakhapatnam
+2049,OR_Malkangiri,CT_Bastar
+2050,OR_Malkangiri,CT_Sukma
+2051,OR_Malkangiri,OR_Koraput
+2052,OR_Mayurbhanj,JH_East Singhbhum
+2053,OR_Mayurbhanj,JH_West Singhbhum
+2054,OR_Mayurbhanj,OR_Balasore
+2055,OR_Mayurbhanj,OR_Kendujhar
+2056,OR_Mayurbhanj,WB_Jhargram
+2057,OR_Nabarangapur,CT_Bastar
+2058,OR_Nabarangapur,CT_Dhamtari
+2059,OR_Nabarangapur,CT_Gariaband
+2060,OR_Nabarangapur,CT_Kondagaon
+2061,OR_Nabarangapur,OR_Kalahandi
+2062,OR_Nabarangapur,OR_Koraput
+2063,OR_Nayagarh,OR_Angul
+2064,OR_Nayagarh,OR_Boudh
+2065,OR_Nayagarh,OR_Cuttack
+2066,OR_Nayagarh,OR_Ganjam
+2067,OR_Nayagarh,OR_Kandhamal
+2068,OR_Nayagarh,OR_Khordha
+2069,OR_Nuapada,CT_Gariaband
+2070,OR_Nuapada,CT_Mahasamund
+2071,OR_Nuapada,OR_Balangir
+2072,OR_Nuapada,OR_Bargarh
+2073,OR_Nuapada,OR_Kalahandi
+2074,OR_Puri,OR_Cuttack
+2075,OR_Puri,OR_Ganjam
+2076,OR_Puri,OR_Jagatsinghpur
+2077,OR_Puri,OR_Khordha
+2078,OR_Rayagada,AP_Srikakulam
+2079,OR_Rayagada,AP_Vizianagaram
+2080,OR_Rayagada,OR_Gajapati
+2081,OR_Rayagada,OR_Kalahandi
+2082,OR_Rayagada,OR_Kandhamal
+2083,OR_Rayagada,OR_Koraput
+2084,OR_Sambalpur,OR_Angul
+2085,OR_Sambalpur,OR_Bargarh
+2086,OR_Sambalpur,OR_Deogarh
+2087,OR_Sambalpur,OR_Jharsuguda
+2088,OR_Sambalpur,OR_Subarnapur
+2089,OR_Sambalpur,OR_Sundargarh
+2090,OR_Subarnapur,OR_Angul
+2091,OR_Subarnapur,OR_Balangir
+2092,OR_Subarnapur,OR_Bargarh
+2093,OR_Subarnapur,OR_Boudh
+2094,OR_Subarnapur,OR_Sambalpur
+2095,OR_Sundargarh,CT_Jashpur
+2096,OR_Sundargarh,CT_Raigarh
+2097,OR_Sundargarh,JH_Simdega
+2098,OR_Sundargarh,JH_West Singhbhum
+2099,OR_Sundargarh,OR_Angul
+2100,OR_Sundargarh,OR_Deogarh
+2101,OR_Sundargarh,OR_Jharsuguda
+2102,OR_Sundargarh,OR_Kendujhar
+2103,OR_Sundargarh,OR_Sambalpur
+2104,PB_Amritsar,PB_Gurdaspur
+2105,PB_Amritsar,PB_Kapurthala
+2106,PB_Amritsar,PB_Tarn Taran
+2107,PB_Barnala,PB_Bathinda
+2108,PB_Barnala,PB_Ludhiana
+2109,PB_Barnala,PB_Mansa
+2110,PB_Barnala,PB_Moga
+2111,PB_Barnala,PB_Sangrur
+2112,PB_Bathinda,HR_Sirsa
+2113,PB_Bathinda,PB_Barnala
+2114,PB_Bathinda,PB_Faridkot
+2115,PB_Bathinda,PB_Mansa
+2116,PB_Bathinda,PB_Moga
+2117,PB_Bathinda,PB_Sri Muktsar Sahib
+2118,PB_Faridkot,PB_Bathinda
+2119,PB_Faridkot,PB_Ferozepur
+2120,PB_Faridkot,PB_Moga
+2121,PB_Faridkot,PB_Sri Muktsar Sahib
+2122,PB_Fatehgarh Sahib,PB_Ludhiana
+2123,PB_Fatehgarh Sahib,PB_Patiala
+2124,PB_Fatehgarh Sahib,PB_Rupnagar
+2125,PB_Fatehgarh Sahib,PB_S.A.S. Nagar
+2126,PB_Fatehgarh Sahib,PB_Sangrur
+2127,PB_Fazilka,PB_Ferozepur
+2128,PB_Fazilka,PB_Sri Muktsar Sahib
+2129,PB_Fazilka,RJ_Ganganagar
+2130,PB_Fazilka,RJ_Hanumangarh
+2131,PB_Ferozepur,PB_Faridkot
+2132,PB_Ferozepur,PB_Fazilka
+2133,PB_Ferozepur,PB_Jalandhar
+2134,PB_Ferozepur,PB_Kapurthala
+2135,PB_Ferozepur,PB_Moga
+2136,PB_Ferozepur,PB_Sri Muktsar Sahib
+2137,PB_Ferozepur,PB_Tarn Taran
+2138,PB_Gurdaspur,HP_Kangra
+2139,PB_Gurdaspur,PB_Amritsar
+2140,PB_Gurdaspur,PB_Hoshiarpur
+2141,PB_Gurdaspur,PB_Kapurthala
+2142,PB_Gurdaspur,PB_Pathankot
+2143,PB_Hoshiarpur,HP_Kangra
+2144,PB_Hoshiarpur,HP_Una
+2145,PB_Hoshiarpur,PB_Gurdaspur
+2146,PB_Hoshiarpur,PB_Jalandhar
+2147,PB_Hoshiarpur,PB_Kapurthala
+2148,PB_Hoshiarpur,PB_Rupnagar
+2149,PB_Hoshiarpur,PB_Shahid Bhagat Singh Nagar
+2150,PB_Jalandhar,PB_Ferozepur
+2151,PB_Jalandhar,PB_Hoshiarpur
+2152,PB_Jalandhar,PB_Kapurthala
+2153,PB_Jalandhar,PB_Ludhiana
+2154,PB_Jalandhar,PB_Moga
+2155,PB_Jalandhar,PB_Shahid Bhagat Singh Nagar
+2156,PB_Kapurthala,PB_Amritsar
+2157,PB_Kapurthala,PB_Ferozepur
+2158,PB_Kapurthala,PB_Gurdaspur
+2159,PB_Kapurthala,PB_Hoshiarpur
+2160,PB_Kapurthala,PB_Jalandhar
+2161,PB_Kapurthala,PB_Shahid Bhagat Singh Nagar
+2162,PB_Kapurthala,PB_Tarn Taran
+2163,PB_Ludhiana,PB_Barnala
+2164,PB_Ludhiana,PB_Fatehgarh Sahib
+2165,PB_Ludhiana,PB_Jalandhar
+2166,PB_Ludhiana,PB_Moga
+2167,PB_Ludhiana,PB_Rupnagar
+2168,PB_Ludhiana,PB_Sangrur
+2169,PB_Ludhiana,PB_Shahid Bhagat Singh Nagar
+2170,PB_Mansa,HR_Fatehabad
+2171,PB_Mansa,HR_Sirsa
+2172,PB_Mansa,PB_Barnala
+2173,PB_Mansa,PB_Bathinda
+2174,PB_Mansa,PB_Sangrur
+2175,PB_Moga,PB_Barnala
+2176,PB_Moga,PB_Bathinda
+2177,PB_Moga,PB_Faridkot
+2178,PB_Moga,PB_Ferozepur
+2179,PB_Moga,PB_Jalandhar
+2180,PB_Moga,PB_Ludhiana
+2181,PB_Pathankot,HP_Chamba
+2182,PB_Pathankot,HP_Kangra
+2183,PB_Pathankot,JK_Kathua
+2184,PB_Pathankot,PB_Gurdaspur
+2185,PB_Patiala,HR_Ambala
+2186,PB_Patiala,HR_Jind
+2187,PB_Patiala,HR_Kaithal
+2188,PB_Patiala,HR_Kurukshetra
+2189,PB_Patiala,PB_Fatehgarh Sahib
+2190,PB_Patiala,PB_S.A.S. Nagar
+2191,PB_Patiala,PB_Sangrur
+2192,PB_Rupnagar,HP_Bilaspur
+2193,PB_Rupnagar,HP_Solan
+2194,PB_Rupnagar,HP_Una
+2195,PB_Rupnagar,PB_Fatehgarh Sahib
+2196,PB_Rupnagar,PB_Hoshiarpur
+2197,PB_Rupnagar,PB_Ludhiana
+2198,PB_Rupnagar,PB_S.A.S. Nagar
+2199,PB_Rupnagar,PB_Shahid Bhagat Singh Nagar
+2200,PB_S.A.S. Nagar,CH_Chandigarh
+2201,PB_S.A.S. Nagar,HP_Solan
+2202,PB_S.A.S. Nagar,HR_Ambala
+2203,PB_S.A.S. Nagar,HR_Panchkula
+2204,PB_S.A.S. Nagar,PB_Fatehgarh Sahib
+2205,PB_S.A.S. Nagar,PB_Patiala
+2206,PB_S.A.S. Nagar,PB_Rupnagar
+2207,PB_Sangrur,HR_Fatehabad
+2208,PB_Sangrur,HR_Jind
+2209,PB_Sangrur,PB_Barnala
+2210,PB_Sangrur,PB_Fatehgarh Sahib
+2211,PB_Sangrur,PB_Ludhiana
+2212,PB_Sangrur,PB_Mansa
+2213,PB_Sangrur,PB_Patiala
+2214,PB_Shahid Bhagat Singh Nagar,PB_Hoshiarpur
+2215,PB_Shahid Bhagat Singh Nagar,PB_Jalandhar
+2216,PB_Shahid Bhagat Singh Nagar,PB_Kapurthala
+2217,PB_Shahid Bhagat Singh Nagar,PB_Ludhiana
+2218,PB_Shahid Bhagat Singh Nagar,PB_Rupnagar
+2219,PB_Sri Muktsar Sahib,HR_Sirsa
+2220,PB_Sri Muktsar Sahib,PB_Bathinda
+2221,PB_Sri Muktsar Sahib,PB_Faridkot
+2222,PB_Sri Muktsar Sahib,PB_Fazilka
+2223,PB_Sri Muktsar Sahib,PB_Ferozepur
+2224,PB_Sri Muktsar Sahib,RJ_Hanumangarh
+2225,PB_Tarn Taran,PB_Amritsar
+2226,PB_Tarn Taran,PB_Ferozepur
+2227,PB_Tarn Taran,PB_Kapurthala
+2228,PY_Karaikal,TN_Nagapattinam
+2229,PY_Karaikal,TN_Thiruvarur
+2230,PY_Mahe,KL_Kannur
+2231,PY_Mahe,KL_Kozhikode
+2232,PY_Puducherry,TN_Cuddalore
+2233,PY_Puducherry,TN_Viluppuram
+2234,RJ_Ajmer,RJ_Bhilwara
+2235,RJ_Ajmer,RJ_Jaipur
+2236,RJ_Ajmer,RJ_Nagaur
+2237,RJ_Ajmer,RJ_Pali
+2238,RJ_Ajmer,RJ_Rajsamand
+2239,RJ_Ajmer,RJ_Tonk
+2240,RJ_Alwar,HR_Mahendragarh
+2241,RJ_Alwar,HR_Nuh
+2242,RJ_Alwar,HR_Rewari
+2243,RJ_Alwar,RJ_Bharatpur
+2244,RJ_Alwar,RJ_Dausa
+2245,RJ_Alwar,RJ_Jaipur
+2246,RJ_Banswara,GJ_Dahod
+2247,RJ_Banswara,GJ_Mahisagar
+2248,RJ_Banswara,MP_Jhabua
+2249,RJ_Banswara,MP_Ratlam
+2250,RJ_Banswara,RJ_Dungarpur
+2251,RJ_Banswara,UP_Pratapgarh
+2252,RJ_Baran,MP_Guna
+2253,RJ_Baran,MP_Sheopur
+2254,RJ_Baran,MP_Shivpuri
+2255,RJ_Baran,RJ_Jhalawar
+2256,RJ_Baran,RJ_Kota
+2257,RJ_Barmer,GJ_Kutch
+2258,RJ_Barmer,RJ_Jaisalmer
+2259,RJ_Barmer,RJ_Jalore
+2260,RJ_Barmer,RJ_Jodhpur
+2261,RJ_Barmer,RJ_Pali
+2262,RJ_Bharatpur,HR_Nuh
+2263,RJ_Bharatpur,RJ_Alwar
+2264,RJ_Bharatpur,RJ_Dausa
+2265,RJ_Bharatpur,RJ_Dholpur
+2266,RJ_Bharatpur,RJ_Karauli
+2267,RJ_Bharatpur,UP_Agra
+2268,RJ_Bharatpur,UP_Mathura
+2269,RJ_Bhilwara,MP_Neemuch
+2270,RJ_Bhilwara,RJ_Ajmer
+2271,RJ_Bhilwara,RJ_Bundi
+2272,RJ_Bhilwara,RJ_Chittorgarh
+2273,RJ_Bhilwara,RJ_Rajsamand
+2274,RJ_Bhilwara,RJ_Tonk
+2275,RJ_Bikaner,RJ_Churu
+2276,RJ_Bikaner,RJ_Ganganagar
+2277,RJ_Bikaner,RJ_Hanumangarh
+2278,RJ_Bikaner,RJ_Jaisalmer
+2279,RJ_Bikaner,RJ_Jodhpur
+2280,RJ_Bikaner,RJ_Nagaur
+2281,RJ_Bundi,RJ_Bhilwara
+2282,RJ_Bundi,RJ_Chittorgarh
+2283,RJ_Bundi,RJ_Kota
+2284,RJ_Bundi,RJ_Sawai Madhopur
+2285,RJ_Bundi,RJ_Tonk
+2286,RJ_Chittorgarh,MP_Mandsaur
+2287,RJ_Chittorgarh,MP_Neemuch
+2288,RJ_Chittorgarh,RJ_Bhilwara
+2289,RJ_Chittorgarh,RJ_Bundi
+2290,RJ_Chittorgarh,RJ_Kota
+2291,RJ_Chittorgarh,RJ_Rajsamand
+2292,RJ_Chittorgarh,RJ_Udaipur
+2293,RJ_Chittorgarh,UP_Pratapgarh
+2294,RJ_Churu,HR_Bhiwani
+2295,RJ_Churu,RJ_Bikaner
+2296,RJ_Churu,RJ_Hanumangarh
+2297,RJ_Churu,RJ_Jhunjhunu
+2298,RJ_Churu,RJ_Nagaur
+2299,RJ_Churu,RJ_Sikar
+2300,RJ_Dausa,RJ_Alwar
+2301,RJ_Dausa,RJ_Bharatpur
+2302,RJ_Dausa,RJ_Jaipur
+2303,RJ_Dausa,RJ_Karauli
+2304,RJ_Dausa,RJ_Sawai Madhopur
+2305,RJ_Dausa,RJ_Tonk
+2306,RJ_Dholpur,MP_Morena
+2307,RJ_Dholpur,RJ_Bharatpur
+2308,RJ_Dholpur,RJ_Karauli
+2309,RJ_Dholpur,UP_Agra
+2310,RJ_Dungarpur,GJ_Aravalli
+2311,RJ_Dungarpur,GJ_Mahisagar
+2312,RJ_Dungarpur,RJ_Banswara
+2313,RJ_Dungarpur,RJ_Udaipur
+2314,RJ_Dungarpur,UP_Pratapgarh
+2315,RJ_Ganganagar,PB_Fazilka
+2316,RJ_Ganganagar,RJ_Bikaner
+2317,RJ_Ganganagar,RJ_Hanumangarh
+2318,RJ_Hanumangarh,HR_Bhiwani
+2319,RJ_Hanumangarh,HR_Fatehabad
+2320,RJ_Hanumangarh,HR_Hisar
+2321,RJ_Hanumangarh,HR_Sirsa
+2322,RJ_Hanumangarh,PB_Fazilka
+2323,RJ_Hanumangarh,PB_Sri Muktsar Sahib
+2324,RJ_Hanumangarh,RJ_Bikaner
+2325,RJ_Hanumangarh,RJ_Churu
+2326,RJ_Hanumangarh,RJ_Ganganagar
+2327,RJ_Jaipur,HR_Mahendragarh
+2328,RJ_Jaipur,RJ_Ajmer
+2329,RJ_Jaipur,RJ_Alwar
+2330,RJ_Jaipur,RJ_Dausa
+2331,RJ_Jaipur,RJ_Nagaur
+2332,RJ_Jaipur,RJ_Sikar
+2333,RJ_Jaipur,RJ_Tonk
+2334,RJ_Jaisalmer,RJ_Barmer
+2335,RJ_Jaisalmer,RJ_Bikaner
+2336,RJ_Jaisalmer,RJ_Jodhpur
+2337,RJ_Jalore,GJ_Banaskantha
+2338,RJ_Jalore,GJ_Kutch
+2339,RJ_Jalore,RJ_Barmer
+2340,RJ_Jalore,RJ_Pali
+2341,RJ_Jalore,RJ_Sirohi
+2342,RJ_Jhalawar,MP_Agar Malwa
+2343,RJ_Jhalawar,MP_Guna
+2344,RJ_Jhalawar,MP_Mandsaur
+2345,RJ_Jhalawar,MP_Rajgarh
+2346,RJ_Jhalawar,MP_Ratlam
+2347,RJ_Jhalawar,RJ_Baran
+2348,RJ_Jhalawar,RJ_Kota
+2349,RJ_Jhunjhunu,HR_Bhiwani
+2350,RJ_Jhunjhunu,HR_Mahendragarh
+2351,RJ_Jhunjhunu,RJ_Churu
+2352,RJ_Jhunjhunu,RJ_Sikar
+2353,RJ_Jodhpur,RJ_Barmer
+2354,RJ_Jodhpur,RJ_Bikaner
+2355,RJ_Jodhpur,RJ_Jaisalmer
+2356,RJ_Jodhpur,RJ_Nagaur
+2357,RJ_Jodhpur,RJ_Pali
+2358,RJ_Karauli,MP_Morena
+2359,RJ_Karauli,MP_Sheopur
+2360,RJ_Karauli,RJ_Bharatpur
+2361,RJ_Karauli,RJ_Dausa
+2362,RJ_Karauli,RJ_Dholpur
+2363,RJ_Karauli,RJ_Sawai Madhopur
+2364,RJ_Kota,MP_Mandsaur
+2365,RJ_Kota,MP_Sheopur
+2366,RJ_Kota,RJ_Baran
+2367,RJ_Kota,RJ_Bundi
+2368,RJ_Kota,RJ_Chittorgarh
+2369,RJ_Kota,RJ_Jhalawar
+2370,RJ_Kota,RJ_Sawai Madhopur
+2371,RJ_Nagaur,RJ_Ajmer
+2372,RJ_Nagaur,RJ_Bikaner
+2373,RJ_Nagaur,RJ_Churu
+2374,RJ_Nagaur,RJ_Jaipur
+2375,RJ_Nagaur,RJ_Jodhpur
+2376,RJ_Nagaur,RJ_Pali
+2377,RJ_Nagaur,RJ_Sikar
+2378,RJ_Pali,RJ_Ajmer
+2379,RJ_Pali,RJ_Barmer
+2380,RJ_Pali,RJ_Jalore
+2381,RJ_Pali,RJ_Jodhpur
+2382,RJ_Pali,RJ_Nagaur
+2383,RJ_Pali,RJ_Rajsamand
+2384,RJ_Pali,RJ_Sirohi
+2385,RJ_Pali,RJ_Udaipur
+2386,RJ_Rajsamand,RJ_Ajmer
+2387,RJ_Rajsamand,RJ_Bhilwara
+2388,RJ_Rajsamand,RJ_Chittorgarh
+2389,RJ_Rajsamand,RJ_Pali
+2390,RJ_Rajsamand,RJ_Udaipur
+2391,RJ_Sawai Madhopur,MP_Sheopur
+2392,RJ_Sawai Madhopur,RJ_Bundi
+2393,RJ_Sawai Madhopur,RJ_Dausa
+2394,RJ_Sawai Madhopur,RJ_Karauli
+2395,RJ_Sawai Madhopur,RJ_Kota
+2396,RJ_Sawai Madhopur,RJ_Tonk
+2397,RJ_Sikar,HR_Mahendragarh
+2398,RJ_Sikar,RJ_Churu
+2399,RJ_Sikar,RJ_Jaipur
+2400,RJ_Sikar,RJ_Jhunjhunu
+2401,RJ_Sikar,RJ_Nagaur
+2402,RJ_Sirohi,GJ_Banaskantha
+2403,RJ_Sirohi,GJ_Sabarkantha
+2404,RJ_Sirohi,RJ_Jalore
+2405,RJ_Sirohi,RJ_Pali
+2406,RJ_Sirohi,RJ_Udaipur
+2407,RJ_Tonk,RJ_Ajmer
+2408,RJ_Tonk,RJ_Bhilwara
+2409,RJ_Tonk,RJ_Bundi
+2410,RJ_Tonk,RJ_Dausa
+2411,RJ_Tonk,RJ_Jaipur
+2412,RJ_Tonk,RJ_Sawai Madhopur
+2413,RJ_Udaipur,GJ_Aravalli
+2414,RJ_Udaipur,GJ_Sabarkantha
+2415,RJ_Udaipur,RJ_Chittorgarh
+2416,RJ_Udaipur,RJ_Dungarpur
+2417,RJ_Udaipur,RJ_Pali
+2418,RJ_Udaipur,RJ_Rajsamand
+2419,RJ_Udaipur,RJ_Sirohi
+2420,RJ_Udaipur,UP_Pratapgarh
+2421,TN_Ariyalur,TN_Cuddalore
+2422,TN_Ariyalur,TN_Perambalur
+2423,TN_Ariyalur,TN_Thanjavur
+2424,TN_Ariyalur,TN_Tiruchirappalli
+2425,TN_Chennai,TN_Kancheepuram
+2426,TN_Chennai,TN_Thiruvallur
+2427,TN_Coimbatore,KL_Ernakulam
+2428,TN_Coimbatore,KL_Idukki
+2429,TN_Coimbatore,KL_Palakkad
+2430,TN_Coimbatore,KL_Thrissur
+2431,TN_Coimbatore,TN_Erode
+2432,TN_Coimbatore,TN_Nilgiris
+2433,TN_Coimbatore,TN_Tiruppur
+2434,TN_Cuddalore,PY_Puducherry
+2435,TN_Cuddalore,TN_Ariyalur
+2436,TN_Cuddalore,TN_Kallakurichi
+2437,TN_Cuddalore,TN_Nagapattinam
+2438,TN_Cuddalore,TN_Perambalur
+2439,TN_Cuddalore,TN_Thanjavur
+2440,TN_Cuddalore,TN_Viluppuram
+2441,TN_Dharmapuri,KA_Chamarajanagara
+2442,TN_Dharmapuri,TN_Erode
+2443,TN_Dharmapuri,TN_Kallakurichi
+2444,TN_Dharmapuri,TN_Krishnagiri
+2445,TN_Dharmapuri,TN_Salem
+2446,TN_Dharmapuri,TN_Tiruvannamalai
+2447,TN_Dindigul,KL_Idukki
+2448,TN_Dindigul,TN_Karur
+2449,TN_Dindigul,TN_Madurai
+2450,TN_Dindigul,TN_Theni
+2451,TN_Dindigul,TN_Tiruchirappalli
+2452,TN_Dindigul,TN_Tiruppur
+2453,TN_Erode,KA_Chamarajanagara
+2454,TN_Erode,TN_Coimbatore
+2455,TN_Erode,TN_Dharmapuri
+2456,TN_Erode,TN_Karur
+2457,TN_Erode,TN_Namakkal
+2458,TN_Erode,TN_Nilgiris
+2459,TN_Erode,TN_Salem
+2460,TN_Erode,TN_Tiruppur
+2461,TN_Kallakurichi,TN_Cuddalore
+2462,TN_Kallakurichi,TN_Dharmapuri
+2463,TN_Kallakurichi,TN_Perambalur
+2464,TN_Kallakurichi,TN_Salem
+2465,TN_Kallakurichi,TN_Tiruvannamalai
+2466,TN_Kallakurichi,TN_Viluppuram
+2467,TN_Kancheepuram,TN_Chennai
+2468,TN_Kancheepuram,TN_Thiruvallur
+2469,TN_Kancheepuram,TN_Tiruvannamalai
+2470,TN_Kancheepuram,TN_Vellore
+2471,TN_Kancheepuram,TN_Viluppuram
+2472,TN_Kanyakumari,KL_Thiruvananthapuram
+2473,TN_Kanyakumari,TN_Tirunelveli
+2474,TN_Karur,TN_Dindigul
+2475,TN_Karur,TN_Erode
+2476,TN_Karur,TN_Namakkal
+2477,TN_Karur,TN_Tiruchirappalli
+2478,TN_Karur,TN_Tiruppur
+2479,TN_Krishnagiri,AP_Chittoor
+2480,TN_Krishnagiri,KA_Bengaluru Rural
+2481,TN_Krishnagiri,KA_Bengaluru Urban
+2482,TN_Krishnagiri,KA_Chamarajanagara
+2483,TN_Krishnagiri,KA_Kolar
+2484,TN_Krishnagiri,KA_Ramanagara
+2485,TN_Krishnagiri,TN_Dharmapuri
+2486,TN_Krishnagiri,TN_Tiruvannamalai
+2487,TN_Krishnagiri,TN_Vellore
+2488,TN_Madurai,TN_Dindigul
+2489,TN_Madurai,TN_Sivaganga
+2490,TN_Madurai,TN_Theni
+2491,TN_Madurai,TN_Tiruchirappalli
+2492,TN_Madurai,TN_Virudhunagar
+2493,TN_Nagapattinam,PY_Karaikal
+2494,TN_Nagapattinam,TN_Cuddalore
+2495,TN_Nagapattinam,TN_Thanjavur
+2496,TN_Nagapattinam,TN_Thiruvarur
+2497,TN_Namakkal,TN_Erode
+2498,TN_Namakkal,TN_Karur
+2499,TN_Namakkal,TN_Salem
+2500,TN_Namakkal,TN_Tiruchirappalli
+2501,TN_Nilgiris,KA_Chamarajanagara
+2502,TN_Nilgiris,KL_Malappuram
+2503,TN_Nilgiris,KL_Palakkad
+2504,TN_Nilgiris,KL_Wayanad
+2505,TN_Nilgiris,TN_Coimbatore
+2506,TN_Nilgiris,TN_Erode
+2507,TN_Perambalur,TN_Ariyalur
+2508,TN_Perambalur,TN_Cuddalore
+2509,TN_Perambalur,TN_Kallakurichi
+2510,TN_Perambalur,TN_Salem
+2511,TN_Perambalur,TN_Tiruchirappalli
+2512,TN_Pudukkottai,TN_Ramanathapuram
+2513,TN_Pudukkottai,TN_Sivaganga
+2514,TN_Pudukkottai,TN_Thanjavur
+2515,TN_Pudukkottai,TN_Tiruchirappalli
+2516,TN_Ramanathapuram,TN_Pudukkottai
+2517,TN_Ramanathapuram,TN_Sivaganga
+2518,TN_Ramanathapuram,TN_Thoothukkudi
+2519,TN_Ramanathapuram,TN_Virudhunagar
+2520,TN_Salem,KA_Chamarajanagara
+2521,TN_Salem,TN_Dharmapuri
+2522,TN_Salem,TN_Erode
+2523,TN_Salem,TN_Kallakurichi
+2524,TN_Salem,TN_Namakkal
+2525,TN_Salem,TN_Perambalur
+2526,TN_Salem,TN_Tiruchirappalli
+2527,TN_Sivaganga,TN_Madurai
+2528,TN_Sivaganga,TN_Pudukkottai
+2529,TN_Sivaganga,TN_Ramanathapuram
+2530,TN_Sivaganga,TN_Tiruchirappalli
+2531,TN_Sivaganga,TN_Virudhunagar
+2532,TN_Thanjavur,TN_Ariyalur
+2533,TN_Thanjavur,TN_Cuddalore
+2534,TN_Thanjavur,TN_Nagapattinam
+2535,TN_Thanjavur,TN_Pudukkottai
+2536,TN_Thanjavur,TN_Thiruvarur
+2537,TN_Thanjavur,TN_Tiruchirappalli
+2538,TN_Theni,KL_Idukki
+2539,TN_Theni,TN_Dindigul
+2540,TN_Theni,TN_Madurai
+2541,TN_Theni,TN_Virudhunagar
+2542,TN_Thiruvallur,AP_Chittoor
+2543,TN_Thiruvallur,AP_S.P.S. Nellore
+2544,TN_Thiruvallur,TN_Chennai
+2545,TN_Thiruvallur,TN_Kancheepuram
+2546,TN_Thiruvallur,TN_Vellore
+2547,TN_Thiruvarur,PY_Karaikal
+2548,TN_Thiruvarur,TN_Nagapattinam
+2549,TN_Thiruvarur,TN_Thanjavur
+2550,TN_Thoothukkudi,TN_Ramanathapuram
+2551,TN_Thoothukkudi,TN_Tirunelveli
+2552,TN_Thoothukkudi,TN_Virudhunagar
+2553,TN_Tiruchirappalli,TN_Ariyalur
+2554,TN_Tiruchirappalli,TN_Dindigul
+2555,TN_Tiruchirappalli,TN_Karur
+2556,TN_Tiruchirappalli,TN_Madurai
+2557,TN_Tiruchirappalli,TN_Namakkal
+2558,TN_Tiruchirappalli,TN_Perambalur
+2559,TN_Tiruchirappalli,TN_Pudukkottai
+2560,TN_Tiruchirappalli,TN_Salem
+2561,TN_Tiruchirappalli,TN_Sivaganga
+2562,TN_Tiruchirappalli,TN_Thanjavur
+2563,TN_Tirunelveli,KL_Idukki
+2564,TN_Tirunelveli,KL_Kollam
+2565,TN_Tirunelveli,KL_Pathanamthitta
+2566,TN_Tirunelveli,KL_Thiruvananthapuram
+2567,TN_Tirunelveli,TN_Kanyakumari
+2568,TN_Tirunelveli,TN_Thoothukkudi
+2569,TN_Tirunelveli,TN_Virudhunagar
+2570,TN_Tiruppur,KL_Idukki
+2571,TN_Tiruppur,TN_Coimbatore
+2572,TN_Tiruppur,TN_Dindigul
+2573,TN_Tiruppur,TN_Erode
+2574,TN_Tiruppur,TN_Karur
+2575,TN_Tiruvannamalai,TN_Dharmapuri
+2576,TN_Tiruvannamalai,TN_Kallakurichi
+2577,TN_Tiruvannamalai,TN_Kancheepuram
+2578,TN_Tiruvannamalai,TN_Krishnagiri
+2579,TN_Tiruvannamalai,TN_Vellore
+2580,TN_Tiruvannamalai,TN_Viluppuram
+2581,TN_Vellore,AP_Chittoor
+2582,TN_Vellore,TN_Kancheepuram
+2583,TN_Vellore,TN_Krishnagiri
+2584,TN_Vellore,TN_Thiruvallur
+2585,TN_Vellore,TN_Tiruvannamalai
+2586,TN_Viluppuram,PY_Puducherry
+2587,TN_Viluppuram,TN_Cuddalore
+2588,TN_Viluppuram,TN_Kallakurichi
+2589,TN_Viluppuram,TN_Kancheepuram
+2590,TN_Viluppuram,TN_Tiruvannamalai
+2591,TN_Virudhunagar,KL_Idukki
+2592,TN_Virudhunagar,TN_Madurai
+2593,TN_Virudhunagar,TN_Ramanathapuram
+2594,TN_Virudhunagar,TN_Sivaganga
+2595,TN_Virudhunagar,TN_Theni
+2596,TN_Virudhunagar,TN_Thoothukkudi
+2597,TN_Virudhunagar,TN_Tirunelveli
+2598,TR_Dhalai,TR_Gomati
+2599,TR_Dhalai,TR_Khowai
+2600,TR_Dhalai,TR_North Tripura
+2601,TR_Dhalai,TR_Unokoti
+2602,TR_Gomati,TR_Dhalai
+2603,TR_Gomati,TR_Khowai
+2604,TR_Gomati,TR_Sipahijala
+2605,TR_Gomati,TR_South Tripura
+2606,TR_Khowai,TR_Dhalai
+2607,TR_Khowai,TR_Gomati
+2608,TR_Khowai,TR_Sipahijala
+2609,TR_Khowai,TR_West Tripura
+2610,TR_North Tripura,MZ_Mamit
+2611,TR_North Tripura,TR_Dhalai
+2612,TR_North Tripura,TR_Unokoti
+2613,TR_Sipahijala,TR_Gomati
+2614,TR_Sipahijala,TR_Khowai
+2615,TR_Sipahijala,TR_South Tripura
+2616,TR_Sipahijala,TR_West Tripura
+2617,TR_South Tripura,TR_Gomati
+2618,TR_South Tripura,TR_Sipahijala
+2619,TR_Unokoti,TR_Dhalai
+2620,TR_Unokoti,TR_North Tripura
+2621,TR_West Tripura,TR_Khowai
+2622,TR_West Tripura,TR_Sipahijala
+2623,UP_Agra,MP_Bhind
+2624,UP_Agra,MP_Morena
+2625,UP_Agra,RJ_Bharatpur
+2626,UP_Agra,RJ_Dholpur
+2627,UP_Agra,UP_Etah
+2628,UP_Agra,UP_Etawah
+2629,UP_Agra,UP_Firozabad
+2630,UP_Agra,UP_Hathras
+2631,UP_Agra,UP_Mathura
+2632,UP_Aligarh,HR_Palwal
+2633,UP_Aligarh,UP_Budaun
+2634,UP_Aligarh,UP_Bulandshahr
+2635,UP_Aligarh,UP_Gautam Buddha Nagar
+2636,UP_Aligarh,UP_Hathras
+2637,UP_Aligarh,UP_Kasganj
+2638,UP_Aligarh,UP_Mathura
+2639,UP_Aligarh,UP_Sambhal
+2640,UP_Ambedkar Nagar,UP_Ayodhya
+2641,UP_Ambedkar Nagar,UP_Azamgarh
+2642,UP_Ambedkar Nagar,UP_Basti
+2643,UP_Ambedkar Nagar,UP_Gorakhpur
+2644,UP_Ambedkar Nagar,UP_Sant Kabir Nagar
+2645,UP_Ambedkar Nagar,UP_Sultanpur
+2646,UP_Amethi,UP_Ayodhya
+2647,UP_Amethi,UP_Barabanki
+2648,UP_Amethi,UP_Pratapgarh
+2649,UP_Amethi,UP_Rae Bareli
+2650,UP_Amethi,UP_Sultanpur
+2651,UP_Amroha,UP_Bijnor
+2652,UP_Amroha,UP_Bulandshahr
+2653,UP_Amroha,UP_Hapur
+2654,UP_Amroha,UP_Meerut
+2655,UP_Amroha,UP_Moradabad
+2656,UP_Amroha,UP_Sambhal
+2657,UP_Auraiya,UP_Etawah
+2658,UP_Auraiya,UP_Jalaun
+2659,UP_Auraiya,UP_Kannauj
+2660,UP_Auraiya,UP_Kanpur Dehat
+2661,UP_Ayodhya,UP_Ambedkar Nagar
+2662,UP_Ayodhya,UP_Amethi
+2663,UP_Ayodhya,UP_Barabanki
+2664,UP_Ayodhya,UP_Basti
+2665,UP_Ayodhya,UP_Gonda
+2666,UP_Ayodhya,UP_Sultanpur
+2667,UP_Azamgarh,UP_Ambedkar Nagar
+2668,UP_Azamgarh,UP_Ghazipur
+2669,UP_Azamgarh,UP_Gorakhpur
+2670,UP_Azamgarh,UP_Jaunpur
+2671,UP_Azamgarh,UP_Mau
+2672,UP_Azamgarh,UP_Sultanpur
+2673,UP_Baghpat,HR_Panipat
+2674,UP_Baghpat,HR_Sonipat
+2675,UP_Baghpat,UP_Ghaziabad
+2676,UP_Baghpat,UP_Meerut
+2677,UP_Baghpat,UP_Muzaffarnagar
+2678,UP_Baghpat,UP_Shamli
+2679,UP_Bahraich,UP_Barabanki
+2680,UP_Bahraich,UP_Gonda
+2681,UP_Bahraich,UP_Lakhimpur Kheri
+2682,UP_Bahraich,UP_Shrawasti
+2683,UP_Bahraich,UP_Sitapur
+2684,UP_Ballia,BR_Bhojpur
+2685,UP_Ballia,BR_Buxar
+2686,UP_Ballia,BR_Saran
+2687,UP_Ballia,BR_Siwan
+2688,UP_Ballia,UP_Deoria
+2689,UP_Ballia,UP_Ghazipur
+2690,UP_Ballia,UP_Mau
+2691,UP_Balrampur,UP_Gonda
+2692,UP_Balrampur,UP_Shrawasti
+2693,UP_Balrampur,UP_Siddharthnagar
+2694,UP_Banda,MP_Chhatarpur
+2695,UP_Banda,MP_Panna
+2696,UP_Banda,MP_Satna
+2697,UP_Banda,UP_Chitrakoot
+2698,UP_Banda,UP_Fatehpur
+2699,UP_Banda,UP_Hamirpur
+2700,UP_Banda,UP_Mahoba
+2701,UP_Barabanki,UP_Amethi
+2702,UP_Barabanki,UP_Ayodhya
+2703,UP_Barabanki,UP_Bahraich
+2704,UP_Barabanki,UP_Gonda
+2705,UP_Barabanki,UP_Lucknow
+2706,UP_Barabanki,UP_Rae Bareli
+2707,UP_Barabanki,UP_Sitapur
+2708,UP_Bareilly,UP_Budaun
+2709,UP_Bareilly,UP_Pilibhit
+2710,UP_Bareilly,UP_Rampur
+2711,UP_Bareilly,UP_Shahjahanpur
+2712,UP_Bareilly,UT_Udham Singh Nagar
+2713,UP_Basti,UP_Ambedkar Nagar
+2714,UP_Basti,UP_Ayodhya
+2715,UP_Basti,UP_Gonda
+2716,UP_Basti,UP_Sant Kabir Nagar
+2717,UP_Basti,UP_Siddharthnagar
+2718,UP_Bhadohi,UP_Jaunpur
+2719,UP_Bhadohi,UP_Mirzapur
+2720,UP_Bhadohi,UP_Prayagraj
+2721,UP_Bhadohi,UP_Varanasi
+2722,UP_Bijnor,UP_Amroha
+2723,UP_Bijnor,UP_Meerut
+2724,UP_Bijnor,UP_Moradabad
+2725,UP_Bijnor,UP_Muzaffarnagar
+2726,UP_Bijnor,UT_Haridwar
+2727,UP_Bijnor,UT_Nainital
+2728,UP_Bijnor,UT_Pauri Garhwal
+2729,UP_Bijnor,UT_Udham Singh Nagar
+2730,UP_Budaun,UP_Aligarh
+2731,UP_Budaun,UP_Bareilly
+2732,UP_Budaun,UP_Farrukhabad
+2733,UP_Budaun,UP_Kasganj
+2734,UP_Budaun,UP_Moradabad
+2735,UP_Budaun,UP_Rampur
+2736,UP_Budaun,UP_Sambhal
+2737,UP_Budaun,UP_Shahjahanpur
+2738,UP_Bulandshahr,UP_Aligarh
+2739,UP_Bulandshahr,UP_Amroha
+2740,UP_Bulandshahr,UP_Gautam Buddha Nagar
+2741,UP_Bulandshahr,UP_Hapur
+2742,UP_Bulandshahr,UP_Sambhal
+2743,UP_Chandauli,BR_Kaimur
+2744,UP_Chandauli,UP_Ghazipur
+2745,UP_Chandauli,UP_Mirzapur
+2746,UP_Chandauli,UP_Sonbhadra
+2747,UP_Chandauli,UP_Varanasi
+2748,UP_Chitrakoot,MP_Rewa
+2749,UP_Chitrakoot,MP_Satna
+2750,UP_Chitrakoot,UP_Banda
+2751,UP_Chitrakoot,UP_Fatehpur
+2752,UP_Chitrakoot,UP_Kaushambi
+2753,UP_Chitrakoot,UP_Prayagraj
+2754,UP_Deoria,BR_Gopalganj
+2755,UP_Deoria,BR_Siwan
+2756,UP_Deoria,UP_Ballia
+2757,UP_Deoria,UP_Gorakhpur
+2758,UP_Deoria,UP_Kushinagar
+2759,UP_Deoria,UP_Mau
+2760,UP_Etah,UP_Agra
+2761,UP_Etah,UP_Farrukhabad
+2762,UP_Etah,UP_Firozabad
+2763,UP_Etah,UP_Hathras
+2764,UP_Etah,UP_Kasganj
+2765,UP_Etah,UP_Mainpuri
+2766,UP_Etawah,MP_Bhind
+2767,UP_Etawah,UP_Agra
+2768,UP_Etawah,UP_Auraiya
+2769,UP_Etawah,UP_Firozabad
+2770,UP_Etawah,UP_Jalaun
+2771,UP_Etawah,UP_Kannauj
+2772,UP_Etawah,UP_Mainpuri
+2773,UP_Farrukhabad,UP_Budaun
+2774,UP_Farrukhabad,UP_Etah
+2775,UP_Farrukhabad,UP_Hardoi
+2776,UP_Farrukhabad,UP_Kannauj
+2777,UP_Farrukhabad,UP_Kasganj
+2778,UP_Farrukhabad,UP_Mainpuri
+2779,UP_Farrukhabad,UP_Shahjahanpur
+2780,UP_Fatehpur,UP_Banda
+2781,UP_Fatehpur,UP_Chitrakoot
+2782,UP_Fatehpur,UP_Hamirpur
+2783,UP_Fatehpur,UP_Kanpur Nagar
+2784,UP_Fatehpur,UP_Kaushambi
+2785,UP_Fatehpur,UP_Pratapgarh
+2786,UP_Fatehpur,UP_Rae Bareli
+2787,UP_Fatehpur,UP_Unnao
+2788,UP_Firozabad,UP_Agra
+2789,UP_Firozabad,UP_Etah
+2790,UP_Firozabad,UP_Etawah
+2791,UP_Firozabad,UP_Mainpuri
+2792,UP_Gautam Buddha Nagar,HR_Faridabad
+2793,UP_Gautam Buddha Nagar,HR_Palwal
+2794,UP_Gautam Buddha Nagar,UP_Aligarh
+2795,UP_Gautam Buddha Nagar,UP_Bulandshahr
+2796,UP_Gautam Buddha Nagar,UP_Ghaziabad
+2797,UP_Gautam Buddha Nagar,UP_Hapur
+2798,UP_Ghaziabad,UP_Baghpat
+2799,UP_Ghaziabad,UP_Gautam Buddha Nagar
+2800,UP_Ghaziabad,UP_Hapur
+2801,UP_Ghaziabad,UP_Meerut
+2802,UP_Ghazipur,BR_Buxar
+2803,UP_Ghazipur,BR_Kaimur
+2804,UP_Ghazipur,UP_Azamgarh
+2805,UP_Ghazipur,UP_Ballia
+2806,UP_Ghazipur,UP_Chandauli
+2807,UP_Ghazipur,UP_Jaunpur
+2808,UP_Ghazipur,UP_Mau
+2809,UP_Ghazipur,UP_Varanasi
+2810,UP_Gonda,UP_Ayodhya
+2811,UP_Gonda,UP_Bahraich
+2812,UP_Gonda,UP_Balrampur
+2813,UP_Gonda,UP_Barabanki
+2814,UP_Gonda,UP_Basti
+2815,UP_Gonda,UP_Shrawasti
+2816,UP_Gonda,UP_Siddharthnagar
+2817,UP_Gorakhpur,UP_Ambedkar Nagar
+2818,UP_Gorakhpur,UP_Azamgarh
+2819,UP_Gorakhpur,UP_Deoria
+2820,UP_Gorakhpur,UP_Kushinagar
+2821,UP_Gorakhpur,UP_Maharajganj
+2822,UP_Gorakhpur,UP_Mau
+2823,UP_Gorakhpur,UP_Sant Kabir Nagar
+2824,UP_Gorakhpur,UP_Siddharthnagar
+2825,UP_Hamirpur,UP_Banda
+2826,UP_Hamirpur,UP_Fatehpur
+2827,UP_Hamirpur,UP_Jalaun
+2828,UP_Hamirpur,UP_Jhansi
+2829,UP_Hamirpur,UP_Kanpur Dehat
+2830,UP_Hamirpur,UP_Kanpur Nagar
+2831,UP_Hamirpur,UP_Mahoba
+2832,UP_Hapur,UP_Amroha
+2833,UP_Hapur,UP_Bulandshahr
+2834,UP_Hapur,UP_Gautam Buddha Nagar
+2835,UP_Hapur,UP_Ghaziabad
+2836,UP_Hapur,UP_Meerut
+2837,UP_Hardoi,UP_Farrukhabad
+2838,UP_Hardoi,UP_Kannauj
+2839,UP_Hardoi,UP_Kanpur Nagar
+2840,UP_Hardoi,UP_Lakhimpur Kheri
+2841,UP_Hardoi,UP_Lucknow
+2842,UP_Hardoi,UP_Shahjahanpur
+2843,UP_Hardoi,UP_Sitapur
+2844,UP_Hardoi,UP_Unnao
+2845,UP_Hathras,UP_Agra
+2846,UP_Hathras,UP_Aligarh
+2847,UP_Hathras,UP_Etah
+2848,UP_Hathras,UP_Kasganj
+2849,UP_Hathras,UP_Mathura
+2850,UP_Jalaun,MP_Bhind
+2851,UP_Jalaun,UP_Auraiya
+2852,UP_Jalaun,UP_Etawah
+2853,UP_Jalaun,UP_Hamirpur
+2854,UP_Jalaun,UP_Jhansi
+2855,UP_Jalaun,UP_Kanpur Dehat
+2856,UP_Jaunpur,UP_Azamgarh
+2857,UP_Jaunpur,UP_Bhadohi
+2858,UP_Jaunpur,UP_Ghazipur
+2859,UP_Jaunpur,UP_Pratapgarh
+2860,UP_Jaunpur,UP_Prayagraj
+2861,UP_Jaunpur,UP_Sultanpur
+2862,UP_Jaunpur,UP_Varanasi
+2863,UP_Jhansi,MP_Bhind
+2864,UP_Jhansi,MP_Chhatarpur
+2865,UP_Jhansi,MP_Datia
+2866,UP_Jhansi,MP_Shivpuri
+2867,UP_Jhansi,MP_Tikamgarh
+2868,UP_Jhansi,UP_Hamirpur
+2869,UP_Jhansi,UP_Jalaun
+2870,UP_Jhansi,UP_Lalitpur
+2871,UP_Jhansi,UP_Mahoba
+2872,UP_Kannauj,UP_Auraiya
+2873,UP_Kannauj,UP_Etawah
+2874,UP_Kannauj,UP_Farrukhabad
+2875,UP_Kannauj,UP_Hardoi
+2876,UP_Kannauj,UP_Kanpur Dehat
+2877,UP_Kannauj,UP_Kanpur Nagar
+2878,UP_Kannauj,UP_Mainpuri
+2879,UP_Kanpur Dehat,UP_Auraiya
+2880,UP_Kanpur Dehat,UP_Hamirpur
+2881,UP_Kanpur Dehat,UP_Jalaun
+2882,UP_Kanpur Dehat,UP_Kannauj
+2883,UP_Kanpur Dehat,UP_Kanpur Nagar
+2884,UP_Kanpur Nagar,UP_Fatehpur
+2885,UP_Kanpur Nagar,UP_Hamirpur
+2886,UP_Kanpur Nagar,UP_Hardoi
+2887,UP_Kanpur Nagar,UP_Kannauj
+2888,UP_Kanpur Nagar,UP_Kanpur Dehat
+2889,UP_Kanpur Nagar,UP_Unnao
+2890,UP_Kasganj,UP_Aligarh
+2891,UP_Kasganj,UP_Budaun
+2892,UP_Kasganj,UP_Etah
+2893,UP_Kasganj,UP_Farrukhabad
+2894,UP_Kasganj,UP_Hathras
+2895,UP_Kaushambi,UP_Chitrakoot
+2896,UP_Kaushambi,UP_Fatehpur
+2897,UP_Kaushambi,UP_Pratapgarh
+2898,UP_Kaushambi,UP_Prayagraj
+2899,UP_Kaushambi,UP_Rae Bareli
+2900,UP_Kushinagar,BR_Gopalganj
+2901,UP_Kushinagar,BR_West Champaran
+2902,UP_Kushinagar,UP_Deoria
+2903,UP_Kushinagar,UP_Gorakhpur
+2904,UP_Kushinagar,UP_Maharajganj
+2905,UP_Lakhimpur Kheri,UP_Bahraich
+2906,UP_Lakhimpur Kheri,UP_Hardoi
+2907,UP_Lakhimpur Kheri,UP_Pilibhit
+2908,UP_Lakhimpur Kheri,UP_Shahjahanpur
+2909,UP_Lakhimpur Kheri,UP_Sitapur
+2910,UP_Lalitpur,MP_Ashoknagar
+2911,UP_Lalitpur,MP_Chhatarpur
+2912,UP_Lalitpur,MP_Datia
+2913,UP_Lalitpur,MP_Sagar
+2914,UP_Lalitpur,MP_Shivpuri
+2915,UP_Lalitpur,MP_Tikamgarh
+2916,UP_Lalitpur,UP_Jhansi
+2917,UP_Lucknow,UP_Barabanki
+2918,UP_Lucknow,UP_Hardoi
+2919,UP_Lucknow,UP_Rae Bareli
+2920,UP_Lucknow,UP_Sitapur
+2921,UP_Lucknow,UP_Unnao
+2922,UP_Maharajganj,BR_West Champaran
+2923,UP_Maharajganj,UP_Gorakhpur
+2924,UP_Maharajganj,UP_Kushinagar
+2925,UP_Maharajganj,UP_Siddharthnagar
+2926,UP_Mahoba,MP_Chhatarpur
+2927,UP_Mahoba,UP_Banda
+2928,UP_Mahoba,UP_Hamirpur
+2929,UP_Mahoba,UP_Jhansi
+2930,UP_Mainpuri,UP_Etah
+2931,UP_Mainpuri,UP_Etawah
+2932,UP_Mainpuri,UP_Farrukhabad
+2933,UP_Mainpuri,UP_Firozabad
+2934,UP_Mainpuri,UP_Kannauj
+2935,UP_Mathura,HR_Nuh
+2936,UP_Mathura,HR_Palwal
+2937,UP_Mathura,RJ_Bharatpur
+2938,UP_Mathura,UP_Agra
+2939,UP_Mathura,UP_Aligarh
+2940,UP_Mathura,UP_Hathras
+2941,UP_Mau,UP_Azamgarh
+2942,UP_Mau,UP_Ballia
+2943,UP_Mau,UP_Deoria
+2944,UP_Mau,UP_Ghazipur
+2945,UP_Mau,UP_Gorakhpur
+2946,UP_Meerut,UP_Amroha
+2947,UP_Meerut,UP_Baghpat
+2948,UP_Meerut,UP_Bijnor
+2949,UP_Meerut,UP_Ghaziabad
+2950,UP_Meerut,UP_Hapur
+2951,UP_Meerut,UP_Muzaffarnagar
+2952,UP_Mirzapur,MP_Rewa
+2953,UP_Mirzapur,MP_Singrauli
+2954,UP_Mirzapur,UP_Bhadohi
+2955,UP_Mirzapur,UP_Chandauli
+2956,UP_Mirzapur,UP_Prayagraj
+2957,UP_Mirzapur,UP_Sonbhadra
+2958,UP_Mirzapur,UP_Varanasi
+2959,UP_Moradabad,UP_Amroha
+2960,UP_Moradabad,UP_Bijnor
+2961,UP_Moradabad,UP_Budaun
+2962,UP_Moradabad,UP_Rampur
+2963,UP_Moradabad,UP_Sambhal
+2964,UP_Moradabad,UT_Udham Singh Nagar
+2965,UP_Muzaffarnagar,UP_Baghpat
+2966,UP_Muzaffarnagar,UP_Bijnor
+2967,UP_Muzaffarnagar,UP_Meerut
+2968,UP_Muzaffarnagar,UP_Saharanpur
+2969,UP_Muzaffarnagar,UP_Shamli
+2970,UP_Muzaffarnagar,UT_Haridwar
+2971,UP_Pilibhit,UP_Bareilly
+2972,UP_Pilibhit,UP_Lakhimpur Kheri
+2973,UP_Pilibhit,UP_Shahjahanpur
+2974,UP_Pilibhit,UT_Udham Singh Nagar
+2975,UP_Pratapgarh,MP_Mandsaur
+2976,UP_Pratapgarh,MP_Neemuch
+2977,UP_Pratapgarh,MP_Ratlam
+2978,UP_Pratapgarh,RJ_Banswara
+2979,UP_Pratapgarh,RJ_Chittorgarh
+2980,UP_Pratapgarh,RJ_Dungarpur
+2981,UP_Pratapgarh,RJ_Udaipur
+2982,UP_Prayagraj,MP_Rewa
+2983,UP_Prayagraj,UP_Bhadohi
+2984,UP_Prayagraj,UP_Chitrakoot
+2985,UP_Prayagraj,UP_Jaunpur
+2986,UP_Prayagraj,UP_Kaushambi
+2987,UP_Prayagraj,UP_Mirzapur
+2988,UP_Prayagraj,UP_Pratapgarh
+2989,UP_Rae Bareli,UP_Amethi
+2990,UP_Rae Bareli,UP_Barabanki
+2991,UP_Rae Bareli,UP_Fatehpur
+2992,UP_Rae Bareli,UP_Kaushambi
+2993,UP_Rae Bareli,UP_Lucknow
+2994,UP_Rae Bareli,UP_Pratapgarh
+2995,UP_Rae Bareli,UP_Unnao
+2996,UP_Rampur,UP_Bareilly
+2997,UP_Rampur,UP_Budaun
+2998,UP_Rampur,UP_Moradabad
+2999,UP_Rampur,UT_Udham Singh Nagar
+3000,UP_Saharanpur,HP_Sirmaur
+3001,UP_Saharanpur,HR_Karnal
+3002,UP_Saharanpur,HR_Yamunanagar
+3003,UP_Saharanpur,UP_Muzaffarnagar
+3004,UP_Saharanpur,UP_Shamli
+3005,UP_Saharanpur,UT_Dehradun
+3006,UP_Saharanpur,UT_Haridwar
+3007,UP_Sambhal,UP_Aligarh
+3008,UP_Sambhal,UP_Amroha
+3009,UP_Sambhal,UP_Budaun
+3010,UP_Sambhal,UP_Bulandshahr
+3011,UP_Sambhal,UP_Moradabad
+3012,UP_Sant Kabir Nagar,UP_Ambedkar Nagar
+3013,UP_Sant Kabir Nagar,UP_Basti
+3014,UP_Sant Kabir Nagar,UP_Gorakhpur
+3015,UP_Sant Kabir Nagar,UP_Siddharthnagar
+3016,UP_Shahjahanpur,UP_Bareilly
+3017,UP_Shahjahanpur,UP_Budaun
+3018,UP_Shahjahanpur,UP_Farrukhabad
+3019,UP_Shahjahanpur,UP_Hardoi
+3020,UP_Shahjahanpur,UP_Lakhimpur Kheri
+3021,UP_Shahjahanpur,UP_Pilibhit
+3022,UP_Shamli,HR_Karnal
+3023,UP_Shamli,HR_Panipat
+3024,UP_Shamli,UP_Baghpat
+3025,UP_Shamli,UP_Muzaffarnagar
+3026,UP_Shamli,UP_Saharanpur
+3027,UP_Shrawasti,UP_Bahraich
+3028,UP_Shrawasti,UP_Balrampur
+3029,UP_Shrawasti,UP_Gonda
+3030,UP_Siddharthnagar,UP_Balrampur
+3031,UP_Siddharthnagar,UP_Basti
+3032,UP_Siddharthnagar,UP_Gonda
+3033,UP_Siddharthnagar,UP_Gorakhpur
+3034,UP_Siddharthnagar,UP_Maharajganj
+3035,UP_Siddharthnagar,UP_Sant Kabir Nagar
+3036,UP_Sitapur,UP_Bahraich
+3037,UP_Sitapur,UP_Barabanki
+3038,UP_Sitapur,UP_Hardoi
+3039,UP_Sitapur,UP_Lakhimpur Kheri
+3040,UP_Sitapur,UP_Lucknow
+3041,UP_Sonbhadra,BR_Kaimur
+3042,UP_Sonbhadra,BR_Rohtas
+3043,UP_Sonbhadra,JH_Garhwa
+3044,UP_Sonbhadra,MP_Singrauli
+3045,UP_Sonbhadra,UP_Balrampur
+3046,UP_Sonbhadra,UP_Chandauli
+3047,UP_Sonbhadra,UP_Mirzapur
+3048,UP_Sultanpur,UP_Ambedkar Nagar
+3049,UP_Sultanpur,UP_Amethi
+3050,UP_Sultanpur,UP_Ayodhya
+3051,UP_Sultanpur,UP_Azamgarh
+3052,UP_Sultanpur,UP_Jaunpur
+3053,UP_Sultanpur,UP_Pratapgarh
+3054,UP_Unnao,UP_Fatehpur
+3055,UP_Unnao,UP_Hardoi
+3056,UP_Unnao,UP_Kanpur Nagar
+3057,UP_Unnao,UP_Lucknow
+3058,UP_Unnao,UP_Rae Bareli
+3059,UP_Varanasi,UP_Bhadohi
+3060,UP_Varanasi,UP_Chandauli
+3061,UP_Varanasi,UP_Ghazipur
+3062,UP_Varanasi,UP_Jaunpur
+3063,UP_Varanasi,UP_Mirzapur
+3064,UT_Almora,UT_Bageshwar
+3065,UT_Almora,UT_Chamoli
+3066,UT_Almora,UT_Champawat
+3067,UT_Almora,UT_Nainital
+3068,UT_Almora,UT_Pauri Garhwal
+3069,UT_Almora,UT_Pithoragarh
+3070,UT_Bageshwar,UT_Almora
+3071,UT_Bageshwar,UT_Chamoli
+3072,UT_Bageshwar,UT_Pithoragarh
+3073,UT_Chamoli,UT_Almora
+3074,UT_Chamoli,UT_Bageshwar
+3075,UT_Chamoli,UT_Pauri Garhwal
+3076,UT_Chamoli,UT_Pithoragarh
+3077,UT_Chamoli,UT_Rudraprayag
+3078,UT_Chamoli,UT_Uttarkashi
+3079,UT_Champawat,UT_Almora
+3080,UT_Champawat,UT_Nainital
+3081,UT_Champawat,UT_Pithoragarh
+3082,UT_Champawat,UT_Udham Singh Nagar
+3083,UT_Dehradun,HP_Shimla
+3084,UT_Dehradun,HP_Sirmaur
+3085,UT_Dehradun,UP_Saharanpur
+3086,UT_Dehradun,UT_Haridwar
+3087,UT_Dehradun,UT_Pauri Garhwal
+3088,UT_Dehradun,UT_Tehri Garhwal
+3089,UT_Dehradun,UT_Uttarkashi
+3090,UT_Haridwar,UP_Bijnor
+3091,UT_Haridwar,UP_Muzaffarnagar
+3092,UT_Haridwar,UP_Saharanpur
+3093,UT_Haridwar,UT_Dehradun
+3094,UT_Haridwar,UT_Pauri Garhwal
+3095,UT_Nainital,UP_Bijnor
+3096,UT_Nainital,UT_Almora
+3097,UT_Nainital,UT_Champawat
+3098,UT_Nainital,UT_Pauri Garhwal
+3099,UT_Nainital,UT_Udham Singh Nagar
+3100,UT_Pauri Garhwal,UP_Bijnor
+3101,UT_Pauri Garhwal,UT_Almora
+3102,UT_Pauri Garhwal,UT_Chamoli
+3103,UT_Pauri Garhwal,UT_Dehradun
+3104,UT_Pauri Garhwal,UT_Haridwar
+3105,UT_Pauri Garhwal,UT_Nainital
+3106,UT_Pauri Garhwal,UT_Rudraprayag
+3107,UT_Pauri Garhwal,UT_Tehri Garhwal
+3108,UT_Pithoragarh,UT_Almora
+3109,UT_Pithoragarh,UT_Bageshwar
+3110,UT_Pithoragarh,UT_Chamoli
+3111,UT_Pithoragarh,UT_Champawat
+3112,UT_Rudraprayag,UT_Chamoli
+3113,UT_Rudraprayag,UT_Pauri Garhwal
+3114,UT_Rudraprayag,UT_Tehri Garhwal
+3115,UT_Rudraprayag,UT_Uttarkashi
+3116,UT_Tehri Garhwal,UT_Dehradun
+3117,UT_Tehri Garhwal,UT_Pauri Garhwal
+3118,UT_Tehri Garhwal,UT_Rudraprayag
+3119,UT_Tehri Garhwal,UT_Uttarkashi
+3120,UT_Udham Singh Nagar,UP_Bareilly
+3121,UT_Udham Singh Nagar,UP_Bijnor
+3122,UT_Udham Singh Nagar,UP_Moradabad
+3123,UT_Udham Singh Nagar,UP_Pilibhit
+3124,UT_Udham Singh Nagar,UP_Rampur
+3125,UT_Udham Singh Nagar,UT_Champawat
+3126,UT_Udham Singh Nagar,UT_Nainital
+3127,UT_Uttarkashi,HP_Kinnaur
+3128,UT_Uttarkashi,HP_Shimla
+3129,UT_Uttarkashi,UT_Chamoli
+3130,UT_Uttarkashi,UT_Dehradun
+3131,UT_Uttarkashi,UT_Rudraprayag
+3132,UT_Uttarkashi,UT_Tehri Garhwal
+3133,WB_Alipurduar,WB_Cooch Behar
+3134,WB_Alipurduar,WB_Jalpaiguri
+3135,WB_Bankura,WB_Hooghly
+3136,WB_Bankura,WB_Jhargram
+3137,WB_Bankura,WB_Paschim Bardhaman
+3138,WB_Bankura,WB_Paschim Medinipur
+3139,WB_Bankura,WB_Purba Bardhaman
+3140,WB_Bankura,WB_Purulia
+3141,WB_Birbhum,JH_Dumka
+3142,WB_Birbhum,JH_Jamtara
+3143,WB_Birbhum,JH_Pakur
+3144,WB_Birbhum,WB_Murshidabad
+3145,WB_Birbhum,WB_Paschim Bardhaman
+3146,WB_Birbhum,WB_Purba Bardhaman
+3147,WB_Cooch Behar,WB_Alipurduar
+3148,WB_Cooch Behar,WB_Jalpaiguri
+3149,WB_Dakshin Dinajpur,WB_Malda
+3150,WB_Dakshin Dinajpur,WB_Uttar Dinajpur
+3151,WB_Darjeeling,BR_Kishanganj
+3152,WB_Darjeeling,WB_Jalpaiguri
+3153,WB_Darjeeling,WB_Kalimpong
+3154,WB_Darjeeling,WB_Uttar Dinajpur
+3155,WB_Hooghly,WB_Bankura
+3156,WB_Hooghly,WB_Howrah
+3157,WB_Hooghly,WB_Nadia
+3158,WB_Hooghly,WB_North 24 Parganas
+3159,WB_Hooghly,WB_Paschim Medinipur
+3160,WB_Hooghly,WB_Purba Bardhaman
+3161,WB_Howrah,WB_Hooghly
+3162,WB_Howrah,WB_Kolkata
+3163,WB_Howrah,WB_North 24 Parganas
+3164,WB_Howrah,WB_Paschim Medinipur
+3165,WB_Howrah,WB_Purba Medinipur
+3166,WB_Howrah,WB_South 24 Parganas
+3167,WB_Jalpaiguri,WB_Alipurduar
+3168,WB_Jalpaiguri,WB_Cooch Behar
+3169,WB_Jalpaiguri,WB_Darjeeling
+3170,WB_Jalpaiguri,WB_Kalimpong
+3171,WB_Jhargram,JH_East Singhbhum
+3172,WB_Jhargram,OR_Balasore
+3173,WB_Jhargram,OR_Mayurbhanj
+3174,WB_Jhargram,WB_Bankura
+3175,WB_Jhargram,WB_Paschim Medinipur
+3176,WB_Jhargram,WB_Purulia
+3177,WB_Kalimpong,WB_Darjeeling
+3178,WB_Kalimpong,WB_Jalpaiguri
+3179,WB_Kolkata,WB_Howrah
+3180,WB_Kolkata,WB_North 24 Parganas
+3181,WB_Kolkata,WB_South 24 Parganas
+3182,WB_Malda,BR_Katihar
+3183,WB_Malda,JH_Sahibganj
+3184,WB_Malda,WB_Dakshin Dinajpur
+3185,WB_Malda,WB_Murshidabad
+3186,WB_Malda,WB_Uttar Dinajpur
+3187,WB_Murshidabad,JH_Pakur
+3188,WB_Murshidabad,JH_Sahibganj
+3189,WB_Murshidabad,WB_Birbhum
+3190,WB_Murshidabad,WB_Malda
+3191,WB_Murshidabad,WB_Nadia
+3192,WB_Murshidabad,WB_Purba Bardhaman
+3193,WB_Nadia,WB_Hooghly
+3194,WB_Nadia,WB_Murshidabad
+3195,WB_Nadia,WB_North 24 Parganas
+3196,WB_Nadia,WB_Purba Bardhaman
+3197,WB_North 24 Parganas,WB_Hooghly
+3198,WB_North 24 Parganas,WB_Howrah
+3199,WB_North 24 Parganas,WB_Kolkata
+3200,WB_North 24 Parganas,WB_Nadia
+3201,WB_North 24 Parganas,WB_South 24 Parganas
+3202,WB_Paschim Bardhaman,JH_Dhanbad
+3203,WB_Paschim Bardhaman,JH_Jamtara
+3204,WB_Paschim Bardhaman,WB_Bankura
+3205,WB_Paschim Bardhaman,WB_Birbhum
+3206,WB_Paschim Bardhaman,WB_Purba Bardhaman
+3207,WB_Paschim Bardhaman,WB_Purulia
+3208,WB_Paschim Medinipur,OR_Balasore
+3209,WB_Paschim Medinipur,WB_Bankura
+3210,WB_Paschim Medinipur,WB_Hooghly
+3211,WB_Paschim Medinipur,WB_Howrah
+3212,WB_Paschim Medinipur,WB_Jhargram
+3213,WB_Paschim Medinipur,WB_Purba Medinipur
+3214,WB_Purba Bardhaman,WB_Bankura
+3215,WB_Purba Bardhaman,WB_Birbhum
+3216,WB_Purba Bardhaman,WB_Hooghly
+3217,WB_Purba Bardhaman,WB_Murshidabad
+3218,WB_Purba Bardhaman,WB_Nadia
+3219,WB_Purba Bardhaman,WB_Paschim Bardhaman
+3220,WB_Purba Medinipur,OR_Balasore
+3221,WB_Purba Medinipur,WB_Howrah
+3222,WB_Purba Medinipur,WB_Paschim Medinipur
+3223,WB_Purba Medinipur,WB_South 24 Parganas
+3224,WB_Purulia,JH_Bokaro
+3225,WB_Purulia,JH_Dhanbad
+3226,WB_Purulia,JH_East Singhbhum
+3227,WB_Purulia,JH_Ramgarh
+3228,WB_Purulia,JH_Ranchi
+3229,WB_Purulia,WB_Bankura
+3230,WB_Purulia,WB_Jhargram
+3231,WB_Purulia,WB_Paschim Bardhaman
+3232,WB_South 24 Parganas,WB_Howrah
+3233,WB_South 24 Parganas,WB_Kolkata
+3234,WB_South 24 Parganas,WB_North 24 Parganas
+3235,WB_South 24 Parganas,WB_Purba Medinipur
+3236,WB_Uttar Dinajpur,BR_Katihar
+3237,WB_Uttar Dinajpur,BR_Kishanganj
+3238,WB_Uttar Dinajpur,BR_Purnia
+3239,WB_Uttar Dinajpur,WB_Dakshin Dinajpur
+3240,WB_Uttar Dinajpur,WB_Darjeeling
+3241,WB_Uttar Dinajpur,WB_Malda
